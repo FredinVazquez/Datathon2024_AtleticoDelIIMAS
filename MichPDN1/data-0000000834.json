@@ -1,0 +1,386 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "FONDOS DE INVERSIÓN"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OPR",
+                  "valor": "ORGANIZACIONES PRIVADAS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "SSI",
+                  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "VBU",
+                  "valor": "VALORES BURSÁTILES"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "BON",
+                  "valor": "BONOS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OTRO",
+                  "valor": "OTRO (ESPECIFIQUE)"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [
+              {
+                "nombreRazonSocial": "INEA",
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 6000
+                },
+                "tipoNegocio": "DOCENCIA"
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 6000
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoBienEnajenado": "INMUEBLE"
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoBienEnajenado": "VEHICULO"
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2020-12-31T00:00:00-0600",
+          "fechaIngreso": "2020-01-01T00:00:00-0600",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "MXN",
+            "valor": 126969
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "MXN",
+            "valor": 6000
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "MXN",
+            "valor": 120969
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "LICENCIATURA EN INNOVACION EDUCATIVA",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2019-06-13T00:00:00-0500",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD DE LA CIENEGA DEL ESTADO DE MICHOACAN DE OCAMPO",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIF MUNICIPAL",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "SIXTO VERDUZCO",
+            "codigoPostal": "59050",
+            "coloniaLocalidad": "LA FORESTAL",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "076",
+              "valor": "SAHUAYO"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "SECRETARIA B",
+          "fechaTomaPosesion": "2021-07-08T00:00:00-0500",
+          "funcionPrincipal": "ENCARGADA DEL PADRON DE ADULTOS MAYORES EN EL MUNICIPIO.",
+          "nivelEmpleoCargoComision": "00",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "DIF MUNICIPAL",
+          "telefonoOficina": {
+            "extension": "0",
+            "telefono": "3535328872"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "STEPHANIE DE JESÚS",
+          "primerApellido": "CÁRDENAS",
+          "segundoApellido": "VALDOVINOS"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoPublico": "ORGANISMOS_AUTONOMOS",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "SUPERVISION",
+              "empleoCargoComision": "SUPERVISORA Y ASESORA",
+              "fechaEgreso": "2013-12-30T00:00:00-0600",
+              "fechaIngreso": "2012-06-15T00:00:00-0500",
+              "funcionPrincipal": "SUPERVISION DE DOCENTES PARA ALFABETIZACION DE ADULTOS MAYORES EN EL MUNICIPIO DE SAHUAYO MICHOACAN",
+              "nivelOrdenGobierno": "ESTATAL",
+              "nombreEntePublico": "IMPEA",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "FONDOS DE INVERSIÓN"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OPR",
+                  "valor": "ORGANIZACIONES PRIVADAS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "SSI",
+                  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "VBU",
+                  "valor": "VALORES BURSÁTILES"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "BON",
+                  "valor": "BONOS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OTRO",
+                  "valor": "OTRO (ESPECIFIQUE)"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [
+              {
+                "nombreRazonSocial": "INEA",
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 500
+                },
+                "tipoNegocio": "DOCENCIA"
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 500
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 9192
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 500
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 8692
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "9qmwnpccp9",
+    "metadata": {
+      "actualizacion": "2021-07-08T14:12:23-0500",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE SAHUAYO MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

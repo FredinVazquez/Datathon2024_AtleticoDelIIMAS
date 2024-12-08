@@ -1,0 +1,281 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "LICENCIATURA EN PSICOLOGÍA",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2020-07-06T00:00:00-0500",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD DE GUADALAJARA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "PSICOLOGÍA",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "JUAREZ PONIENTE",
+            "codigoPostal": "58600",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "107",
+              "valor": "ZACAPU"
+            },
+            "numeroExterior": "767",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "PSICOLOGO",
+          "fechaTomaPosesion": "2021-06-24T00:00:00-0500",
+          "funcionPrincipal": "CONSULTA",
+          "nivelEmpleoCargoComision": "00",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "SISTEMA DIF MUNICIPAL",
+          "telefonoOficina": {
+            "extension": "1",
+            "telefono": "4363631221"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MARTHA NOHEMI",
+          "primerApellido": "VILLAGOMEZ",
+          "segundoApellido": "VALLE"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRI",
+                "valor": "PRIVADO"
+              },
+              "area": "INNOVACION EDUCATIVA",
+              "fechaEgreso": "2020-09-30T00:00:00-0500",
+              "fechaIngreso": "2019-01-07T00:00:00-0600",
+              "nombreEmpresaSociedadAsociacion": "FUNDACION RAFAEL DONDÉ IAP",
+              "puesto": "PSICÓLOGA",
+              "rfc": "",
+              "sector": {
+                "clave": "SERVPROF",
+                "valor": "SERVICIOS PROFESIONALES"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRI",
+                "valor": "PRIVADO"
+              },
+              "area": "DOCENCIA",
+              "fechaEgreso": "2021-06-16T00:00:00-0500",
+              "fechaIngreso": "2019-05-06T00:00:00-0500",
+              "nombreEmpresaSociedadAsociacion": "CENTRO DE ESTUDIOS ACADÉMICOS DE ZACAPU",
+              "puesto": "DOCENTE",
+              "rfc": "",
+              "sector": {
+                "clave": "SERVPROF",
+                "valor": "SERVICIOS PROFESIONALES"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRI",
+                "valor": "PRIVADO"
+              },
+              "area": "SALUD",
+              "fechaEgreso": "2021-06-01T00:00:00-0500",
+              "fechaIngreso": "2021-02-01T00:00:00-0600",
+              "nombreEmpresaSociedadAsociacion": "CENTRO MÉDICO ZACAPU",
+              "puesto": "PSICÓLOGA",
+              "rfc": "",
+              "sector": {
+                "clave": "SERVS",
+                "valor": "SERVICIOS DE SALUD"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "FONDOS DE INVERSIÓN"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OPR",
+                  "valor": "ORGANIZACIONES PRIVADAS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "SSI",
+                  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "VBU",
+                  "valor": "VALORES BURSÁTILES"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "BON",
+                  "valor": "BONOS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OTRO",
+                  "valor": "OTRO (ESPECIFIQUE)"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [
+              {
+                "nombreRazonSocial": "CENTRO DE ESTUDIOS ACADEMICOS DE ZACAPU",
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 1000
+                },
+                "tipoNegocio": "PRIVADO"
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 1000
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 7250
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 1250
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 6000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 250
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 250
+                },
+                "tipoServicio": "CONSULTA PSICOLÓGICA"
+              }
+            ]
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "16n9ubgsiu",
+    "metadata": {
+      "actualizacion": "2021-07-20T10:55:07-0500",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE ZACAPU MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

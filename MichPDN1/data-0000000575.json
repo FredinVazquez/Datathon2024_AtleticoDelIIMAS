@@ -1,0 +1,201 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2020-06-22T00:00:00-0500",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD PEDAGOGICA NACIONAL",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "NA",
+                "valor": "MAESTRIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "ESTACIONAMIENTO",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "20 NOVIEMBRE",
+            "codigoPostal": "58600",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "107",
+              "valor": "ZACAPU"
+            },
+            "numeroExterior": "S/N",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "AUXILIAR",
+          "fechaTomaPosesion": "2021-09-23T00:00:00-0500",
+          "funcionPrincipal": "ADMINISTRACIÓN , SUPERVISION",
+          "nivelEmpleoCargoComision": "00",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "ESTACIONAMIENTO MUNICIPAL",
+          "telefonoOficina": {
+            "extension": "0",
+            "telefono": "0"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ILSE ARELI",
+          "primerApellido": "ESPINOSA",
+          "segundoApellido": "MERCADO"
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "FONDOS DE INVERSIÓN"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OPR",
+                  "valor": "ORGANIZACIONES PRIVADAS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "SSI",
+                  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "VBU",
+                  "valor": "VALORES BURSÁTILES"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "BON",
+                  "valor": "BONOS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OTRO",
+                  "valor": "OTRO (ESPECIFIQUE)"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 9000
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 9000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "ryghbxl0jn",
+    "metadata": {
+      "actualizacion": "2021-10-06T13:27:05-0500",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE ZACAPU MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

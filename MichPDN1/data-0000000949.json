@@ -1,0 +1,242 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": false,
+      "interes": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "fideicomisos": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2023-12-31",
+          "fechaIngreso": "2022-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "MXN",
+            "valor": 110400
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "MXN",
+            "valor": 110400
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true,
+          "totalIngresosNetosAnuales": {
+            "moneda": "MXN",
+            "valor": 110400
+          }
+        },
+        "adeudos": {
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "sin carrera",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2009-07-16",
+              "institucionEducativa": {
+                "nombre": "secundaria.tecnica.numero.41",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "SEC",
+                "valor": "SECUNDARIA"
+              },
+              "tipoOperacion": "MODIFICAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "Dirección de Desarrollo Económico y Comercio",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "palacio municipal",
+            "ciudadLocalidad": "No especificado",
+            "codigoPostal": "60460",
+            "estadoProvincia": "No especificado",
+            "numeroExterior": "",
+            "numeroInterior": "s/n",
+            "pais": "MX"
+          },
+          "domicilioMexico": {
+            "calle": "palacio municipal",
+            "codigoPostal": "60460",
+            "coloniaLocalidad": "centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "083",
+              "valor": "Tancítaro"
+            },
+            "numeroExterior": "",
+            "numeroInterior": "s/n"
+          },
+          "empleoCargoComision": "AUXILIAR OPERATIVO DE DESARROLLO ECONÓMICO Y COMERCIO",
+          "fechaTomaPosesion": "2021-11-12",
+          "funcionPrincipal": "Otro (Especifique)",
+          "nivelEmpleoCargoComision": "12",
+          "nivelOrdenGobierno": "ESTATAL",
+          "nombreEntePublico": "Municipio de Tancítaro Michoacán",
+          "telefonoOficina": {
+            "extension": "1012",
+            "telefono": "4255915085"
+          },
+          "tipoOperacion": "MODIFICAR"
+        },
+        "datosGenerales": {
+          "nombre": "EDUARDO",
+          "primerApellido": "VILLASEÑOR",
+          "segundoApellido": "PAREDES"
+        },
+        "experienciaLaboral": {
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 100800
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 100800
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 100800
+          }
+        },
+        "inversiones": {
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "vom57fzy7a",
+    "metadata": {
+      "actualizacion": "2023-05-11T00:00:00Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "Municipio de Tancítaro Michoacán",
+      "tipo": "INICIAL"
+    }
+  }
+]

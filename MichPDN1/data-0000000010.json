@@ -1,0 +1,269 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": false,
+      "intereses": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "adeudos": {
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "DERECHO",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "1997-05-13",
+              "institucionEducativa": {
+                "nombre": "UMSNH",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOpeacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "CONTRALORIA MUNICIPAL",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "PALACIO MUNICIPAL",
+            "codigoPostal": "58460",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "001",
+              "valor": "ACUITZIO"
+            },
+            "numeroExterior": "S/N",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "AUXILIAR",
+          "fechaTomaPosesion": "2021-10-15",
+          "funcionPrincipal": "ATENCION AL PUBLICO, TRAMITES, MANEJO DE DOCUMENTOS",
+          "nivelEmpleoCargoComision": "00000",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "CONTRALORIA MUNICIPAL",
+          "telefonoOficina": {
+            "extension": "0",
+            "telefono": "4343882003"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "LAURA ALICIA",
+          "primerApellido": "ACUÑA",
+          "segundoApellido": "GOVEA"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "PRIVADO"
+              },
+              "area": "COBRANZA",
+              "fechaEgreso": "2020-06-05",
+              "fechaIngreso": "2014-09-14",
+              "nombreEmpresaSociedadAsociacion": "CAJA MORELIA VALLADOLID",
+              "puesto": "GESTOR DE COBRANZA",
+              "rfc": "",
+              "sector": {
+                "clave": "SERVFIN",
+                "valor": "SERVICIOS FINANCIEROS"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "FONDOS DE INVERSIÓN"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OPR",
+                  "valor": "ORGANIZACIONES PRIVADAS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "SSI",
+                  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "VBU",
+                  "valor": "VALORES BURSÁTILES"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "BON",
+                  "valor": "BONOS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OTRO",
+                  "valor": "OTRO (ESPECIFIQUE)"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 8200
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 8200
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 8200
+          }
+        },
+        "inversiones": {
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "i58new1n85",
+    "metadata": {
+      "actualizacion": "2021-12-21T11:55:00Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "ACUITZIO DEL CANJE",
+      "tipo": "INICIAL"
+    }
+  }
+]

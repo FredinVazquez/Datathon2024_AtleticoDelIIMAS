@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "LICENCIADO EN CRIMINALISTICA",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2021-05-07",
+              "institucionEducativa": {
+                "nombre": "CENTRODE ESTUDIOS SUPERIORES EN CIENCIAS JURIDICAS Y CRIMINOLOGIA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DESARROLLO SOCIAL",
+          "clasificacion": "Servidor[a] público[a] eventual",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "FRANCISCO JAVIER CLAVIJERO",
+            "codigoPostal": "58840",
+            "coloniaLocalidad": "Cuitzeo del Porvenir Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "020",
+              "valor": "Cuitzeo"
+            },
+            "numeroExterior": "1",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "AUXILIAR A",
+          "fechaTomaPosesion": "2022-10-18",
+          "funcionPrincipal": "AUXILIAR DE DIRECCION",
+          "nivelEmpleoCargoComision": "BASE",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "CUITZEO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4553570252"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "SERGIO",
+          "primerApellido": "ESPINOZA",
+          "segundoApellido": "OROZCO"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "IGNACIO ZARAGOZA",
+            "codigoPostal": "58843",
+            "coloniaLocalidad": "San Juan Benito Juárez (San Juan Tararameo)",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "020",
+              "valor": "Cuitzeo"
+            },
+            "numeroExterior": "39",
+            "numeroInterior": "B"
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 7730
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 7730
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 7730
+          }
+        }
+      }
+    },
+    "id": "1l0ja6nyfl",
+    "metadata": {
+      "actualizacion": "2022-12-13T21:19:32Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "CUITZEO",
+      "tipo": "INICIAL"
+    }
+  }
+]

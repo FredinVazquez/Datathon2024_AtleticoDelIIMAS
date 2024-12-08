@@ -1,0 +1,201 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "ADMINISTRACION",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2021-07-14T00:00:00-0500",
+              "institucionEducativa": {
+                "nombre": "UNICEN",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "CASA DE LA CULTURA",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "PLAZA CIVICA",
+            "codigoPostal": "58600",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "107",
+              "valor": "ZACAPU"
+            },
+            "numeroExterior": "S/N",
+            "numeroInterior": "0"
+          },
+          "empleoCargoComision": "AUXILIAR ADMINISTRATIVO",
+          "fechaTomaPosesion": "2021-09-09T00:00:00-0500",
+          "funcionPrincipal": "ADMINISTRATIVAS",
+          "nivelEmpleoCargoComision": "AUXILIAR",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "CASA DE LA CULTURA",
+          "telefonoOficina": {
+            "extension": "160",
+            "telefono": "4363631774"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "LUIS ANGEL",
+          "primerApellido": "MEDINA",
+          "segundoApellido": "BUZO"
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "FONDOS DE INVERSIÓN"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OPR",
+                  "valor": "ORGANIZACIONES PRIVADAS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "SSI",
+                  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "VBU",
+                  "valor": "VALORES BURSÁTILES"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "BON",
+                  "valor": "BONOS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OTRO",
+                  "valor": "OTRO (ESPECIFIQUE)"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 5500
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 5500
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "4wii8unwf2",
+    "metadata": {
+      "actualizacion": "2021-10-08T13:11:50-0500",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE ZACAPU MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

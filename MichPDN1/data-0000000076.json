@@ -1,0 +1,134 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "1995-06-20T00:00:00-0600",
+              "institucionEducativa": {
+                "nombre": "SECUNDARIA FEDERAL ANA MARIA GALLAGA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "SEC",
+                "valor": "SECUNDARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "OFICIALIA MAYOR",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "PALACIO MUNICIPAL",
+            "codigoPostal": "58360",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "037",
+              "valor": "HUANIQUEO"
+            },
+            "numeroExterior": "S/N"
+          },
+          "empleoCargoComision": "BIBLIOTECARIA",
+          "fechaTomaPosesion": "2022-07-15T00:00:00-0500",
+          "funcionPrincipal": "ATENCIÓN A ESTUDIANTES Y CONSERVACION DE LIBROS",
+          "nivelEmpleoCargoComision": "BIBLIOTECARIA B",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "MUNICIPIO DE HUANIQUEO",
+          "telefonoOficina": {
+            "telefono": "4543820368"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "EVANGELINA",
+          "primerApellido": "ALCARAZ",
+          "segundoApellido": "GALVAN"
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 6000
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 6000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "l8jxipdtp5",
+    "metadata": {
+      "actualizacion": "2022-10-10T09:27:52-0500",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE HUANIQUEO MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

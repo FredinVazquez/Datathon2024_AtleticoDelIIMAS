@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "Contaduria",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2022-07-13",
+              "institucionEducativa": {
+                "nombre": "Universidad de la Salle Bajio",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "Tesoreria",
+          "clasificacion": "Personal de confianza",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "PALACIO MUNICIPAL",
+            "codigoPostal": "59780",
+            "coloniaLocalidad": "Chilchota Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "025",
+              "valor": "Chilchota"
+            },
+            "numeroExterior": "0",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "ENCARGADA DE NOMINA",
+          "fechaTomaPosesion": "2023-01-01",
+          "funcionPrincipal": "Timbrado de nomina y pago de la misma",
+          "nivelEmpleoCargoComision": "C",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "CHILCHOTA",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "3555115218"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JIMENA",
+          "primerApellido": "MUNOZ",
+          "segundoApellido": "MORENO"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "Ramon Silva",
+            "codigoPostal": "59750",
+            "coloniaLocalidad": "Tangancícuaro de Arista Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "085",
+              "valor": "Tangancícuaro"
+            },
+            "numeroExterior": "237",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 13266
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 13266
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 13266
+          }
+        }
+      }
+    },
+    "id": "zzfldo8ue3",
+    "metadata": {
+      "actualizacion": "2023-04-24T17:10:30Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "CHILCHOTA",
+      "tipo": "INICIAL"
+    }
+  }
+]

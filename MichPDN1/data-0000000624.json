@@ -1,0 +1,230 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": false,
+      "interes": {
+        "apoyos": {
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true
+        },
+        "representacion": {
+          "ninguno": true
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "adeudos": {
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "BACHILLERATO",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2021-07-01",
+              "institucionEducativa": {
+                "nombre": "CECYTE NO. 15 ALVARO OBREGON",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosDependienteEconomico": {
+          "ninguno": true
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIRECCION DE REGLAMENTOS",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "AQUILES SERDAN",
+            "codigoPostal": "58920",
+            "coloniaLocalidad": "CENTRO ALVARO OBREGON",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "003",
+              "valor": "Álvaro Obregón"
+            },
+            "numeroExterior": "S/N"
+          },
+          "empleoCargoComision": "ENLACE",
+          "fechaTomaPosesion": "2022-09-01",
+          "funcionPrincipal": "ATENCION AL PUBLICO",
+          "nivelEmpleoCargoComision": "ADMINISTRATIVO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Álvaro Obregón",
+          "telefonoOficina": {},
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ANGELICA",
+          "primerApellido": "ALVAREZ",
+          "segundoApellido": "VEGA"
+        },
+        "datosPareja": {
+          "actividadLaboral": {
+            "clave": "PRI",
+            "valor": "PRIVADO"
+          },
+          "actividadLaboralSectorPrivadoOtro": {
+            "empleoCargoComision": "EMPLEADO",
+            "fechaIngreso": "2021-01-01",
+            "nombreEmpresaSociedadAsociacion": "CONSTRUCCION",
+            "proveedorContratistaGobierno": false,
+            "salarioMensualNeto": {
+              "moneda": "MXN",
+              "valor": 12000
+            },
+            "sector": {
+              "clave": "CONS",
+              "valor": "CONSTRUCCIÓN"
+            }
+          },
+          "ciudadanoExtranjero": false,
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "codigoPostal": "58920",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "003",
+              "valor": "Álvaro Obregón"
+            }
+          },
+          "esDependienteEconomico": false,
+          "fechaNacimiento": "2003-10-30",
+          "habitaDomicilioDeclarante": true,
+          "lugarDondeReside": "MEXICO",
+          "ninguno": false,
+          "nombre": "ALEJANDRO",
+          "primerApellido": "AYALA",
+          "relacionConDeclarante": "CONYUGE",
+          "segundoApellido": "GARNICA",
+          "tipoOperacion": "AGREGAR"
+        },
+        "domicilioDeclarante": {
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "CONOCIDO",
+            "codigoPostal": "58920",
+            "coloniaLocalidad": "TENENCIA LAZARO CARDENAS",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "003",
+              "valor": "Álvaro Obregón"
+            }
+          }
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "actividadIndustialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN"
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 3374
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 15374
+          }
+        },
+        "inversiones": {
+          "ninguno": true
+        },
+        "prestamoOComodato": {
+          "ninguno": true
+        },
+        "vehiculos": {
+          "ninguno": true
+        }
+      }
+    },
+    "id": "59yzvoeq9e",
+    "metadata": {
+      "actualizacion": "2023-05-28T19:02:51Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "Álvaro Obregón",
+      "tipo": "INICIAL"
+    }
+  }
+]

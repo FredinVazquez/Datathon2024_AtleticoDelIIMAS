@@ -1,0 +1,319 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": false,
+      "interes": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "adeudos": {
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "PEDAGOGIA",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2021-04-30",
+              "institucionEducativa": {
+                "nombre": "INSTITUTO MICHOACANO DE CIENCIAS DE LA EDUCACION JOSE MARIA MORELOS",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOpeacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "URBANISTICA Y OBRAS PUBLICAS",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "ALLENDE",
+            "codigoPostal": "61330",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "101",
+              "valor": "TZITZIO"
+            },
+            "numeroExterior": "S/N",
+            "numeroInterior": "S/N"
+          },
+          "empleoCargoComision": "AUXILIAR ADMINISTRIVO",
+          "fechaTomaPosesion": "2021-10-05",
+          "funcionPrincipal": "ARCHIVO, REALIZAR OFICIOS, CAPTURAR DATOS",
+          "nivelEmpleoCargoComision": "AUXILIAR ADMINISTRATIVO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Urbanística y Obras Públicas",
+          "telefonoOficina": {
+            "extension": "0",
+            "telefono": "4431303133"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MIRIAN",
+          "primerApellido": "GARCIA",
+          "segundoApellido": "RIOS"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PUBLICO"
+              },
+              "areaAdscripcion": "EDUCATIVO",
+              "empleoCargoComision": "LEC",
+              "fechaEgreso": "2017-12-20",
+              "fechaIngreso": "2017-10-15",
+              "funcionPrincipal": "MAESTRO COMUNITARIO",
+              "nivelOrdenGobierno": "FEDERAL",
+              "nombreEntePublico": "CONAFE",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PUBLICO"
+              },
+              "areaAdscripcion": "CONTRALORIA ESTATAL",
+              "empleoCargoComision": "AUXILIAR ADMINISTRATIVO",
+              "fechaEgreso": "2018-10-30",
+              "fechaIngreso": "2018-01-02",
+              "funcionPrincipal": "COBRO DE CATASTRO, PREDIALES, EXPEDICION DE LICENCIAS DE CONDUCIR",
+              "nivelOrdenGobierno": "ESTATAL",
+              "nombreEntePublico": "RECEPTORIA DE RENTAS",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "PRIVADO"
+              },
+              "area": "VENDEDORA",
+              "fechaEgreso": "2020-12-31",
+              "fechaIngreso": "2018-11-30",
+              "nombreEmpresaSociedadAsociacion": "VETERINARIA EL PASO",
+              "puesto": "VENDEDORA",
+              "rfc": "",
+              "sector": {
+                "clave": "CMENOR",
+                "valor": "COMERCIO AL POR MENOR"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "OTR",
+                "valor": "OTRO (ESPECIFIQUE)"
+              },
+              "area": "COMITE MUNICIPAL",
+              "fechaEgreso": "2021-07-15",
+              "fechaIngreso": "2020-11-20",
+              "nombreEmpresaSociedadAsociacion": "INSTITUTO ELECTORAL DE MICHOACAN",
+              "puesto": "CONSEJERA ELECTORAL",
+              "rfc": "",
+              "sector": {
+                "clave": "OTRO",
+                "valor": "OTRO (ESPECIFIQUE)"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "FONDOS DE INVERSIÓN"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OPR",
+                  "valor": "ORGANIZACIONES PRIVADAS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "SSI",
+                  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "VBU",
+                  "valor": "VALORES BURSÁTILES"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "BON",
+                  "valor": "BONOS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OTRO",
+                  "valor": "OTRO (ESPECIFIQUE)"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 7000
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 7000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 7000
+          }
+        },
+        "inversiones": {
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "vjisdanhpf",
+    "metadata": {
+      "actualizacion": "2021-10-11T13:11:43Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "AYUNTAMIENTO DE TZITZIO",
+      "tipo": "INICIAL"
+    }
+  }
+]

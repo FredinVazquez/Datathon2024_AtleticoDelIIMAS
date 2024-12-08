@@ -1,0 +1,178 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA SUPERIOR",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2023-07-15",
+              "institucionEducativa": {
+                "nombre": "CECYTE GUANAJUATO PLANTEL CORONEO",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SEGURIDAD PÚBLICA",
+          "clasificacion": "Empleado",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "Palacio Municipal",
+            "codigoPostal": "61000",
+            "coloniaLocalidad": "Epitacio Huerta",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "031",
+              "valor": "Epitacio Huerta"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "OFICIAL DE SEGURIDAD PÚBLICA",
+          "fechaTomaPosesion": "2023-09-21",
+          "funcionPrincipal": "ATENDER LOS REPORTES DE LA POBLACIÓN",
+          "nivelEmpleoCargoComision": "C-AUXILIAR",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "EPITACIO HUERTA",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4214540256"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ENID MARIAN",
+          "primerApellido": "CRUZ",
+          "segundoApellido": "CAMACHO"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "CONOCIDO, ANTES DEL CAMPO ABAJO Y DE LA CLÍNICA",
+            "codigoPostal": "61003",
+            "coloniaLocalidad": "San Miguel la Rata (San Andrés Salitrillo)",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "031",
+              "valor": "Epitacio Huerta"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "COCINA",
+              "fechaEgreso": "2023-09-18",
+              "fechaIngreso": "2023-08-20",
+              "nombreEmpresaSociedadAsociacion": "LULI & COCO",
+              "puesto": "COCINERA",
+              "rfc": "000000000000",
+              "sector": {
+                "clave": "CMENOR",
+                "valor": "COMERCIO AL POR MENOR"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 11200
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 11200
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 11200
+          }
+        }
+      }
+    },
+    "id": "vxv92vdhs1",
+    "metadata": {
+      "actualizacion": "2023-11-07T15:26:51Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "EPITACIO HUERTA",
+      "tipo": "INICIAL"
+    }
+  }
+]

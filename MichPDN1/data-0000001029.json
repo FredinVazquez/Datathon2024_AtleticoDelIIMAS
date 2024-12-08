@@ -1,0 +1,283 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": false,
+      "interes": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "adeudos": {
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "PEDAGOGIA",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2021-10-14",
+              "institucionEducativa": {
+                "nombre": "IMCED",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOpeacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIF MUNICIPAL",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "ALLENDE",
+            "codigoPostal": "61330",
+            "coloniaLocalidad": "TZITZIO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "101",
+              "valor": "TZITZIO"
+            },
+            "numeroExterior": "S/N",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "AUXILIAR ADMINISTRATIVO",
+          "fechaTomaPosesion": "2022-07-01",
+          "funcionPrincipal": "REALIZAR DOCUMENTACION ADMINISTRATIVA",
+          "nivelEmpleoCargoComision": "AUXILIAR",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Sistema DIF Municipal",
+          "telefonoOficina": {
+            "extension": "0",
+            "telefono": "4593530056"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ESMERALDA",
+          "primerApellido": "ZAVALA",
+          "segundoApellido": "ORTIZ"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PUBLICO"
+              },
+              "areaAdscripcion": "ADMINISTRATIVA",
+              "empleoCargoComision": "ACOMPAÑAMIENTO ACADEMICO",
+              "fechaEgreso": "2021-07-08",
+              "fechaIngreso": "2017-07-15",
+              "funcionPrincipal": "ATENCION A ALUMNOS Y A LECS",
+              "nivelOrdenGobierno": "FEDERAL",
+              "nombreEntePublico": "CONAFE",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PUBLICO"
+              },
+              "areaAdscripcion": "OPERATIVO",
+              "empleoCargoComision": "ENTREVISTADOR",
+              "fechaEgreso": "2020-04-30",
+              "fechaIngreso": "2020-02-01",
+              "funcionPrincipal": "CENSAR LAS VIVIENDAS EN EL MUNICIPIO DE TZITZIO",
+              "nivelOrdenGobierno": "FEDERAL",
+              "nombreEntePublico": "INEGI",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "FONDOS DE INVERSIÓN"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OPR",
+                  "valor": "ORGANIZACIONES PRIVADAS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "SSI",
+                  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "VBU",
+                  "valor": "VALORES BURSÁTILES"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "BON",
+                  "valor": "BONOS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OTRO",
+                  "valor": "OTRO (ESPECIFIQUE)"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 7204
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 7204
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 7204
+          }
+        },
+        "inversiones": {
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "dii98y315a",
+    "metadata": {
+      "actualizacion": "2022-07-06T13:45:41Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "AYUNTAMIENTO DE TZITZIO",
+      "tipo": "INICIAL"
+    }
+  }
+]

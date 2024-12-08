@@ -1,0 +1,219 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "ABOGADO",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2010-08-26T00:00:00-0500",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD DE GUADALAJARA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SECRETARIA DEL AYUNTAMIENTO",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "BOULEVARD LAZARO CARDENAS ESQUINA CONSTITUCION",
+            "codigoPostal": "59000",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "076",
+              "valor": "SAHUAYO"
+            },
+            "numeroExterior": "SIN NUMERO",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "AUXILIAR C",
+          "fechaTomaPosesion": "2021-09-01T00:00:00-0500",
+          "funcionPrincipal": "FUNCIONES ADMINISTRATIVAS",
+          "nivelEmpleoCargoComision": "00",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "SECRETARIA DEL H. AYUNTAMIENTO",
+          "telefonoOficina": {
+            "extension": "104",
+            "telefono": "3535320020"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MAYRA MARGARITA",
+          "primerApellido": "NAVARRO",
+          "segundoApellido": "MANZO"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "PROGRAMA PROSPERA",
+              "empleoCargoComision": "PROMOTOR SOCIAL",
+              "fechaEgreso": "2017-12-30T00:00:00-0600",
+              "fechaIngreso": "2016-12-15T00:00:00-0600",
+              "funcionPrincipal": "ATENCION AL PUBLICO Y REGISTRO A PROGRAMA",
+              "nivelOrdenGobierno": "FEDERAL",
+              "nombreEntePublico": "SECRETARIA DE DESARROLLO SOCIAL",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "FONDOS DE INVERSIÓN"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OPR",
+                  "valor": "ORGANIZACIONES PRIVADAS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "SSI",
+                  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "VBU",
+                  "valor": "VALORES BURSÁTILES"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "BON",
+                  "valor": "BONOS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OTRO",
+                  "valor": "OTRO (ESPECIFIQUE)"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 10760
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 10760
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "aeincovzwf",
+    "metadata": {
+      "actualizacion": "2021-09-29T09:51:26-0500",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE SAHUAYO MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

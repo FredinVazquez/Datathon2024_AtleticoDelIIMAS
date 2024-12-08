@@ -1,0 +1,242 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": false,
+      "interes": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "fideicomisos": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2020-01-01",
+          "fechaIngreso": "2020-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "",
+            "valor": 0
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true,
+          "totalIngresosNetosAnuales": {
+            "moneda": "",
+            "valor": 0
+          }
+        },
+        "adeudos": {
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "licenciatura en nutricion",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2021-12-18",
+              "institucionEducativa": {
+                "nombre": "Universidad Vizcaya de las Americas",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIF",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "Avenida Chiapas",
+            "ciudadLocalidad": "No especificado",
+            "codigoPostal": "60050",
+            "estadoProvincia": "No especificado",
+            "numeroExterior": "514",
+            "numeroInterior": "",
+            "pais": "MX"
+          },
+          "domicilioMexico": {
+            "calle": "Avenida Chiapas",
+            "codigoPostal": "60050",
+            "coloniaLocalidad": "ramon farias",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "102",
+              "valor": "Uruapan"
+            },
+            "numeroExterior": "514",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "NUTRIOLOGO",
+          "fechaTomaPosesion": "2021-09-18",
+          "funcionPrincipal": "Atención directa al público",
+          "nivelEmpleoCargoComision": "9",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Municipio de Uruapan Michoacán",
+          "telefonoOficina": {
+            "extension": "",
+            "telefono": ""
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JUAN PABLO",
+          "primerApellido": "DUEÑAS",
+          "segundoApellido": "MELGOZA"
+        },
+        "experienciaLaboral": {
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 7400
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 7400
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 7400
+          }
+        },
+        "inversiones": {
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "pxb9jp9cvp",
+    "metadata": {
+      "actualizacion": "2022-05-31T00:00:00Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "Municipio de Uruapan Michoacán",
+      "tipo": "INICIAL"
+    }
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2023-04-24",
+          "fechaIngreso": "2022-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "MXN",
+            "valor": 136000
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "MXN",
+            "valor": 136000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosNetosAnuales": {
+            "moneda": "MXN",
+            "valor": 136000
+          }
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2001-06-06",
+              "institucionEducativa": {
+                "nombre": "tele secundaria isla de la pacanda",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "SEC",
+                "valor": "SECUNDARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "seguridad publica",
+          "clasificacion": "Servidor(a) público(a)",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "portan independencia",
+            "codigoPostal": "58450",
+            "coloniaLocalidad": "Lagunillas",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "048",
+              "valor": "Lagunillas"
+            },
+            "numeroExterior": "25",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "POLICIA MUNICIPAL",
+          "fechaTomaPosesion": "2023-03-26",
+          "funcionPrincipal": "prevencion del delito",
+          "nivelEmpleoCargoComision": "RAZO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "LAGUNILLAS",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4341175880"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ANGEL",
+          "primerApellido": "DIEGO",
+          "segundoApellido": "GABRIEL"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "Isla Yunuen",
+            "codigoPostal": "61616",
+            "coloniaLocalidad": "Isla Yunuén",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "066",
+              "valor": "Pátzcuaro"
+            },
+            "numeroExterior": "sn",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "seguridad publica",
+              "empleoCargoComision": "policia municipal",
+              "fechaEgreso": "2023-04-24",
+              "fechaIngreso": "2022-01-01",
+              "funcionPrincipal": "prevencion del delito",
+              "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+              "nombreEntePublico": "H. Ayuntamiento de Taretan",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 136000
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 136000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 136000
+          }
+        }
+      }
+    },
+    "id": "qnkh803rsh",
+    "metadata": {
+      "actualizacion": "2023-05-22T17:38:46Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "LAGUNILLAS",
+      "tipo": "INICIAL"
+    }
+  }
+]

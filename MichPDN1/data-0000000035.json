@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN BÁSICA",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "1997-07-20",
+              "institucionEducativa": {
+                "nombre": "MELCHOR OCAMPO",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "PRI",
+                "valor": "PRIMARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIRECCION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO",
+          "clasificacion": "Servidor(a) público(a)",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "PALACIO MUNICIPAL",
+            "codigoPostal": "59780",
+            "coloniaLocalidad": "Chilchota Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "025",
+              "valor": "Chilchota"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "SN"
+          },
+          "empleoCargoComision": "FONTANERO",
+          "fechaTomaPosesion": "2023-03-16",
+          "funcionPrincipal": "FONTANERIA",
+          "nivelEmpleoCargoComision": "C",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "CHILCHOTA",
+          "telefonoOficina": {
+            "extension": "101",
+            "lada": "52",
+            "telefono": "3555115007"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JUAN",
+          "primerApellido": "HERRERA",
+          "segundoApellido": "PEÑA"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "argentina",
+            "codigoPostal": "59780",
+            "coloniaLocalidad": "Chilchota Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "025",
+              "valor": "Chilchota"
+            },
+            "numeroExterior": "9",
+            "numeroInterior": "SN"
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 691216
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 691216
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 691216
+          }
+        }
+      }
+    },
+    "id": "untqolc8n7",
+    "metadata": {
+      "actualizacion": "2023-04-12T15:35:00Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "CHILCHOTA",
+      "tipo": "INICIAL"
+    }
+  }
+]

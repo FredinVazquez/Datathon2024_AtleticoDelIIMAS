@@ -1,0 +1,188 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": false,
+      "interes": {
+        "apoyos": {
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true
+        },
+        "representacion": {
+          "ninguno": true
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "adeudos": {
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "LICENCIATURA EN FISIOTERAPIA",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2022-01-22",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD DE DURANGO",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosDependienteEconomico": {
+          "ninguno": true
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIF",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "AQUILES SERDAN",
+            "codigoPostal": "58920",
+            "coloniaLocalidad": "CENTRO ALVARO OBREGON",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "003",
+              "valor": "Álvaro Obregón"
+            },
+            "numeroExterior": "S/N"
+          },
+          "empleoCargoComision": "ENLACE",
+          "fechaTomaPosesion": "2022-02-03",
+          "funcionPrincipal": "ATENCION A PACIENTES",
+          "nivelEmpleoCargoComision": "FISIOTERAPISTA",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Álvaro Obregón",
+          "telefonoOficina": {},
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JESUS ERNESTO",
+          "primerApellido": "SOLIS",
+          "segundoApellido": "SILVA"
+        },
+        "datosPareja": {
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "FRANCISCO ARROYAVE",
+            "codigoPostal": "58080",
+            "coloniaLocalidad": "LEONA VICARIO MORELIA",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "053",
+              "valor": "Morelia"
+            },
+            "numeroExterior": "135"
+          }
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "actividadIndustialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN"
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN"
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 7650
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 7650
+          }
+        },
+        "inversiones": {
+          "ninguno": true
+        },
+        "prestamoOComodato": {
+          "ninguno": true
+        },
+        "vehiculos": {
+          "ninguno": true
+        }
+      }
+    },
+    "id": "t6xholrmcm",
+    "metadata": {
+      "actualizacion": "2023-05-24T17:27:37Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "Álvaro Obregón",
+      "tipo": "INICIAL"
+    }
+  }
+]

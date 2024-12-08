@@ -1,0 +1,395 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "FONDOS DE INVERSIÓN"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OPR",
+                  "valor": "ORGANIZACIONES PRIVADAS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "SSI",
+                  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "VBU",
+                  "valor": "VALORES BURSÁTILES"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "BON",
+                  "valor": "BONOS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OTRO",
+                  "valor": "OTRO (ESPECIFIQUE)"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoBienEnajenado": "INMUEBLE"
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoBienEnajenado": "VEHICULO"
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2020-12-31T00:00:00-0600",
+          "fechaIngreso": "2020-01-01T00:00:00-0600",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "MXN",
+            "valor": 161393
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "MXN",
+            "valor": 161393
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "PERITO EN CRIMINALISTICA",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2014-12-15T00:00:00-0600",
+              "institucionEducativa": {
+                "nombre": "INSTITUTO NACIONAL DE DESARROLLO JURIDICO AC",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "ESP",
+                "valor": "ESPECIALIDAD"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "TESORERÍA",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "BOULEVARD LAZARO CARDENAS ESQUINA CONSTITUCIÓN",
+            "codigoPostal": "59000",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "076",
+              "valor": "SAHUAYO"
+            },
+            "numeroExterior": "S/N",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "ASISTENTE A",
+          "fechaTomaPosesion": "2021-08-02T00:00:00-0500",
+          "funcionPrincipal": "ASESORÍA EN CONTRATOS Y CONVENIOS",
+          "nivelEmpleoCargoComision": "00",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "TESORERIA MUNICIPAL",
+          "telefonoOficina": {
+            "extension": "111",
+            "telefono": "3535320020"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "IVÁN GERARDO",
+          "primerApellido": "IBARRA",
+          "segundoApellido": "ZEPEDA"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "INSTITUTO DE LA JUVENTUD",
+              "empleoCargoComision": "DIRECTOR DEL INSTITUTO DE LA JUVENTUD",
+              "fechaEgreso": "2021-04-05T00:00:00-0500",
+              "fechaIngreso": "2016-01-20T00:00:00-0600",
+              "funcionPrincipal": "APOYO A JOVEN ES DENTRO DEL MUNICIPIO",
+              "nivelOrdenGobierno": "MUNICIPAL",
+              "nombreEntePublico": "H AYUNTAMIENTO DE SAHUAYO MICHOACÁN",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "MAS 65 APOYO A ADULTOS MAYORES",
+              "empleoCargoComision": "PROMOTOR",
+              "fechaEgreso": "2016-01-15T00:00:00-0600",
+              "fechaIngreso": "2012-05-16T00:00:00-0500",
+              "funcionPrincipal": "REALIZAR LOS PAGOS DEL ADULTO MAYOR E INSCRIPCIONES A LOS PROGRAMAS",
+              "nivelOrdenGobierno": "FEDERAL",
+              "nombreEntePublico": "SECRETARIA DE DESARROLLO SOCIAL",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRI",
+                "valor": "PRIVADO"
+              },
+              "area": "ADMINISTRATIVA",
+              "fechaEgreso": "2012-05-20T00:00:00-0500",
+              "fechaIngreso": "2010-10-15T00:00:00-0500",
+              "nombreEmpresaSociedadAsociacion": "GLAM BOUTIQUE",
+              "puesto": "PROPIETARIO",
+              "rfc": "",
+              "sector": {
+                "clave": "CMENOR",
+                "valor": "COMERCIO AL POR MENOR"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "FONDOS DE INVERSIÓN"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OPR",
+                  "valor": "ORGANIZACIONES PRIVADAS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "SSI",
+                  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "VBU",
+                  "valor": "VALORES BURSÁTILES"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "BON",
+                  "valor": "BONOS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OTRO",
+                  "valor": "OTRO (ESPECIFIQUE)"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 13808
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 13808
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "0j7l1t7z1r",
+    "metadata": {
+      "actualizacion": "2021-08-02T12:02:40-0500",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE SAHUAYO MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

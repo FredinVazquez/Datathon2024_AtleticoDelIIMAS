@@ -1,0 +1,242 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": false,
+      "interes": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "fideicomisos": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2020-01-01",
+          "fechaIngreso": "2020-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "",
+            "valor": 0
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true,
+          "totalIngresosNetosAnuales": {
+            "moneda": "",
+            "valor": 0
+          }
+        },
+        "adeudos": {
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "CONTABILIDAD",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2003-08-22",
+              "institucionEducativa": {
+                "nombre": "COLEGIO DE BACHILLERES DEL ESTADO DE MICHOACAN",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "ATENAS",
+            "ciudadLocalidad": "No especificado",
+            "codigoPostal": "60050",
+            "estadoProvincia": "No especificado",
+            "numeroExterior": "2248",
+            "numeroInterior": "S/N",
+            "pais": "MX"
+          },
+          "domicilioMexico": {
+            "calle": "ATENAS",
+            "codigoPostal": "60050",
+            "coloniaLocalidad": "LA JOYITA",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "102",
+              "valor": "Uruapan"
+            },
+            "numeroExterior": "2248",
+            "numeroInterior": "S/N"
+          },
+          "empleoCargoComision": "INSPECTOR DE URBANISMO",
+          "fechaTomaPosesion": "2022-02-01",
+          "funcionPrincipal": "Atención directa al público",
+          "nivelEmpleoCargoComision": "8",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Municipio de Uruapan Michoacán",
+          "telefonoOficina": {
+            "extension": "150",
+            "telefono": "4525237287"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ULICES",
+          "primerApellido": "CABALLERO",
+          "segundoApellido": "MORALES"
+        },
+        "experienciaLaboral": {
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 8146
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 8146
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 8146
+          }
+        },
+        "inversiones": {
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "601yjriz77",
+    "metadata": {
+      "actualizacion": "2022-05-30T00:00:00Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "Municipio de Uruapan Michoacán",
+      "tipo": "INICIAL"
+    }
+  }
+]

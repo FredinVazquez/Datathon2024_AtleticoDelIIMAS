@@ -1,0 +1,206 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2022-12-31T00:00:00-0600",
+          "fechaIngreso": "2022-06-15T00:00:00-0500",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "MXN",
+            "valor": 84000
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "MXN",
+            "valor": 84000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true,
+          "totalIngresosNetosAnuales": {
+            "moneda": "MXN",
+            "valor": 84000
+          }
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "DISENO DE INTERIORES Y PAISAJISMO",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2003-03-25T00:00:00-0600",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD AUTONOMA DE GUADALAJARA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIF MUNICIPAL",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "PALACIO MUNICIPAL",
+            "codigoPostal": "58760",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "070",
+              "valor": "PURÉPERO"
+            },
+            "numeroExterior": "0"
+          },
+          "empleoCargoComision": "DIRECTORA DEL DIF",
+          "fechaTomaPosesion": "2023-01-01T00:00:00-0600",
+          "funcionPrincipal": "DIRECTORA",
+          "nivelEmpleoCargoComision": "DIRECTORA",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "PUREPERO MICHOACAN",
+          "telefonoOficina": {
+            "telefono": "4713661449"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ITZIA MARIA",
+          "primerApellido": "NAREZ",
+          "segundoApellido": "AMEZCUA"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "JEFE DE CAMPO",
+              "empleoCargoComision": "JEFE DE CAMPO",
+              "fechaEgreso": "2022-12-31T00:00:00-0600",
+              "fechaIngreso": "2022-06-15T00:00:00-0500",
+              "funcionPrincipal": "ORGANIZACION Y SIPERVIION DE SENSORES",
+              "nivelOrdenGobierno": "FEDERAL",
+              "nombreEntePublico": "INEGI",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 60320
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 60320
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "i2nddpp9j7",
+    "metadata": {
+      "actualizacion": "2023-05-17T13:55:05-0600",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE PURÉPERO MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

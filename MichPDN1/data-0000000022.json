@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA",
+              "documentoObtenido": "BOLETA",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2003-07-30",
+              "institucionEducativa": {
+                "nombre": "JOSE VASCONSELOS",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "SEC",
+                "valor": "SECUNDARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "OBRAS PUBLICAS",
+          "clasificacion": "Otro",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "PINO SUAREZ",
+            "codigoPostal": "60820",
+            "coloniaLocalidad": "Villa Victoria",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "026",
+              "valor": "Chinicuila"
+            },
+            "numeroExterior": "04",
+            "numeroInterior": "SN"
+          },
+          "empleoCargoComision": "AUXILIAR DE MAQUINARIA",
+          "fechaTomaPosesion": "2022-10-16",
+          "funcionPrincipal": "AUXILIAR DE MAQUINARIA",
+          "nivelEmpleoCargoComision": "C",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "CHINICUILA",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4245742032"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MIGUEL",
+          "primerApellido": "ESTRADA",
+          "segundoApellido": "RUIZ"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "19 DE NOVIEMBRE",
+            "codigoPostal": "60820",
+            "coloniaLocalidad": "Villa Victoria",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "026",
+              "valor": "Chinicuila"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "SN"
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 6000
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 6000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 6000
+          }
+        }
+      }
+    },
+    "id": "p7ximyaw2a",
+    "metadata": {
+      "actualizacion": "2022-11-16T17:05:18Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "CHINICUILA",
+      "tipo": "INICIAL"
+    }
+  }
+]

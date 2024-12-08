@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "1993-09-19",
+              "institucionEducativa": {
+                "nombre": "Secundaria STV16 318",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "SEC",
+                "valor": "SECUNDARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIRECCIÓN DE SEGURIDAD PUBLICA",
+          "clasificacion": "Personal de confianza",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "AV SIXTO VERDUZCO",
+            "codigoPostal": "61540",
+            "coloniaLocalidad": "Tuzantla",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "099",
+              "valor": "Tuzantla"
+            },
+            "numeroExterior": "06",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "POLICÍA",
+          "fechaTomaPosesion": "2021-12-01",
+          "funcionPrincipal": "Operativo",
+          "nivelEmpleoCargoComision": "03",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "TUZANTLA",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "7861920146"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JUAN CARLOS",
+          "primerApellido": "VILLALOBOS",
+          "segundoApellido": "SANCHEZ"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "Mi colonia es santa fe pero no aparece por tanto puse poetas que es una cercana",
+          "domicilioMexico": {
+            "calle": "Barranca de el muerto",
+            "codigoPostal": "61525",
+            "coloniaLocalidad": "Parque Industrial Zitácuaro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "112",
+              "valor": "Zitácuaro"
+            },
+            "numeroExterior": "15",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 78000
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 78000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 78000
+          }
+        }
+      }
+    },
+    "id": "f9xlerco8e",
+    "metadata": {
+      "actualizacion": "2023-05-22T18:52:37Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "TUZANTLA",
+      "tipo": "INICIAL"
+    }
+  }
+]

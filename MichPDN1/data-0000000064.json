@@ -1,0 +1,382 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "aclaracionesObservaciones": "",
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "aclaracionesObservaciones": "",
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "aclaracionesObservaciones": "",
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "aclaracionesObservaciones": "",
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "representaciones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [
+              {
+                "nombreRazonSocial": "MORALES CORREA LEOPOLDO",
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 420000
+                },
+                "tipoNegocio": "VENTA DE ALIMENTOS"
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 420000
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2022-12-01",
+          "fechaIngreso": "2021-09-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "MXN",
+            "valor": 558321
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "MXN",
+            "valor": 420000
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "MXN",
+            "valor": 138321
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosNetosAnuales": {
+            "moneda": "MXN",
+            "valor": 558321
+          }
+        },
+        "adeudosPasivos": {
+          "aclaracionesObservaciones": "",
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "aclaracionesObservaciones": "",
+          "bienInmueble": [
+            {
+              "datoIdentificacion": "5149",
+              "domicilioMexico": {
+                "calle": "Exhacienda de la Paz",
+                "codigoPostal": "61016",
+                "coloniaLocalidad": "El Venado",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "031",
+                  "valor": "Epitacio Huerta"
+                },
+                "numeroExterior": "sn",
+                "numeroInterior": ""
+              },
+              "fechaAdquisicion": "2007-11-06",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CRÉDITO",
+              "porcentajePropiedad": 100,
+              "superficieConstruccion": {
+                "unidad": "m2",
+                "valor": 1
+              },
+              "superficieTerreno": {
+                "unidad": "m2",
+                "valor": 200
+              },
+              "tercero": [],
+              "tipoInmueble": {
+                "clave": "TERR",
+                "valor": "TERRENO"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "BALDOMERO BECERRA JIMENES",
+                  "relacion": {
+                    "clave": "OTRO",
+                    "valor": "OTRO(ESPECIFIQUE)"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 60000
+              },
+              "valorConformeA": "ESCRITURA PÚBLICA"
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesMuebles": {
+          "aclaracionesObservaciones": "",
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN BÁSICA",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "TRUNCO",
+              "fechaObtencion": "1970-05-30",
+              "institucionEducativa": {
+                "nombre": "ESCUELA PUBLICA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "PRI",
+                "valor": "PRIMARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [],
+          "ninguno": true
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DESARROLLO ECONOMICO",
+          "clasificacion": "Representante popular",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "Palacio Municipal",
+            "codigoPostal": "61000",
+            "coloniaLocalidad": "Epitacio Huerta",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "031",
+              "valor": "Epitacio Huerta"
+            },
+            "numeroExterior": "sn",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "REGIDOR",
+          "fechaTomaPosesion": "2021-09-01",
+          "funcionPrincipal": "Regidor del Desarrollo Económico",
+          "nivelEmpleoCargoComision": "A CABILDO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "EPITACIO HUERTA",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "5642145403"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "LEOPOLDO",
+          "primerApellido": "MORALES",
+          "segundoApellido": "CORREA"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "",
+          "actividadLaboral": {
+            "clave": "NIN",
+            "valor": "NINGUNO"
+          },
+          "ciudadanoExtranjero": false,
+          "esDependienteEconomico": true,
+          "fechaNacimiento": "1964-02-16",
+          "habitaDomicilioDeclarante": true,
+          "lugarDondeReside": "SE_DESCONOCE",
+          "ninguno": false,
+          "nombre": "Leticia",
+          "primerApellido": "Rodriguez",
+          "relacionConDeclarante": "CONYUGE",
+          "segundoApellido": "Sanchez",
+          "tipoOperacion": "AGREGAR"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "HORACIO",
+            "codigoPostal": "11560",
+            "coloniaLocalidad": "Polanco V Sección",
+            "entidadFederativa": {
+              "clave": "09",
+              "valor": "Ciudad de México"
+            },
+            "municipioAlcaldia": {
+              "clave": "016",
+              "valor": "Miguel Hidalgo"
+            },
+            "numeroExterior": "206",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "Comerciante de alimentos independiente 25 años, control de siembras y cosechas por 15 años",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "La remuneración expresada en remuneraciones por Actividad Empresarial, equivale al 10% de la venta total anual",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [
+              {
+                "nombreRazonSocial": "MORALES CORREA LEOPOLDO",
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 942692
+                },
+                "tipoNegocio": "VENTA DE ALIMENTOS"
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 942692
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 1385329
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 942692
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 442637
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 1385329
+          }
+        },
+        "inversionesCuentasValores": {
+          "aclaracionesObservaciones": "",
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoComodato": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "7mytx66k9u",
+    "metadata": {
+      "actualizacion": "2023-05-26T17:49:11Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "EPITACIO HUERTA",
+      "tipo": "INICIAL"
+    }
+  }
+]

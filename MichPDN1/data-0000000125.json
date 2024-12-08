@@ -1,0 +1,563 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "aclaracionesObservaciones": "",
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "aclaracionesObservaciones": "",
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "aclaracionesObservaciones": "",
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "aclaracionesObservaciones": "",
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "representaciones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2021-10-06",
+          "fechaIngreso": "2012-10-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "MXN",
+            "valor": 99000
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "MXN",
+            "valor": 99000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosNetosAnuales": {
+            "moneda": "MXN",
+            "valor": 99000
+          }
+        },
+        "adeudosPasivos": {
+          "aclaracionesObservaciones": "",
+          "adeudo": [
+            {
+              "fechaAdquisicion": "2022-08-12",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 42000
+              },
+              "numeroCuentaContrato": "308130684",
+              "otorganteCredito": {
+                "nombreInstitucion": "AFIRME",
+                "rfc": "",
+                "tipoPersona": "MORAL"
+              },
+              "porcentajeIncrementoDecremento": 0,
+              "saldoInsolutoSituacionActual": {
+                "moneda": "MXN",
+                "valor": 39000
+              },
+              "tercero": [],
+              "tipoAdeudo": {
+                "clave": "CPER",
+                "valor": "CRÉDITO PERSONAL"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesInmuebles": {
+          "aclaracionesObservaciones": "",
+          "bienInmueble": [
+            {
+              "datoIdentificacion": "ESCRITURA",
+              "domicilioMexico": {
+                "calle": "RINCON DEL LLANO O TIERRA NEGRA",
+                "codigoPostal": "61640",
+                "coloniaLocalidad": "Huiramba",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "039",
+                  "valor": "Huiramba"
+                },
+                "numeroExterior": "SN",
+                "numeroInterior": "SN"
+              },
+              "fechaAdquisicion": "2011-02-09",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "porcentajePropiedad": 100,
+              "superficieConstruccion": {
+                "unidad": "m2",
+                "valor": 224
+              },
+              "superficieTerreno": {
+                "unidad": "m2",
+                "valor": 224
+              },
+              "tercero": [],
+              "tipoInmueble": {
+                "clave": "TERR",
+                "valor": "TERRENO"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "JOSE ARMANDO VILLA CHÁVEZ",
+                  "relacion": {
+                    "clave": "NIN",
+                    "valor": "NINGUNO"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 30000
+              },
+              "valorConformeA": "ESCRITURA PÚBLICA"
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesMuebles": {
+          "aclaracionesObservaciones": "",
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "LICENCIADO EN DERECHO",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2005-05-25",
+              "institucionEducativa": {
+                "nombre": "FACULTAD DE DERECHO",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "curp": "",
+              "extranjero": false,
+              "fechaNacimiento": "2015-02-15",
+              "habitaDomicilioDeclarante": true,
+              "lugarDondeReside": "SE_DESCONOCE",
+              "nombre": "NAOMI",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "CELESTINO",
+              "rfc": "",
+              "segundoApellido": "CARRIZALEZ",
+              "tipoOperacion": "AGREGAR"
+            },
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "curp": "",
+              "domicilioMexico": {
+                "calle": "SOTO MAYOR",
+                "codigoPostal": "58450",
+                "coloniaLocalidad": "Lagunillas",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "048",
+                  "valor": "Lagunillas"
+                },
+                "numeroExterior": "SN",
+                "numeroInterior": "SN"
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2022-06-05",
+              "habitaDomicilioDeclarante": true,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "LUIS MANUEL",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "CELESTINO",
+              "rfc": "",
+              "segundoApellido": "CARRIZALEZ",
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SINDICATURA",
+          "clasificacion": "Personal de confianza",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "portal independencia",
+            "codigoPostal": "58450",
+            "coloniaLocalidad": "Lagunillas",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "048",
+              "valor": "Lagunillas"
+            },
+            "numeroExterior": "25",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "ASESOR JURIDICO",
+          "fechaTomaPosesion": "2022-02-09",
+          "funcionPrincipal": "ATENCION JURIDICA Y LEGAL",
+          "nivelEmpleoCargoComision": "CONFIANZA",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "LAGUNILLAS",
+          "telefonoOficina": {
+            "extension": "1",
+            "lada": "52",
+            "telefono": "4343421014"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "LUIS MANUEL",
+          "primerApellido": "CELESTINO",
+          "segundoApellido": "TORRES"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "",
+          "actividadLaboral": {
+            "clave": "NIN",
+            "valor": "NINGUNO"
+          },
+          "ciudadanoExtranjero": false,
+          "domicilioMexico": {
+            "calle": "SOTO MAYOR",
+            "codigoPostal": "58450",
+            "coloniaLocalidad": "Lagunillas",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "048",
+              "valor": "Lagunillas"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "SN"
+          },
+          "esDependienteEconomico": true,
+          "fechaNacimiento": "1982-12-03",
+          "habitaDomicilioDeclarante": true,
+          "lugarDondeReside": "MEXICO",
+          "ninguno": false,
+          "nombre": "DALIA",
+          "primerApellido": "CARRIZALEZ",
+          "relacionConDeclarante": "CONYUGE",
+          "segundoApellido": "PERALTA",
+          "tipoOperacion": "AGREGAR"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "SOTO MAYOR",
+            "codigoPostal": "58450",
+            "coloniaLocalidad": "Lagunillas",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "048",
+              "valor": "Lagunillas"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "SN"
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "PRESIDENCIA",
+              "empleoCargoComision": "SECRETARIO",
+              "fechaEgreso": "2021-10-06",
+              "fechaIngreso": "2012-01-01",
+              "funcionPrincipal": "ATENCIÓN DIRECTA AL PUBLICO",
+              "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+              "nombreEntePublico": "H. AYUNTAMIENTO DE HUIRAMBA",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 11638
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 11638
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 11638
+          }
+        },
+        "inversionesCuentasValores": {
+          "aclaracionesObservaciones": "",
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": null,
+                "pais": "MX",
+                "rfc": ""
+              },
+              "numeroCuentaContrato": "812627775",
+              "porcentajeIncrementoDecremento": 0,
+              "saldoSituacionActual": {
+                "moneda": "MXN",
+                "valor": 1537
+              },
+              "subTipoInversion": {
+                "clave": "CNOM",
+                "valor": "CUENTA DE NÓMINA"
+              },
+              "tercero": [],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoComodato": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "aclaracionesObservaciones": "",
+          "ninguno": false,
+          "vehiculo": [
+            {
+              "anio": 2003,
+              "fechaAdquisicion": "2011-08-16",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "lugarRegistro": {
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "pais": "MX"
+              },
+              "marca": "VOLKSWAGEN",
+              "modelo": "2003",
+              "numeroSerieRegistro": "3VWRK69M13M157674",
+              "tercero": [],
+              "tipoOperacion": "AGREGAR",
+              "tipoVehiculo": {
+                "clave": "AUMOT",
+                "valor": "AUTOMÓVIL/MOTOCICLETA"
+              },
+              "titular": [
+                {
+                  "clave": "CYG",
+                  "valor": "CONYUGE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "MISAELA VALENCIA SANCHEZ",
+                  "relacion": {
+                    "clave": "NIN",
+                    "valor": "NINGUNO"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 70000
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "cz13bd2i1u",
+    "metadata": {
+      "actualizacion": "2022-11-30T16:30:57Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "LAGUNILLAS",
+      "tipo": "INICIAL"
+    }
+  }
+]

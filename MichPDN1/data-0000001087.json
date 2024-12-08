@@ -1,0 +1,261 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": false,
+      "interes": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "fideicomisos": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2020-01-01",
+          "fechaIngreso": "2020-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "",
+            "valor": 0
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true,
+          "totalIngresosNetosAnuales": {
+            "moneda": "",
+            "valor": 0
+          }
+        },
+        "adeudos": {
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "CONTABILIDAD",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2009-08-30",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD DON VASCO A.C.",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIF",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "AVENIDAD CHIAPAS",
+            "ciudadLocalidad": "No especificado",
+            "codigoPostal": "60123",
+            "estadoProvincia": "No especificado",
+            "numeroExterior": "520",
+            "numeroInterior": "",
+            "pais": "MX"
+          },
+          "domicilioMexico": {
+            "calle": "AVENIDAD CHIAPAS",
+            "codigoPostal": "60123",
+            "coloniaLocalidad": "RAMON FARIAS",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "102",
+              "valor": "Uruapan"
+            },
+            "numeroExterior": "520",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "AUXILIAR ADMINISTRATIVO",
+          "fechaTomaPosesion": "2022-11-01",
+          "funcionPrincipal": "Áreas técnicas",
+          "nivelEmpleoCargoComision": "1",
+          "nivelOrdenGobierno": "ESTATAL",
+          "nombreEntePublico": "Municipio de Uruapan Michoacán",
+          "telefonoOficina": {
+            "extension": "",
+            "telefono": ""
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MIRIAAM ESMERALDA",
+          "primerApellido": "VALENCIA",
+          "segundoApellido": "ARCIGA"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "CAJAS",
+              "fechaEgreso": "2022-10-31",
+              "fechaIngreso": "2011-05-11",
+              "nombreEmpresaSociedadAsociacion": "BANCO SCOTIABANK",
+              "puesto": "CAJERO PRINCIPAL",
+              "rfc": "SIN9412025I4",
+              "sector": {
+                "clave": "SERVFIN",
+                "valor": "Servicios financieros"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 5000
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 5000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 5000
+          }
+        },
+        "inversiones": {
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "pqb4ua02ta",
+    "metadata": {
+      "actualizacion": "2023-01-11T00:00:00Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "Municipio de Uruapan Michoacán",
+      "tipo": "INICIAL"
+    }
+  }
+]

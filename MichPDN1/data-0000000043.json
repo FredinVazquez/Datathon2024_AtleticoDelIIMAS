@@ -1,0 +1,325 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "aclaracionesObservaciones": "",
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "aclaracionesObservaciones": "",
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "aclaracionesObservaciones": "",
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "aclaracionesObservaciones": "",
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "representaciones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2022-12-31",
+          "fechaIngreso": "2022-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "MXN",
+            "valor": 132864
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "MXN",
+            "valor": 132864
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosNetosAnuales": {
+            "moneda": "MXN",
+            "valor": 132864
+          }
+        },
+        "adeudosPasivos": {
+          "aclaracionesObservaciones": "",
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "aclaracionesObservaciones": "",
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "aclaracionesObservaciones": "",
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "MANUFACTURA, PRODUCCION Y CALIDAD",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2018-09-28",
+              "institucionEducativa": {
+                "nombre": "INSTITUTO TECNOLOGICO DE LA PIEDAD",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "ESP",
+                "valor": "ESPECIALIDAD"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [],
+          "ninguno": true
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "ADMINISTRATIVA",
+          "clasificacion": "Personal de confianza",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "MIGUEL HIDALGO",
+            "codigoPostal": "59440",
+            "coloniaLocalidad": "Churintzio",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "028",
+              "valor": "Churintzio"
+            },
+            "numeroExterior": "40",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "DIRECTOR DE TRANSPARENCIA",
+          "fechaTomaPosesion": "2021-09-01",
+          "funcionPrincipal": "CUMPLIMIENTO DE LAS OBLIGACIONES DE TRANSPARENCIA",
+          "nivelEmpleoCargoComision": "19",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "CHURINTZIO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "3285187092"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "DAMIAN",
+          "primerApellido": "DOMINGUEZ",
+          "segundoApellido": "HEREDIA"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "LUIS HERRERA",
+            "codigoPostal": "59447",
+            "coloniaLocalidad": "La Noria",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "028",
+              "valor": "Churintzio"
+            },
+            "numeroExterior": "25",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "ADMINISTRATIVA",
+              "fechaEgreso": "2021-06-01",
+              "fechaIngreso": "2019-04-01",
+              "nombreEmpresaSociedadAsociacion": "PRODUCTOS INOCUOS DE MICHOACAN",
+              "puesto": "DIRECTOR FINANCIERO",
+              "rfc": "",
+              "sector": {
+                "clave": "AGRI",
+                "valor": "AGRICULTURA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "ADMINISTRATIVA",
+              "fechaEgreso": "2019-03-29",
+              "fechaIngreso": "2018-11-01",
+              "nombreEmpresaSociedadAsociacion": "COMPAÑIA CABADAS S.A DE C.V.",
+              "puesto": "GESTION DE CALIDAD",
+              "rfc": "",
+              "sector": {
+                "clave": "INDMANU",
+                "valor": "INDUSTRIA MANUFACTURERA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 11072
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 11072
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 11072
+          }
+        },
+        "inversionesCuentasValores": {
+          "aclaracionesObservaciones": "",
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoComodato": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "maqpgizuvo",
+    "metadata": {
+      "actualizacion": "2023-05-26T17:10:51Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "CHURINTZIO",
+      "tipo": "INICIAL"
+    }
+  }
+]

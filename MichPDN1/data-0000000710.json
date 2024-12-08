@@ -1,0 +1,216 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2022-12-31",
+          "fechaIngreso": "2022-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "MXN",
+            "valor": 142000
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "MXN",
+            "valor": 142000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosNetosAnuales": {
+            "moneda": "MXN",
+            "valor": 142000
+          }
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA SUPERIOR",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "1994-03-01",
+              "institucionEducativa": {
+                "nombre": "COLEGIO DEL AIRE",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "EDIFICIO ANEXO AL PALACIO MUNICIPAL",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SEGURIDAD PUBLICA",
+          "clasificacion": "Personal de confianza",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "VASCO DE QUIROGA",
+            "codigoPostal": "58840",
+            "coloniaLocalidad": "Cuitzeo del Porvenir Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "020",
+              "valor": "Cuitzeo"
+            },
+            "numeroExterior": "12",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "SUBDIRECTOR SEGURIDAD PUBLICA",
+          "fechaTomaPosesion": "2022-07-01",
+          "funcionPrincipal": "AUXILIAR EN LA DIRECCIÓN DE SEGURIDAD PUBLICA",
+          "nivelEmpleoCargoComision": "C",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "CUITZEO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4553570200"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "IVAN",
+          "primerApellido": "ZARATE",
+          "segundoApellido": "URBINA"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "ALVARO OBREGON",
+            "codigoPostal": "60840",
+            "coloniaLocalidad": "Coalcomán de Vázquez Pallares",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "015",
+              "valor": "Coalcomán de Vázquez Pallares"
+            },
+            "numeroExterior": "645",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 18472
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 18472
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 18472
+          }
+        }
+      }
+    },
+    "id": "mgc40w147r",
+    "metadata": {
+      "actualizacion": "2023-03-01T17:38:47Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "CUITZEO",
+      "tipo": "INICIAL"
+    }
+  }
+]

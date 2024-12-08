@@ -1,0 +1,242 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": false,
+      "interes": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "fideicomisos": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2020-01-01",
+          "fechaIngreso": "2020-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "",
+            "valor": 0
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true,
+          "totalIngresosNetosAnuales": {
+            "moneda": "",
+            "valor": 0
+          }
+        },
+        "adeudos": {
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "ASISTENTE EJECUTIVO",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "1996-08-15",
+              "institucionEducativa": {
+                "nombre": "CONALEP",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "CTC",
+                "valor": "CARRERA TÉCNICA O COMERCIAL"
+              },
+              "tipoOperacion": "MODIFICAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "JUDICIAL",
+          "areaAdscripcion": "SECRETARÍA DE SERVICIOS PÚBLICOS MUNICIPALES",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "RIO VOLGA",
+            "ciudadLocalidad": "No especificado",
+            "codigoPostal": "60156",
+            "estadoProvincia": "No especificado",
+            "numeroExterior": "SIN NUMERO",
+            "numeroInterior": "",
+            "pais": "MX"
+          },
+          "domicilioMexico": {
+            "calle": "RIO VOLGA",
+            "codigoPostal": "60156",
+            "coloniaLocalidad": "RIO VOLGA",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "102",
+              "valor": "Uruapan"
+            },
+            "numeroExterior": "SIN NUMERO",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "INTENDENTE",
+          "fechaTomaPosesion": "1920-01-01",
+          "funcionPrincipal": "",
+          "nivelEmpleoCargoComision": "3",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Municipio de Uruapan Michoacán",
+          "telefonoOficina": {
+            "extension": "",
+            "telefono": ""
+          },
+          "tipoOperacion": "MODIFICAR"
+        },
+        "datosGenerales": {
+          "nombre": "MARTHA LORENA",
+          "primerApellido": "MEJIA",
+          "segundoApellido": "JIMENEZ"
+        },
+        "experienciaLaboral": {
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 55963
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 55963
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 55963
+          }
+        },
+        "inversiones": {
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "w3t5djw5sf",
+    "metadata": {
+      "actualizacion": "2021-05-26T00:00:00Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "Municipio de Uruapan Michoacán",
+      "tipo": "INICIAL"
+    }
+  }
+]

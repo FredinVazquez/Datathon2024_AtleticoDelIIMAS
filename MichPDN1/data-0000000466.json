@@ -1,0 +1,261 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": false,
+      "interes": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "fideicomisos": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2020-01-01",
+          "fechaIngreso": "2020-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "",
+            "valor": 0
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true,
+          "totalIngresosNetosAnuales": {
+            "moneda": "",
+            "valor": 0
+          }
+        },
+        "adeudos": {
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "INGENIERIA CIVIL",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2006-10-19",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD DON VASCO A.C.",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SECRETARÍA DE OBRAS PÚBLICAS Y MOVILIDAD",
+          "contratadoPorHonorarios": true,
+          "domicilioExtranjero": {
+            "calle": "AVENIDA CHIAPAS",
+            "ciudadLocalidad": "No especificado",
+            "codigoPostal": "60050",
+            "estadoProvincia": "No especificado",
+            "numeroExterior": "84",
+            "numeroInterior": "",
+            "pais": "MX"
+          },
+          "domicilioMexico": {
+            "calle": "AVENIDA CHIAPAS",
+            "codigoPostal": "60050",
+            "coloniaLocalidad": "LOMAS DEL VALLE SUR",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "102",
+              "valor": "Uruapan"
+            },
+            "numeroExterior": "84",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "AUXILIAR ADMINISTRATIVO",
+          "fechaTomaPosesion": "2021-09-15",
+          "funcionPrincipal": "Áreas técnicas",
+          "nivelEmpleoCargoComision": "1",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Municipio de Uruapan Michoacán",
+          "telefonoOficina": {
+            "extension": "102",
+            "telefono": "4526900819"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "RENE ROLANDO",
+          "primerApellido": "MANZO",
+          "segundoApellido": "VALENTINEZ"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "EJECUCICIÓN Y SUPERVICIÓN DE OBRA",
+              "fechaEgreso": "2021-08-31",
+              "fechaIngreso": "2020-11-15",
+              "nombreEmpresaSociedadAsociacion": "CONSTRUCTORA PATZCUARO S.A. DE C.V.",
+              "puesto": "SUPERVISOR DE OBRA",
+              "rfc": "CPA8402144L8",
+              "sector": {
+                "clave": "CONS",
+                "valor": "Construcción"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 12000
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 12000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 12000
+          }
+        },
+        "inversiones": {
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "475ymswuol",
+    "metadata": {
+      "actualizacion": "2021-10-06T00:00:00Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "Municipio de Uruapan Michoacán",
+      "tipo": "INICIAL"
+    }
+  }
+]

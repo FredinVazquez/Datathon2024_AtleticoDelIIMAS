@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN BÁSICA",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2004-07-31",
+              "institucionEducativa": {
+                "nombre": "JOSÉ MARÍA MORELOS",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "PRI",
+                "valor": "PRIMARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SEGURIDAD PÚBLICA",
+          "clasificacion": "Servidor(a) público(a)",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "PALACIO MUNICIPAL",
+            "codigoPostal": "61000",
+            "coloniaLocalidad": "Epitacio Huerta",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "031",
+              "valor": "Epitacio Huerta"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "OFICIAL DE SEGURIDAD PÚBLICA",
+          "fechaTomaPosesion": "2022-11-15",
+          "funcionPrincipal": "ATENDER LOS REPORTES DE LA POBLACIÓN",
+          "nivelEmpleoCargoComision": "C-AUXILIAR",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "EPITACIO HUERTA",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4214540256"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "SAUL",
+          "primerApellido": "ALVA",
+          "segundoApellido": "RUIZ"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "20 DE NOVIEMBRE",
+            "codigoPostal": "61004",
+            "coloniaLocalidad": "San Antonio Molinos",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "031",
+              "valor": "Epitacio Huerta"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 11000
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 11000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 11000
+          }
+        }
+      }
+    },
+    "id": "x5g80h5nfe",
+    "metadata": {
+      "actualizacion": "2022-12-22T20:51:17Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "EPITACIO HUERTA",
+      "tipo": "INICIAL"
+    }
+  }
+]

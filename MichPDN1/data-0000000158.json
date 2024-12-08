@@ -1,0 +1,167 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "adeudos": {
+          "ninguno": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "ninguno": false
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACION PRIMARIA",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "1971-07-01T00:00:00-0600",
+              "institucionEducativa": {
+                "nombre": "ESCUELA PRIMARIA LAZARO CARDENAS DEL RIO",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "PRI",
+                "valor": "PRIMARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "CUERPO DE REGIDORES",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "FRANCISCO OLGUIN",
+            "codigoPostal": "61470",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "047",
+              "valor": "JUNGAPEO"
+            },
+            "numeroExterior": "01"
+          },
+          "empleoCargoComision": "REGIDOR",
+          "fechaTomaPosesion": "2023-04-01T00:00:00-0600",
+          "funcionPrincipal": "ACTIVIDADES PROPIAS DEL ENCARGO",
+          "nivelEmpleoCargoComision": "POR ELECCION POPULAR",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "H. AYUNTAMIENTO DE JUNGAPEO",
+          "telefonoOficina": {
+            "telefono": "7151570065"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MARIA LUISA",
+          "primerApellido": "PEREZ",
+          "segundoApellido": "CARMONA"
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 32000
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 32000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        },
+        "inversiones": {
+          "ninguno": false
+        },
+        "prestamoOComodato": {
+          "ninguno": true
+        },
+        "vehiculos": {
+          "ninguno": false
+        }
+      }
+    },
+    "id": "av4968helt",
+    "metadata": {
+      "actualizacion": "2023-06-09T14:23:54-0600",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "MUNICIPIO DE JUNGAPEO MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

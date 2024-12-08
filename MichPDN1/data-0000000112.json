@@ -1,0 +1,198 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2022-12-04T00:00:00-0600",
+          "fechaIngreso": "2016-08-16T00:00:00-0500",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "MXN",
+            "valor": 190800
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "MXN",
+            "valor": 190800
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true,
+          "totalIngresosNetosAnuales": {
+            "moneda": "MXN",
+            "valor": 190800
+          }
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "TECNICO EN TURISMO",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2021-08-08T00:00:00-0500",
+              "institucionEducativa": {
+                "nombre": "UNO",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "CTC",
+                "valor": "CARRERA TÉCNICA O COMERCIAL"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "JUDICIAL",
+          "areaAdscripcion": "DIRECCION DE SEGURIDAD PUBLICA MUNICIPAL",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "LAZARO CARDENAS",
+            "codigoPostal": "58820",
+            "coloniaLocalidad": "SALVADOR URRUTIA",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "036",
+              "valor": "HUANDACAREO"
+            },
+            "numeroExterior": "84"
+          },
+          "empleoCargoComision": "POLICIA MUNICIPAL",
+          "fechaTomaPosesion": "2022-12-04T00:00:00-0600",
+          "funcionPrincipal": "VIGILANCIA Y PATRULLAJE",
+          "nivelEmpleoCargoComision": "POLICIA",
+          "nivelOrdenGobierno": "ESTATAL",
+          "nombreEntePublico": "DIRECCION DE SEGURIDAD PUBLICA MUNICIPAL",
+          "telefonoOficina": {
+            "extension": "0",
+            "telefono": "4431913747"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "OBDULIA",
+          "primerApellido": "SHOREQUE",
+          "segundoApellido": "MORA"
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [
+              {
+                "nombreRazonSocial": "OASIS EXPRESS",
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 30000
+                },
+                "tipoNegocio": "PURIFICADORA DE AGUA"
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 30000
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 220800
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 30000
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 190800
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "5jxzt5km48",
+    "metadata": {
+      "actualizacion": "2023-05-26T12:18:21-0600",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE HUANDACAREO MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

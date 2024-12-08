@@ -1,0 +1,302 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "firmar": {
+        "electronicamente": {
+          "aclaracionesObservaciones": "",
+          "ninguno": null
+        }
+      },
+      "interes": {
+        "apoyos": {
+          "aclaracionesObservaciones": "",
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "aclaracionesObservaciones": "",
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "aclaracionesObservaciones": "",
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "aclaracionesObservaciones": "",
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "representaciones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "adeudosPasivos": {
+          "aclaracionesObservaciones": "",
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "aclaracionesObservaciones": "",
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "aclaracionesObservaciones": "",
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA",
+              "documentoObtenido": "BOLETA",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2012-07-20",
+              "institucionEducativa": {
+                "nombre": "INEA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "SEC",
+                "valor": "SECUNDARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [],
+          "ninguno": true
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SEGURIDAD PUBLICA",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "OCAMPO",
+            "codigoPostal": "60440",
+            "coloniaLocalidad": "Peribán de Ramos",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "068",
+              "valor": "Peribán"
+            },
+            "numeroExterior": "1",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "POLICIA",
+          "fechaTomaPosesion": "2022-10-20",
+          "funcionPrincipal": "SEGURIDAD PUBLICA",
+          "nivelEmpleoCargoComision": "OPERATIVO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "MUNICIPIO DE PERIBAN",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "3545511000"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MA. GUADALUPE",
+          "primerApellido": "RODRIGUEZ",
+          "segundoApellido": "ARROYO"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "LAS CARAMICUAS",
+            "codigoPostal": "61852",
+            "coloniaLocalidad": "Las Caramicuas",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "035",
+              "valor": "La Huacana"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 11720
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 11720
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 11720
+          }
+        },
+        "inversionesCuentasValores": {
+          "aclaracionesObservaciones": "",
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BBVA",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "numeroCuentaContrato": "1529040302",
+              "porcentajeIncrementoDecremento": 0,
+              "saldoSituacionActual": {
+                "moneda": "MXN",
+                "valor": 80
+              },
+              "subTipoInversion": {
+                "clave": "CNOM",
+                "valor": "CUENTA DE NÓMINA"
+              },
+              "tercero": [],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoComodato": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "wd08bgx9qf",
+    "metadata": {
+      "actualizacion": "2022-10-26T16:08:49Z",
+      "actualizacionConflictoInteres": false,
+      "avance": {
+        "firmar": {
+          "electronicamente": true
+        },
+        "interes": {
+          "apoyos": true,
+          "beneficiosPrivados": true,
+          "clientesPrincipales": true,
+          "fideicomisos": true,
+          "participacion": true,
+          "participacionTomaDecisiones": true,
+          "representaciones": true
+        },
+        "situacionPatrimonial": {
+          "actividadAnualAnterior": true,
+          "adeudosPasivos": true,
+          "bienesInmuebles": true,
+          "bienesMuebles": true,
+          "datosCurricularesDeclarante": true,
+          "datosDependientesEconomicos": true,
+          "datosEmpleoCargoComision": true,
+          "datosGenerales": true,
+          "datosPareja": true,
+          "domicilioDeclarante": true,
+          "experienciaLaboral": true,
+          "ingresos": true,
+          "inversionesCuentasValores": true,
+          "prestamoComodato": true,
+          "vehiculos": true
+        }
+      },
+      "declaracionCompleta": false,
+      "institucion": "Instituto Simulado",
+      "tipo": "INICIAL"
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1666801547540"
+      }
+    }
+  }
+]

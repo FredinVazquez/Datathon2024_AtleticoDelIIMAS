@@ -1,0 +1,176 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "TRUNCO",
+              "fechaObtencion": "1972-08-01",
+              "institucionEducativa": {
+                "nombre": "Año de Morelos No.  27",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "SEC",
+                "valor": "SECUNDARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "Comite de Agua Potable",
+          "clasificacion": "Servidor(a) público(a)",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "Josefa Ortiz de Dominguez",
+            "codigoPostal": "59120",
+            "coloniaLocalidad": "Briseñas de Matamoros",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "011",
+              "valor": "Briseñas"
+            },
+            "numeroExterior": "2",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "AUXILIAR OPERATIVO",
+          "fechaTomaPosesion": "2022-03-22",
+          "funcionPrincipal": "Encargado del bombeo de las aguas residuales",
+          "nivelEmpleoCargoComision": "0",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "BRISEÑAS",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "3931130511"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JUAN MARTIN",
+          "primerApellido": "ANDRADE",
+          "segundoApellido": "GOMEZ"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "INSURGENTES",
+            "codigoPostal": "59120",
+            "coloniaLocalidad": "Briseñas de Matamoros",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "011",
+              "valor": "Briseñas"
+            },
+            "numeroExterior": "71",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "Servicios Publicos",
+              "empleoCargoComision": "Chofer",
+              "fechaEgreso": "2019-09-01",
+              "fechaIngreso": "2018-09-01",
+              "funcionPrincipal": "Manejar",
+              "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+              "nombreEntePublico": "Presidencia Municipal de Briseñas",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 71404
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 71404
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 71404
+          }
+        }
+      }
+    },
+    "id": "gbca5h8rp4",
+    "metadata": {
+      "actualizacion": "2023-05-17T20:20:54Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "BRISEÑAS",
+      "tipo": "INICIAL"
+    }
+  }
+]

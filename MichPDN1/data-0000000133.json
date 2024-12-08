@@ -1,0 +1,133 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "CONTADURIA",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "TRUNCO",
+              "fechaObtencion": "2021-02-28T00:00:00-0600",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD MICHOACANA DE SAN NICOLAS DE HIDALGO",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "ORGANO_AUTONOMO",
+          "areaAdscripcion": "CONTRALORIA",
+          "contratadoPorHonorarios": true,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "FRANCISCO OLGUIN",
+            "codigoPostal": "61470",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "047",
+              "valor": "JUNGAPEO"
+            },
+            "numeroExterior": "01"
+          },
+          "empleoCargoComision": "TITULAR DE CONTRALORIA",
+          "fechaTomaPosesion": "0222-01-03T00:36:36-0600",
+          "funcionPrincipal": "RESPONSABLE DE LA CONTRALORIA",
+          "nivelEmpleoCargoComision": "TITULAR",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "AYUNTAMIENTO DE JUNGAPEO",
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "EVA",
+          "primerApellido": "LEYVA",
+          "segundoApellido": "CARANDIA"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "PRIVADO"
+              },
+              "area": "OPERATIVA",
+              "fechaEgreso": "2021-12-30T00:00:00-0600",
+              "fechaIngreso": "2019-12-03T00:00:00-0600",
+              "nombreEmpresaSociedadAsociacion": "BANCO AZTECA S.A INSTITUCION DE BANCA MULTIPLE",
+              "puesto": "CAJERA",
+              "sector": {
+                "clave": "SERVFIN",
+                "valor": "SERVICIOS FINANCIEROS"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "PRIVADO"
+              },
+              "area": "ADMINISTRATIVA",
+              "fechaEgreso": "2019-08-14T00:00:00-0500",
+              "fechaIngreso": "2014-12-24T00:00:00-0600",
+              "nombreEmpresaSociedadAsociacion": "COMERCIALIZADORA ZITACUARENCE SA DE CV",
+              "puesto": "AUXILIAR ADMINISTRATIVO/CONTABLE",
+              "rfc": "",
+              "sector": {
+                "clave": "CMAYOR",
+                "valor": "COMERCIO AL POR MAYOR"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "ingresoMensualNetoDeclarante": {
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {},
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "879y3u1a99",
+    "metadata": {
+      "actualizacion": "2022-02-11T11:32:11-0600",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE JUNGAPEO MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

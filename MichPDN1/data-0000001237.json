@@ -1,0 +1,375 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "intereses": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "adeudos": {
+          "adeudo": [
+            {
+              "fechaAdquisicion": "2021-02-01",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 5000
+              },
+              "numeroCuentaContrato": "DATO RESERVADO",
+              "otorganteCredito": {
+                "nombreInstitucion": "LIVERPOOL",
+                "rfc": "",
+                "tipoPersona": "MORAL"
+              },
+              "saldoInsolutoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoFechaConclusion": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "tercero": [],
+              "tipoAdeudo": {
+                "clave": "TCRD",
+                "valor": "TARJETA DE CRÉDITO DEPARTAMENTAL"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "LICENCIATURA EN PSICOLOGIA EDUCATIVA",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2016-07-25",
+              "institucionEducativa": {
+                "nombre": "IMCED",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOpeacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIRECCION DE IGUALDAD SUSTANTIVA Y DESARROLLO DE LAS MUJERES",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "PALACIO MUNICIPAL",
+            "codigoPostal": "58460",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "001",
+              "valor": "ACUITZIO"
+            },
+            "numeroExterior": "S/N",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "DIRECTORA",
+          "fechaTomaPosesion": "2021-09-01",
+          "funcionPrincipal": "ATENCION A LAS MUJERES Y GESTION DE PROYECTOS",
+          "nivelEmpleoCargoComision": "000",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "DIRECCION DEL INSTITUTO DE LA MUJER",
+          "telefonoOficina": {
+            "extension": "0",
+            "telefono": "4343882003"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "GENOVEVA",
+          "primerApellido": "VIVEROS",
+          "segundoApellido": "SERENO"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "PRIVADO"
+              },
+              "area": "DOCENCIA",
+              "fechaEgreso": "2021-08-14",
+              "fechaIngreso": "2016-08-01",
+              "nombreEmpresaSociedadAsociacion": "CIUDAD CUMBRES",
+              "puesto": "DOCENTE",
+              "rfc": "",
+              "sector": {
+                "clave": "OTRO",
+                "valor": "OTRO (ESPECIFIQUE)"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "FONDOS DE INVERSIÓN"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OPR",
+                  "valor": "ORGANIZACIONES PRIVADAS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "SSI",
+                  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "VBU",
+                  "valor": "VALORES BURSÁTILES"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "BON",
+                  "valor": "BONOS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OTRO",
+                  "valor": "OTRO (ESPECIFIQUE)"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 9156
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 9156
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 9156
+          }
+        },
+        "inversiones": {
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BBVA",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "numeroCuentaContrato": "DATO RESERVADO",
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CAHO",
+                "valor": "CUENTA DE AHORRO"
+              },
+              "tercero": [],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BANORTE",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "numeroCuentaContrato": "DATO RESERVADO",
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CNOM",
+                "valor": "CUENTA DE NÓMINA"
+              },
+              "tercero": [],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "6xrimmqfsy",
+    "metadata": {
+      "actualizacion": "2021-10-15T15:48:32Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "ACUITZIO DEL CANJE",
+      "tipo": "INICIAL"
+    }
+  }
+]

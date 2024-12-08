@@ -1,0 +1,379 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "fideicomisos": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2020-01-01",
+          "fechaIngreso": "2020-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "",
+            "valor": 0
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true,
+          "totalIngresosNetosAnuales": {
+            "moneda": "",
+            "valor": 0
+          }
+        },
+        "adeudos": {
+          "adeudo": [
+            {
+              "fechaAdquisicion": "2019-10-07",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 130000
+              },
+              "numeroCuentaContrato": "1505302369",
+              "otorganteCredito": {
+                "nombreInstitucion": "bbva",
+                "rfc": ""
+              },
+              "saldoInsolutoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoFechaConclusion": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "tipoAdeudo": {
+                "clave": "CPER",
+                "valor": "Crédito personal"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "ingenieria industrial",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2015-06-09",
+              "institucionEducativa": {
+                "nombre": "instituto tecnológico superior de Uruapan",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SECRETARÍA DE FOMENTO ECONÓMICO",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "avenida chiapas",
+            "ciudadLocalidad": "No especificado",
+            "codigoPostal": "60150",
+            "estadoProvincia": "No especificado",
+            "numeroExterior": "514",
+            "numeroInterior": "",
+            "pais": "MX"
+          },
+          "domicilioMexico": {
+            "calle": "avenida chiapas",
+            "codigoPostal": "60150",
+            "coloniaLocalidad": "RAMON FARIAS",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "102",
+              "valor": "Uruapan"
+            },
+            "numeroExterior": "514",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "DIRECTOR DE INNOVACION GUBERNAMENTAL",
+          "fechaTomaPosesion": "2021-09-13",
+          "funcionPrincipal": "Áreas técnicas",
+          "nivelEmpleoCargoComision": "19",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Municipio de Uruapan Michoacán",
+          "telefonoOficina": {
+            "extension": "",
+            "telefono": "4525240092"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "LUIS ROBERTO",
+          "primerApellido": "HERRERA",
+          "segundoApellido": "ALTAMIRANO"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoPublico": "JUDICIAL",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "ASESOR DE DIPUTADO",
+              "empleoCargoComision": "ASESOR DE DIPUTADO",
+              "fechaEgreso": "2021-08-31",
+              "fechaIngreso": "2019-03-30",
+              "funcionPrincipal": "Legislar a nivel federal, estatal y cabildo municipal",
+              "nivelOrdenGobierno": "FEDERAL",
+              "nombreEntePublico": "congreso federal",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 21000
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 21000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 21000
+          }
+        },
+        "inversiones": {
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "bbva",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CNOM",
+                "valor": "CUENTA DE NÓMINA"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BANBAJIO",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CNOM",
+                "valor": "CUENTA DE NÓMINA"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "1igaftham8",
+    "metadata": {
+      "actualizacion": "2021-11-18T00:00:00Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "Municipio de Uruapan Michoacán",
+      "tipo": "INICIAL"
+    }
+  }
+]

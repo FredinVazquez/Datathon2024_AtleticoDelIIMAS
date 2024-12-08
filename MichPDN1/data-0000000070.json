@@ -1,0 +1,178 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA SUPERIOR",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2021-01-29",
+              "institucionEducativa": {
+                "nombre": "ALPES",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SEGURIDAD PÚBLICA",
+          "clasificacion": "Empleado",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "Palacio Municipal",
+            "codigoPostal": "61000",
+            "coloniaLocalidad": "Epitacio Huerta",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "031",
+              "valor": "Epitacio Huerta"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "OFICIAL DE SEGURIDAD PÚBLICA",
+          "fechaTomaPosesion": "2023-11-16",
+          "funcionPrincipal": "REALIZAR RECORRIDOS DE VIGILANCIA",
+          "nivelEmpleoCargoComision": "C-AUXILIAR",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "EPITACIO HUERTA",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4214540256"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ANA CRISTINA",
+          "primerApellido": "BOTELLO",
+          "segundoApellido": "MORALES"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "FRANCISCO I. MADERO",
+            "codigoPostal": "61000",
+            "coloniaLocalidad": "Epitacio Huerta",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "031",
+              "valor": "Epitacio Huerta"
+            },
+            "numeroExterior": "14",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "SEGURIDAD PRIVADA",
+              "fechaEgreso": "2023-09-01",
+              "fechaIngreso": "2023-06-20",
+              "nombreEmpresaSociedadAsociacion": "DAFIS",
+              "puesto": "GUARDIA DE SEGURIDAD PRIVADA",
+              "rfc": "000000000000",
+              "sector": {
+                "clave": "SERVPROF",
+                "valor": "SERVICIOS PROFESIONALES"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 11200
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 11200
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 22400
+          }
+        }
+      }
+    },
+    "id": "v5hcjtvvf0",
+    "metadata": {
+      "actualizacion": "2023-12-19T11:13:37Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "EPITACIO HUERTA",
+      "tipo": "INICIAL"
+    }
+  }
+]

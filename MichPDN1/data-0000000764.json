@@ -1,0 +1,225 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true
+        },
+        "representacion": {
+          "ninguno": true
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "adeudos": {
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "BACHILLERATO",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2017-08-01",
+              "institucionEducativa": {
+                "nombre": "TEBAM 209",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosDependienteEconomico": {
+          "ninguno": true
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "Contraloría",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "Morelos",
+            "codigoPostal": "58970",
+            "coloniaLocalidad": "Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "040",
+              "valor": "Indaparapeo"
+            },
+            "numeroExterior": "77"
+          },
+          "empleoCargoComision": "AUXILIAR",
+          "fechaTomaPosesion": "2022-03-24",
+          "funcionPrincipal": "Mantenimiento de sistemas",
+          "nivelEmpleoCargoComision": "CONFIANZA",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Indaparapeo",
+          "telefonoOficina": {
+            "extension": "00",
+            "telefono": "4513520144"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "crhistian ",
+          "primerApellido": "jacobo ",
+          "segundoApellido": "ronda "
+        },
+        "datosPareja": {
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "Blvd Adolfo López Mateos",
+            "codigoPostal": "58970",
+            "coloniaLocalidad": "Colonia Guadalupe",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "040",
+              "valor": "Indaparapeo"
+            },
+            "numeroExterior": "s/n",
+            "numeroInterior": "s/n"
+          }
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "actividadIndustialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN"
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN"
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 6418
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN"
+          }
+        },
+        "inversiones": {
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "AFIRME",
+                "pais": "MX",
+                "rfc": "BAF950102JP5"
+              },
+              "numeroCuentaContrato": "4130980110002779",
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "MXN",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CNOM",
+                "valor": "CUENTA DE NÓMINA"
+              },
+              "tercero": [],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoOComodato": {
+          "ninguno": true
+        },
+        "vehiculos": {
+          "ninguno": true
+        }
+      }
+    },
+    "id": "8rj2c8anhx",
+    "metadata": {
+      "actualizacion": "2023-05-16T14:59:22Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "Indaparapeo",
+      "tipo": "INICIAL"
+    }
+  }
+]

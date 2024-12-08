@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "quimico biologico",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2007-08-20",
+              "institucionEducativa": {
+                "nombre": "cebetis 182",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "CTC",
+                "valor": "CARRERA TÉCNICA O COMERCIAL"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "PROTECCION CIVIL",
+          "clasificacion": "Servidor(a) público(a)",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "HIDALGO",
+            "codigoPostal": "58980",
+            "coloniaLocalidad": "Queréndaro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "072",
+              "valor": "Queréndaro"
+            },
+            "numeroExterior": "02",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "PARAMEDICO",
+          "fechaTomaPosesion": "2022-09-01",
+          "funcionPrincipal": "PARAMEDICO",
+          "nivelEmpleoCargoComision": "CONFIANZA",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "QUERÉNDARO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4432206754"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JOSEFINA",
+          "primerApellido": "MARTINEZ",
+          "segundoApellido": "rojas"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "feliz irieta",
+            "codigoPostal": "58936",
+            "coloniaLocalidad": "Lázaro Cárdenas",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "110",
+              "valor": "Zinapécuaro"
+            },
+            "numeroExterior": "13",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 7200
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 7200
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 7200
+          }
+        }
+      }
+    },
+    "id": "6kd176lewg",
+    "metadata": {
+      "actualizacion": "2022-11-28T16:26:01Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "QUERÉNDARO",
+      "tipo": "INICIAL"
+    }
+  }
+]

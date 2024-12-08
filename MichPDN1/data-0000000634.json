@@ -1,0 +1,251 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "firmar": {
+        "electronicamente": {
+          "aclaracionesObservaciones": "",
+          "ninguno": null
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2022-05-30",
+          "fechaIngreso": "2017-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "MXN",
+            "valor": 15000
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "MXN",
+            "valor": 15000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosNetosAnuales": {
+            "moneda": "MXN",
+            "valor": 15000
+          }
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA SUPERIOR",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "1995-01-01",
+              "institucionEducativa": {
+                "nombre": "COBAT 03",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [],
+          "ninguno": true
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SEGURIDAD PUBLICA",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "Portal Alvaro Obregon",
+            "codigoPostal": "61830",
+            "coloniaLocalidad": "Ario de Rosales",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "009",
+              "valor": "Ario"
+            },
+            "numeroExterior": "8",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "POLICIA MUNICIPAL",
+          "fechaTomaPosesion": "2022-09-16",
+          "funcionPrincipal": "CUERPO DE SEGURIDAD",
+          "nivelEmpleoCargoComision": "CONFIANZA",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "ARIO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4225210300"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "HERMENEGILDO",
+          "primerApellido": "ESPINOZA",
+          "segundoApellido": "Blancas"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "S.N",
+            "codigoPostal": "61833",
+            "coloniaLocalidad": "Chuén",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "009",
+              "valor": "Ario"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 10222
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 10222
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 10222
+          }
+        }
+      }
+    },
+    "id": "np3db3z8o2",
+    "metadata": {
+      "actualizacion": "2022-11-08T16:06:10Z",
+      "actualizacionConflictoInteres": false,
+      "avance": {
+        "firmar": {
+          "electronicamente": true
+        },
+        "situacionPatrimonial": {
+          "actividadAnualAnterior": true,
+          "datosCurricularesDeclarante": true,
+          "datosDependientesEconomicos": true,
+          "datosEmpleoCargoComision": true,
+          "datosGenerales": true,
+          "datosPareja": true,
+          "domicilioDeclarante": true,
+          "experienciaLaboral": true,
+          "ingresos": true
+        }
+      },
+      "declaracionCompleta": false,
+      "institucion": "ARIO",
+      "tipo": "INICIAL"
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1667924509147"
+      }
+    }
+  }
+]

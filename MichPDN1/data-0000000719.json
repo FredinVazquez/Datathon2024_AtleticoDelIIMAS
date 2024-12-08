@@ -1,0 +1,178 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA SUPERIOR",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2013-07-08",
+              "institucionEducativa": {
+                "nombre": "CBT NO.1 ADOLFO LOPEZ MATEOS",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIRECCION DE SEGURIDAD PUBLICA",
+          "clasificacion": "Servidor(a) público(a)",
+          "contratadoPorHonorarios": true,
+          "domicilioMexico": {
+            "calle": "PALACIO MUNICIPAL",
+            "codigoPostal": "61020",
+            "coloniaLocalidad": "Contepec",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "017",
+              "valor": "Contepec"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "SN"
+          },
+          "empleoCargoComision": "POLICIA RASO",
+          "fechaTomaPosesion": "2023-03-30",
+          "funcionPrincipal": "OPERATIVO",
+          "nivelEmpleoCargoComision": "POLICIA MUNICIPAL",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "CONTEPEC",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4474785615"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JENIFER GUADALUPE",
+          "primerApellido": "CORREA",
+          "segundoApellido": "CORREA"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "SIN NOMBRE",
+            "codigoPostal": "61051",
+            "coloniaLocalidad": "Zaragoza (Puerto de Medina)",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "017",
+              "valor": "Contepec"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "SN"
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "COCINA",
+              "fechaEgreso": "2023-03-15",
+              "fechaIngreso": "2021-03-17",
+              "nombreEmpresaSociedadAsociacion": "LIVERPOOL",
+              "puesto": "CAJERO VENDEDOR",
+              "rfc": "",
+              "sector": {
+                "clave": "CMENOR",
+                "valor": "COMERCIO AL POR MENOR"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 13581
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 13581
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 13581
+          }
+        }
+      }
+    },
+    "id": "0wsj9w100n",
+    "metadata": {
+      "actualizacion": "2023-05-17T22:38:00Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "CONTEPEC",
+      "tipo": "INICIAL"
+    }
+  }
+]

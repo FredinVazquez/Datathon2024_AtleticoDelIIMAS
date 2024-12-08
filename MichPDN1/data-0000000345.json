@@ -1,0 +1,162 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "COMERCIO INTERNACIONAL",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2003-10-03T00:00:00-0500",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD VASCO DE QUIROGA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "PRESIDENCIA",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "MIGUEL HIDALGO ORIENTE",
+            "codigoPostal": "58880",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "088",
+              "valor": "TARÍMBARO"
+            },
+            "numeroExterior": "11"
+          },
+          "empleoCargoComision": "AUXILIAR C",
+          "fechaTomaPosesion": "2021-11-01T00:00:00-0600",
+          "funcionPrincipal": "ACTIVIDADES ADMINISTRATIVAS",
+          "nivelEmpleoCargoComision": "AUXILIAR C",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "H. AYUNTAMIENTO DE TARIMBARO, MICH",
+          "telefonoOficina": {
+            "telefono": "4433876117"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "CLAUDIA BEATRIZ",
+          "primerApellido": "PICHARDO",
+          "segundoApellido": "AVALOS"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "PONENCIA",
+              "empleoCargoComision": "ESCRIBIENTE",
+              "fechaEgreso": "2015-12-31T00:00:00-0600",
+              "fechaIngreso": "2013-03-16T00:00:00-0600",
+              "funcionPrincipal": "ASISTENTE DE MAGISTRADO",
+              "nivelOrdenGobierno": "ESTATAL",
+              "nombreEntePublico": "TRIBUNAL ELECTORAL DEL ESTADO DE MICHOACAN",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [
+              {
+                "nombreRazonSocial": "PAPELERIA JESUS DEL MONTE",
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 6000
+                },
+                "tipoNegocio": "PAPELERIA"
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 6000
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 16000
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 6000
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 10000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "ftlbmnyjg1",
+    "metadata": {
+      "actualizacion": "2022-05-29T19:23:29-0500",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE TARÍMBARO MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

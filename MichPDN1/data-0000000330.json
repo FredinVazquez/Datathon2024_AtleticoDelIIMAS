@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "Paramédico",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "CURSANDO",
+              "fechaObtencion": "2020-06-15",
+              "institucionEducativa": {
+                "nombre": "Instituto Educativo en Formación de Paramédicos",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "CTC",
+                "valor": "CARRERA TÉCNICA O COMERCIAL"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "Proteccion Civil",
+          "clasificacion": "Servidor(a) público(a)",
+          "contratadoPorHonorarios": true,
+          "domicilioMexico": {
+            "calle": "Valentin Gomez Farias",
+            "codigoPostal": "61650",
+            "coloniaLocalidad": "Jardines de La Purísima",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "082",
+              "valor": "Tacámbaro"
+            },
+            "numeroExterior": "3",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "PARAMÉDICO",
+          "fechaTomaPosesion": "2022-05-16",
+          "funcionPrincipal": "Paramédico",
+          "nivelEmpleoCargoComision": "PARAMÉDICO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "TACÁMBARO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4591310027"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MIZRAIM ERNESTO",
+          "primerApellido": "CRUZ",
+          "segundoApellido": "Gonzalez"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "Sahara",
+            "codigoPostal": "58095",
+            "coloniaLocalidad": "Rector Díaz Rubio",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "053",
+              "valor": "Morelia"
+            },
+            "numeroExterior": "51",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "Labore en estados unidos",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 5105
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 5105
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 5105
+          }
+        }
+      }
+    },
+    "id": "q32svbtnf3",
+    "metadata": {
+      "actualizacion": "2022-12-05T05:39:23Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "TACÁMBARO",
+      "tipo": "INICIAL"
+    }
+  }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "PROFESIONAL TECNICO EN CONTABLE ADMINISTRATIVO Y FISCAL",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "1986-08-10",
+              "institucionEducativa": {
+                "nombre": "COLEGIO NACIONAL DE EDUCACION PROFESIONAL TECNICA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "CTC",
+                "valor": "CARRERA TÉCNICA O COMERCIAL"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "TESORERIA",
+          "clasificacion": "Servidor[a] público[a] eventual",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "PLAZUELA CAVADAS",
+            "codigoPostal": "59300",
+            "coloniaLocalidad": "Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "069",
+              "valor": "La Piedad"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "AUXILIAR ADMINISTRATIVO",
+          "fechaTomaPosesion": "2022-08-06",
+          "funcionPrincipal": "CONTABILIZACION DE EGRESOS",
+          "nivelEmpleoCargoComision": "3",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "LA PIEDAD",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "3525222424"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MAGDALENA",
+          "primerApellido": "ESCOBAR",
+          "segundoApellido": "GALLARDO"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "ALLENDE",
+            "codigoPostal": "59430",
+            "coloniaLocalidad": "Numarán",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "060",
+              "valor": "Numarán"
+            },
+            "numeroExterior": "30",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "TESORERIA",
+              "empleoCargoComision": "AUXILIAR ADMINISTRATIVO",
+              "fechaEgreso": "2021-09-15",
+              "fechaIngreso": "2018-09-03",
+              "funcionPrincipal": "CONTABILIZACION EGRESOS",
+              "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+              "nombreEntePublico": "MUNICIPIO DE NUMARAN MICHOACAN",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "VENTAS",
+              "fechaEgreso": "2018-09-01",
+              "fechaIngreso": "2006-03-01",
+              "nombreEmpresaSociedadAsociacion": "FRANQUICIA DE HELADOS",
+              "puesto": "PROPIETARIO",
+              "rfc": "EOGM68082337",
+              "sector": {
+                "clave": "CMENOR",
+                "valor": "COMERCIO AL POR MENOR"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "CONTABILIDAD",
+              "fechaEgreso": "2005-11-30",
+              "fechaIngreso": "2004-02-01",
+              "nombreEmpresaSociedadAsociacion": "COMPAÑIA MANUFACTURERA HECDI SA DE CV",
+              "puesto": "AUXILIAR CONTABLE",
+              "rfc": "",
+              "sector": {
+                "clave": "INDMANU",
+                "valor": "INDUSTRIA MANUFACTURERA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "CONTABILIDAD",
+              "fechaEgreso": "2001-12-31",
+              "fechaIngreso": "1994-11-01",
+              "nombreEmpresaSociedadAsociacion": "AGRICOLA EL TREBOL SA DE CV",
+              "puesto": "AUXILIAR CONTABLE",
+              "rfc": "",
+              "sector": {
+                "clave": "CMENOR",
+                "valor": "COMERCIO AL POR MENOR"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "CONTABILIDAD",
+              "fechaEgreso": "1994-05-30",
+              "fechaIngreso": "1989-03-01",
+              "nombreEmpresaSociedadAsociacion": "DESPACHO CONTABLE QUINTANA & ASOCIADOS",
+              "puesto": "AUXILIAR DE CONTABLE",
+              "rfc": "",
+              "sector": {
+                "clave": "SERVPROF",
+                "valor": "SERVICIOS PROFESIONALES"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 89769
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 53944
+                },
+                "tipoIngreso": "INGRESOS POR SUELDOS"
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 53944
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 53944
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 35825
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 109769
+          }
+        }
+      }
+    },
+    "id": "yi8bry3ihs",
+    "metadata": {
+      "actualizacion": "2023-05-29T17:23:43Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "LA PIEDAD",
+      "tipo": "INICIAL"
+    }
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": false,
+      "interes": {
+        "apoyos": {
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true
+        },
+        "representacion": {
+          "ninguno": true
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "adeudos": {
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "NO RECUERDO LA FECHA EN QUE ME DIERON EL CERTIFICADO ",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "SECUNDARIA ",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "institucionEducativa": {
+                "nombre": "VASCO DE QUIROGA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "SEC",
+                "valor": "SECUNDARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosDependienteEconomico": {
+          "ninguno": true
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "OFICIALIA Y SERVICIOS PUBLICOS ",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "PORTAL MATAMOROS ",
+            "codigoPostal": "61700",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "111",
+              "valor": "Ziracuaretiro"
+            },
+            "numeroExterior": "S/N"
+          },
+          "empleoCargoComision": "ENCARGADO DE CITIRS",
+          "fechaTomaPosesion": "2023-01-01",
+          "funcionPrincipal": "CONTROL DE CITIRS",
+          "nivelEmpleoCargoComision": "ENCARGADO DE CITIRS",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Ziracuaretiro",
+          "telefonoOficina": {
+            "extension": "0",
+            "telefono": "4235930043"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ISMAEL ",
+          "primerApellido": "SILVA ",
+          "segundoApellido": "RAMIREZ"
+        },
+        "datosPareja": {
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "CUAUHTEMOC ",
+            "codigoPostal": "61700",
+            "coloniaLocalidad": "CENTRO ",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "111",
+              "valor": "Ziracuaretiro"
+            },
+            "numeroExterior": "336"
+          }
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "actividadIndustialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 7000
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN"
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN"
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 7000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 7000
+          }
+        },
+        "inversiones": {
+          "ninguno": true
+        },
+        "prestamoOComodato": {
+          "ninguno": true
+        },
+        "vehiculos": {
+          "ninguno": true
+        }
+      }
+    },
+    "id": "pf6s4suv6q",
+    "metadata": {
+      "actualizacion": "2023-05-31T10:06:13Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "Ziracuaretiro",
+      "tipo": "INICIAL"
+    }
+  }
+]

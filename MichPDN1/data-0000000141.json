@@ -1,0 +1,85 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": null
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": []
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "TESORERIA",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "FRANCISCO OLGUIN",
+            "codigoPostal": "61470",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "047",
+              "valor": "JUNGAPEO"
+            },
+            "numeroExterior": "1",
+            "numeroInterior": "SN"
+          },
+          "empleoCargoComision": "AUXILIAR CONTABLE",
+          "fechaTomaPosesion": "2022-08-29T00:00:00-0500",
+          "funcionPrincipal": "TIMBRADO DE NOMINA, CONTABILIZAR, CONTROL ADMINISTRATIVO",
+          "nivelEmpleoCargoComision": "CONFIANZA",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "MUNICIPIO DE JUNGAPEO MICHOACAN",
+          "telefonoOficina": {
+            "extension": "0",
+            "telefono": "7151570007"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MARICRUZ",
+          "primerApellido": "VANEGAS",
+          "segundoApellido": "GONZALEZ"
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "ingresoMensualNetoDeclarante": {
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {},
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "ubpm1vh70a",
+    "metadata": {
+      "actualizacion": "2022-10-13T14:33:54-0500",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "MUNICIPIO DE JUNGAPEO MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

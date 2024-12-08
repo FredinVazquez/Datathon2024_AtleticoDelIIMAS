@@ -1,0 +1,261 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "aclaracionesObservaciones": "",
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "aclaracionesObservaciones": "",
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "aclaracionesObservaciones": "",
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "aclaracionesObservaciones": "",
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "representaciones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "adeudosPasivos": {
+          "aclaracionesObservaciones": "",
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "aclaracionesObservaciones": "",
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "aclaracionesObservaciones": "",
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "SIN OBSERVACIONES",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "Ingeniería Mecánica",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2020-11-20",
+              "institucionEducativa": {
+                "nombre": "Universidad Michoacana de san Nicolás de Hidalgo",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [],
+          "ninguno": true
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "Desarrollo Rural",
+          "clasificacion": "Empleado",
+          "contratadoPorHonorarios": true,
+          "domicilioMexico": {
+            "calle": "Melchor Ocampo",
+            "codigoPostal": "60540",
+            "coloniaLocalidad": "Tepalcatepec",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "089",
+              "valor": "Tepalcatepec"
+            },
+            "numeroExterior": "127",
+            "numeroInterior": "SN"
+          },
+          "empleoCargoComision": "SECRETARIO",
+          "fechaTomaPosesion": "2023-06-12",
+          "funcionPrincipal": "Auxiliar del director del área",
+          "nivelEmpleoCargoComision": "MEDIO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "TEPALCATEPEC",
+          "telefonoOficina": {
+            "extension": "453",
+            "lada": "52",
+            "telefono": "4531030483"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JORDAN FERNANDO",
+          "primerApellido": "LOPEZ",
+          "segundoApellido": "MERLO"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "sin observaciones",
+          "domicilioMexico": {
+            "calle": "felipe carrillo puerto",
+            "codigoPostal": "60540",
+            "coloniaLocalidad": "Tepalcatepec",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "089",
+              "valor": "Tepalcatepec"
+            },
+            "numeroExterior": "471",
+            "numeroInterior": "471"
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 4170
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 4170
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 4170
+          }
+        },
+        "inversionesCuentasValores": {
+          "aclaracionesObservaciones": "",
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "bbva",
+                "pais": "MX",
+                "rfc": "LOMJ961107M6"
+              },
+              "numeroCuentaContrato": "1287593309",
+              "porcentajeIncrementoDecremento": 0,
+              "saldoSituacionActual": {
+                "moneda": "MXN",
+                "valor": 382
+              },
+              "subTipoInversion": {
+                "clave": "CNOM",
+                "valor": "CUENTA DE NÓMINA"
+              },
+              "tercero": [],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoComodato": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "xmmlf9tjsw",
+    "metadata": {
+      "actualizacion": "2024-01-02T10:15:55Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "TEPALCATEPEC",
+      "tipo": "INICIAL"
+    }
+  }
+]

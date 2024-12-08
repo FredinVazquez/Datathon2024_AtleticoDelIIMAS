@@ -1,0 +1,442 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "fideicomisos": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2020-01-01",
+          "fechaIngreso": "2020-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "",
+            "valor": 0
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true,
+          "totalIngresosNetosAnuales": {
+            "moneda": "",
+            "valor": 0
+          }
+        },
+        "adeudos": {
+          "adeudo": [
+            {
+              "fechaAdquisicion": "2015-10-01",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 1814000
+              },
+              "numeroCuentaContrato": "012973966457575101",
+              "otorganteCredito": {
+                "nombreInstitucion": "",
+                "razon_social": "",
+                "rfc": "",
+                "tipoPersona": "FISICA"
+              },
+              "saldoInsolutoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoFechaConclusion": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "tipoAdeudo": {
+                "clave": "CHIP",
+                "valor": "Crédito hipotecario"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [
+            {
+              "fechaAdquisicion": "2015-10-30",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Compraventa"
+              },
+              "formaPago": "CRÉDITO",
+              "porcentajePropiedad": 100,
+              "superficieConstruccion": {
+                "unidad": "m2",
+                "valor": 141
+              },
+              "superficieTerreno": {
+                "unidad": "m2",
+                "valor": 108
+              },
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInmueble": {
+                "clave": "CASA",
+                "valor": "Casa"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 1814000
+              },
+              "valorConformeA": "CONTRATO"
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesMuebles": {
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "Maestria en Filosofía de la Cultura",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2006-09-21",
+              "institucionEducativa": {
+                "nombre": "UMSNH",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "MAE",
+                "valor": "MAESTRÍA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SECRETARÍA DE TURISMO Y CULTURA",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "GARCÍA ORTÍZ",
+            "ciudadLocalidad": "No especificado",
+            "codigoPostal": "60000",
+            "estadoProvincia": "No especificado",
+            "numeroExterior": "1",
+            "numeroInterior": "",
+            "pais": "MX"
+          },
+          "domicilioMexico": {
+            "calle": "GARCÍA ORTÍZ",
+            "codigoPostal": "60000",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "102",
+              "valor": "Uruapan"
+            },
+            "numeroExterior": "1",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "DIRECTOR DE CULTURA",
+          "fechaTomaPosesion": "2020-09-29",
+          "funcionPrincipal": "Otro (Especifique)",
+          "nivelEmpleoCargoComision": "19",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Municipio de Uruapan Michoacán",
+          "telefonoOficina": {
+            "extension": "",
+            "telefono": "4525247613"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MARTIN",
+          "primerApellido": "PAZ",
+          "segundoApellido": "HURTADO"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "EDUCATIVA",
+              "empleoCargoComision": "DOCENTE",
+              "fechaEgreso": "2021-07-16",
+              "fechaIngreso": "1998-10-16",
+              "funcionPrincipal": "Atención directa al público",
+              "nivelOrdenGobierno": "ESTATAL",
+              "nombreEntePublico": "UMSNH",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [
+              {
+                "nombreRazonSocial": "Martín Paz Hurtado",
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 30000
+                },
+                "tipoNegocio": "Servicio de cafeteria"
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 30000
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 177035
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 106012
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 71023
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 76012
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 76012
+                },
+                "tipoServicio": "Docente en la UMSNH"
+              }
+            ]
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 177035
+          }
+        },
+        "inversiones": {
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "Banbajio",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CNOM",
+                "valor": "CUENTA DE NÓMINA"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": false,
+          "vehiculo": [
+            {
+              "anio": 2020,
+              "fechaAdquisicion": "2021-05-25",
+              "formaAdquisicion": {
+                "clave": "RST",
+                "valor": "RIFA O SORTEO"
+              },
+              "formaPago": "CONTADO",
+              "marca": "HARLEY-DAVIDSON",
+              "modelo": "SPORTSTER 1200 CUSTOM",
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoOperacion": "AGREGAR",
+              "tipoVehiculo": {
+                "clave": "AUMOT",
+                "valor": "Automóvil/ motocicleta"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 244900
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "p67esx7x9f",
+    "metadata": {
+      "actualizacion": "2021-07-16T00:00:00Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "Municipio de Uruapan Michoacán",
+      "tipo": "INICIAL"
+    }
+  }
+]

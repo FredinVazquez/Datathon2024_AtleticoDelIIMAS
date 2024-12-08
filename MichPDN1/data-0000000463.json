@@ -1,0 +1,1175 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [
+            {
+              "clientePrincipal": {
+                "tipoPersona": "FISICA"
+              },
+              "empresa": {
+                "nombreEmpresaServicio": "AGRICOLA GOGB SPR DE RL",
+                "rfc": "AGO1905083M9"
+              },
+              "montoAproximadoGanancia": {
+                "moneda": "MXN",
+                "valor": 100000
+              },
+              "realizaActividadLucrativa": true,
+              "sector": {
+                "clave": "AGRI",
+                "valor": "Agricultura"
+              },
+              "tipoOperacion": "AGREGAR",
+              "tipoRelacion": "DECLARANTE",
+              "ubicacion": {
+                "entidadFederativa": {
+                  "clave": "09",
+                  "valor": "Ciudad de México"
+                },
+                "pais": "MX"
+              }
+            }
+          ],
+          "ninguno": false
+        },
+        "fideicomisos": {
+          "fideicomisos": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": false,
+          "participacion": [
+            {
+              "nombreEmpresaSociedadAsociacion": "GRUPO BBYB DE MEXICO SA DE CV",
+              "porcentajeParticipacion": 35,
+              "recibeRemuneracion": false,
+              "rfc": "GBB010917SU7",
+              "tipoOperacion": "AGREGAR",
+              "tipoParticipacion": {
+                "clave": "ACCI",
+                "valor": "Accionista"
+              },
+              "tipoRelacion": "DECLARANTE"
+            },
+            {
+              "nombreEmpresaSociedadAsociacion": "AGRICOLA GOGB SPR DE RL",
+              "porcentajeParticipacion": 25,
+              "recibeRemuneracion": false,
+              "rfc": "AGO1905083M9",
+              "tipoOperacion": "AGREGAR",
+              "tipoParticipacion": {
+                "clave": "ACCI",
+                "valor": "Accionista"
+              },
+              "tipoRelacion": "DECLARANTE"
+            }
+          ]
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2020-01-01",
+          "fechaIngreso": "2020-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "",
+            "valor": 0
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true,
+          "totalIngresosNetosAnuales": {
+            "moneda": "",
+            "valor": 0
+          }
+        },
+        "adeudos": {
+          "adeudo": [
+            {
+              "fechaAdquisicion": "2021-08-01",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 19616
+              },
+              "numeroCuentaContrato": "5460044007544762",
+              "otorganteCredito": {
+                "nombreInstitucion": "BANCA INVEX",
+                "rfc": ""
+              },
+              "saldoInsolutoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoFechaConclusion": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "tipoAdeudo": {
+                "clave": "TCRN",
+                "valor": "Tarjeta de crédito bancaria"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            },
+            {
+              "fechaAdquisicion": "2021-08-29",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 19005
+              },
+              "numeroCuentaContrato": "4741751132951835",
+              "otorganteCredito": {
+                "nombreInstitucion": "BANREGIO",
+                "rfc": ""
+              },
+              "saldoInsolutoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoFechaConclusion": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "tipoAdeudo": {
+                "clave": "TCRN",
+                "valor": "Tarjeta de crédito bancaria"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            },
+            {
+              "fechaAdquisicion": "2021-08-30",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 9552
+              },
+              "numeroCuentaContrato": "5188999106520501",
+              "otorganteCredito": {
+                "nombreInstitucion": "BANAMEX",
+                "rfc": ""
+              },
+              "saldoInsolutoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoFechaConclusion": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "tipoAdeudo": {
+                "clave": "TCRN",
+                "valor": "Tarjeta de crédito bancaria"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            },
+            {
+              "fechaAdquisicion": "2021-08-26",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 14486
+              },
+              "numeroCuentaContrato": "5188999109100764",
+              "otorganteCredito": {
+                "nombreInstitucion": "BANAMEX",
+                "rfc": ""
+              },
+              "saldoInsolutoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoFechaConclusion": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "tipoAdeudo": {
+                "clave": "TCRN",
+                "valor": "Tarjeta de crédito bancaria"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            },
+            {
+              "fechaAdquisicion": "2021-02-27",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 433000
+              },
+              "numeroCuentaContrato": "576147",
+              "otorganteCredito": {
+                "nombreInstitucion": "TOYOTA FINANCIAL SERVICES SA DE CV",
+                "rfc": ""
+              },
+              "saldoInsolutoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoFechaConclusion": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "tipoAdeudo": {
+                "clave": "CAUT",
+                "valor": "Crédito automotriz"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [
+            {
+              "fechaAdquisicion": "2016-08-07",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Compraventa"
+              },
+              "formaPago": "CONTADO",
+              "porcentajePropiedad": 100,
+              "superficieConstruccion": {
+                "unidad": "m2",
+                "valor": 150
+              },
+              "superficieTerreno": {
+                "unidad": "m2",
+                "valor": 115
+              },
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInmueble": {
+                "clave": "CASA",
+                "valor": "Casa"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 350000
+              },
+              "valorConformeA": "ESCRITURA PÚBLICA"
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesMuebles": {
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "CIENCIAS DE LA EDUCACION",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "TRUNCO",
+              "fechaObtencion": "2011-06-10",
+              "institucionEducativa": {
+                "nombre": "CENTRO CULTURA ITACA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "SIN_CAMBIOS"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "ORGANO_AUTONOMO",
+          "areaAdscripcion": "CAPASU",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "CUPATITZIO",
+            "ciudadLocalidad": "No especificado",
+            "codigoPostal": "60094",
+            "estadoProvincia": "No especificado",
+            "numeroExterior": "207",
+            "numeroInterior": "",
+            "pais": "MX"
+          },
+          "domicilioMexico": {
+            "calle": "CUPATITZIO",
+            "codigoPostal": "60094",
+            "coloniaLocalidad": "LA TAMACUA",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "102",
+              "valor": "Uruapan"
+            },
+            "numeroExterior": "207",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "DIRECTOR GENERAL",
+          "fechaTomaPosesion": "2021-09-14",
+          "funcionPrincipal": "Administración de bienes",
+          "nivelEmpleoCargoComision": "19",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Municipio de Uruapan Michoacán",
+          "telefonoOficina": {
+            "extension": "105",
+            "telefono": "4525240061"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "RODOLFO LEONEL",
+          "primerApellido": "BARRAGAN",
+          "segundoApellido": "VARGAS"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "OTR",
+                "valor": "No aplica"
+              },
+              "area": "DIRECCION GENERAL",
+              "fechaEgreso": "2021-09-14",
+              "fechaIngreso": "2021-09-14",
+              "nombreEmpresaSociedadAsociacion": "COMISION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE URUAPAN, MICHOACAN",
+              "puesto": "DIRECTOR GENERAL",
+              "rfc": "CAP9203241G6",
+              "sector": {
+                "clave": "OTRO",
+                "valor": "No aplica"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "COORDINACION GENERAL DE PROYECTOS ESPECIALES",
+              "empleoCargoComision": "DIRECTOR DE CONTROL PRESUPUESTAL",
+              "fechaEgreso": "2018-05-30",
+              "fechaIngreso": "2017-10-01",
+              "funcionPrincipal": "Administración Financiera (Recaudación de Ingresos, Desembolso de Fondos, Presupuesto, Contabilidad)",
+              "nivelOrdenGobierno": "FEDERAL",
+              "nombreEntePublico": "COMISION NACIONAL DEL AGUA",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "ORGANISMO DE CUENCA VALLE DE MEXICO",
+              "empleoCargoComision": "COORDINADOR DE ASESORERS",
+              "fechaEgreso": "2017-09-30",
+              "fechaIngreso": "2013-01-08",
+              "funcionPrincipal": "Áreas técnicas",
+              "nivelOrdenGobierno": "FEDERAL",
+              "nombreEntePublico": "COMISION NACIONAL DEL AGUA",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "CONSTRUCCION",
+              "fechaEgreso": "2013-01-07",
+              "fechaIngreso": "1992-05-01",
+              "nombreEmpresaSociedadAsociacion": "RODOLFO LEONEL BARRAGAN VARGAS",
+              "puesto": "DIRECTOR",
+              "rfc": "BAVR580921MC4",
+              "sector": {
+                "clave": "CONS",
+                "valor": "Construcción"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 8000
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "Fondos de inversión"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 8000
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [
+              {
+                "nombreRazonSocial": "GRUPO BBY B DE MEXICO SA DE CV",
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 25000
+                },
+                "tipoNegocio": "SERVICIOS"
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 25000
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 152380
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 103000
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 49380
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 70000
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 70000
+                },
+                "tipoServicio": "CONSULTORIA  EN MATERIA HIDRÁULICA"
+              }
+            ]
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 172380
+          }
+        },
+        "inversiones": {
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "FINAMEX",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "SOIN",
+                "valor": "SOCIEDADES DE INVERSIÓN"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "FINV",
+                "valor": "FONDOS DE INVERSIÓN"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BANORTE",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CCHE",
+                "valor": "CUENTA DE CHEQUES"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BBVA",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CAHO",
+                "valor": "CUENTA DE AHORRO"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "CYG",
+                  "valor": "Cónyuge"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BBVA",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CAHO",
+                "valor": "CUENTA DE AHORRO"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "CYG",
+                  "valor": "Cónyuge"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BBVA",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "SOIN",
+                "valor": "SOCIEDADES DE INVERSIÓN"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "FINV",
+                "valor": "FONDOS DE INVERSIÓN"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "CYG",
+                  "valor": "Cónyuge"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BBVA",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CAHO",
+                "valor": "CUENTA DE AHORRO"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEN",
+                  "valor": "Declarante y dependiente economico"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BANORTE",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "SOIN",
+                "valor": "SOCIEDADES DE INVERSIÓN"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "FINV",
+                "valor": "FONDOS DE INVERSIÓN"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "CYG",
+                  "valor": "Cónyuge"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "HSBC",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "SOIN",
+                "valor": "SOCIEDADES DE INVERSIÓN"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "FINV",
+                "valor": "FONDOS DE INVERSIÓN"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "CYG",
+                  "valor": "Cónyuge"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BANAMEX",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CAHO",
+                "valor": "CUENTA DE AHORRO"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "CYG",
+                  "valor": "Cónyuge"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BANORTE",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CAHO",
+                "valor": "CUENTA DE AHORRO"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "CYG",
+                  "valor": "Cónyuge"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CCHE",
+                "valor": "CUENTA DE CHEQUES"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "CYG",
+                  "valor": "Cónyuge"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BBVA",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "SOIN",
+                "valor": "SOCIEDADES DE INVERSIÓN"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "FINV",
+                "valor": "FONDOS DE INVERSIÓN"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "CYG",
+                  "valor": "Cónyuge"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": false,
+          "vehiculo": [
+            {
+              "anio": 2021,
+              "fechaAdquisicion": "2021-01-30",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Compraventa"
+              },
+              "formaPago": "CRÉDITO",
+              "marca": "TOYOTA",
+              "modelo": "PRIUS",
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoOperacion": "AGREGAR",
+              "tipoVehiculo": {
+                "clave": "AUMOT",
+                "valor": "Automóvil/ motocicleta"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 423000
+              }
+            },
+            {
+              "anio": 2011,
+              "fechaAdquisicion": "2020-01-20",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Compraventa"
+              },
+              "formaPago": "CONTADO",
+              "marca": "CHEVROLET",
+              "modelo": "CHEVY",
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoOperacion": "AGREGAR",
+              "tipoVehiculo": {
+                "clave": "AUMOT",
+                "valor": "Automóvil/ motocicleta"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 40000
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "q68pci0h4m",
+    "metadata": {
+      "actualizacion": "2021-09-28T00:00:00Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "Municipio de Uruapan Michoacán",
+      "tipo": "INICIAL"
+    }
+  }
+]

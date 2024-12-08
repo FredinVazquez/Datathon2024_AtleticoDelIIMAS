@@ -1,0 +1,2742 @@
+[
+    {
+        "autoridadSancionadora": "SECRETARÍA DE CONTRALORÍA",
+        "causaMotivoHechos": "SIN CONTAR CON AUTORIZACIÓN DE SU SUPERIOR JERÁRQUICO REALIZO UN DEPÓSITO POR ORDEN DE LOS $2,348,985.18(DOS MILLONES TRECIENTOS CUARENTA Y OCHO MIL NOVECIENTOS OCHENTA Y CINCO PESOS 18/100 M.N.),  DEPOSITO HECHO A UNA CUENTA DE LA QUE SE DESCONOCE QUIEN SEA EL TITULAR DE LA MISMA; SIENDO UN RECURSO ASIGNADO AL MUNICIPIO DE PENJAMILLO, CORRESPONDIENTE A LA SEGUNDA MINISTRACIÓN DE LA OBRA DENOMINADA: CONSTRUCCIÓN DE LA PLANTA DE TRATAMIENTO DE AGUAS RESIDUALES DE PENJAMILLO\"",
+        "expediente": "DNR-PAR-17/2017",
+        "fechaCaptura": "2023-06-20",
+        "id": "BAS2LUR1",
+        "inhabilitacion": {
+            "plazo": "5 AÑOS",
+            "fechaInicial": "2021-12-07",
+            "fechaFinal": "2026-12-07"
+        },
+        "institucionDependencia": {
+            "clave": "SECFINANZAS",
+            "nombre": "Secretaria de Finanzas y Administración",
+            "siglas": "SECFINANZAS"
+        },
+        "multa": {
+            "monto": 4697970.36,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNO",
+        "resolucion": {
+            "fechaResolucion": "2021-08-10"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "CARS860914MDFRYT09",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "DIRECCIÓN",
+            "nombres": "STEFANY BERENICE",
+            "primerApellido": "CARREON",
+            "puesto": "DIRECTORA DE ADMINISTRACIÓN DE FONDOS",
+            "rfc": "CARS860914963",
+            "segundoApellido": "REYES"
+        },
+        "tipoFalta": {
+            "clave": "VLNP",
+            "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+        "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION DE SITUACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+        "documentos": [
+            {
+                "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+                "fecha": "2021-07-08",
+                "id": "7Jfy",
+                "tipo": "RESOLUCION",
+                "titulo": "RESOLUCION ADMINISTRATIVA",
+                "url": "https://drive.google.com/file/d/19amio033raqt6phanewwmexz86yys4m3/view?usp=sharing"
+            }
+        ],
+        "expediente": "HALC/CONT/JS/PRA/012/2020",
+        "fechaCaptura": "2022-02-28",
+        "id": "BOZ7JUV7",
+        "inhabilitacion": {
+            "plazo": "01 UN AÑO",
+            "fechaInicial": "2021-07-15",
+            "fechaFinal": "2022-07-15"
+        },
+        "institucionDependencia": {
+            "clave": "052",
+            "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+            "siglas": "--"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "SOLO SE APLICO INHABILITACION, NO MULTA",
+        "resolucion": {
+            "fechaResolucion": "2021-07-08"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "JAFI900830HMNCLS05",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "DIRECTOR",
+            "nombres": "ISAIAS",
+            "primerApellido": "JACINTO",
+            "puesto": "DIRECTOR DE SERVICIOS PUBLICOS MUNICIPALES",
+            "rfc": "JAFI9008309Y4",
+            "segundoApellido": "FLORES"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARÍA DE CONTRALORÍA",
+        "causaMotivoHechos": "NO ADMINISTRO LOS RECURSOS FEDERALES PROVENIENTES DEL RAMO 33, TRANSFERIDOS AL ESTADO DE MICHOACÁN, CORRESPONDIENTE AL FONDO DE APORTACIONES PARA LOS SERVICIOS DE SALUD (FASSA) DEL EJERCICIO FISCAL 2014, DOS MIL CATORCE, TODA VEZ QUE LOS DÍAS 22 VEINTIDÓS DE JULIO, 18 DIECIOCHO DE AGOSTO, 18 DIECIOCHO DE SEPTIEMBRE Y 17 DE DIECISIETE DE OCTUBRE, TODOS DEL AÑO 2014, REALIZO PAGOS POR LA CANTIDAD TOTAL DE $7,464,223.00 (SIETE MILLONES CUATROCIENTOS SESENTA Y CUATRO MIL DOSCIENTOS VEINTITRÉS PESOS 00/100 M.N.) POR CONCEPTO DE IMPUESTOS SOBE EROGACIONES POR REMUNERACIÓN AL TRABAJO PERSONAL, PRESTADO BAJO LA DIRECCIÓN Y DEPENDENCIA DE UN PATRÓN; LA CUAL FUE PAGADA CON RECURSOS DEL FASSA, SIN TENER LA AUTORIZACIÓN PARA DICHO CONCEPTO.",
+        "expediente": "DNR-SRO-PAR-36/2018",
+        "fechaCaptura": "2023-06-21",
+        "id": "CAY5ZOB9",
+        "inhabilitacion": {
+            "plazo": "4 AÑOS",
+            "fechaInicial": "2022-11-10",
+            "fechaFinal": "2026-11-10"
+        },
+        "institucionDependencia": {
+            "clave": "SECFINANZAS",
+            "nombre": "Secretaria de Finanzas y Administración",
+            "siglas": "SECFINANZAS"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2022-01-07"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "CARS860914MDFRYT09",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "DIRECTOR",
+            "nombres": "STEFANY BERENICE",
+            "primerApellido": "CARREON",
+            "puesto": "DIRECTORA DE ADMINISTRACIÓN DE FONDOS DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN ",
+            "rfc": "CARS860914963",
+            "segundoApellido": "REYES"
+        },
+        "tipoFalta": {
+            "clave": "NAD",
+            "valor": "NEGLIGENCIA ADMINISTRATIVA"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE CONTRALORÍA",
+        "causaMotivoHechos": "NO VIGILO LA TRANSFERENCIA DE LOS RENDIMIENTOS GENERADOS DE LA CUENTA BANCARÍA, DE LA UNIVERSIDAD MICHOACANA DE SAN NICOLÁS DE HIDALGO, INCUMPLIENDO CON EL CONVENIO DE APOYO FINANCIERO DE FECHA 07 SIETE DE ENERO DE 2014 DOS MIL CATORCE, POR LO QUE GENERÓ PERJUICIO A LA HACIENDA PÚBLICA FEDERAL POR UN MONTO DE $730,758.36 (SETECIENTOS TREINTA MIL SETECIENTOS CINCUENTA Y OCHO PESOS 36/100 M.N.), POR CONCEPTOS DE INTERESES GENERADOS.",
+        "expediente": "DNR-SRO-PAR-68/2018",
+        "fechaCaptura": "2023-09-08",
+        "id": "CEC2VEQ2",
+        "inhabilitacion": {
+            "plazo": "1 UN AÑO 6 MESES",
+            "fechaInicial": "2023-08-04",
+            "fechaFinal": "2025-02-04"
+        },
+        "institucionDependencia": {
+            "clave": "SECFINANZAS",
+            "nombre": "Secretaria de Finanzas y Administración",
+            "siglas": "SECFINANZAS"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-12-02"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "AEZG731209MPLMMD03",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "DIRECTOR DE AREA",
+            "nombres": "MARIA GUADALUPE",
+            "primerApellido": "AMESCUA",
+            "puesto": "DIRECTORA DE POLITICA HACENDARIA",
+            "rfc": "AEZG731209AG9",
+            "segundoApellido": "ZAMORA"
+        },
+        "tipoFalta": {
+            "clave": "NAD",
+            "valor": "NEGLIGENCIA ADMINISTRATIVA"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE CONTRALORIA ",
+        "causaMotivoHechos": "NO DIRIGIÓ, NI CONTROLO EFICAZMENTE LAS ACTIVIDADES DE SU ADMINISTRACIÓN DE RENTAS, DADO QUE NO ORGANIZO NI OPERO DEBIDAMENTE LA RECAUDACIÓN DE DERECHOS, VIRTUD DE QUE REALIZO UN COBRO INDEBIDO POR LA CANTIDAD DE $284.96 (DOSCIENTOS OCHENTA Y CUATRO PESOS 96/100 M.N.) POR CONCEPTO DE CANJE DE PLACAS Y ACTUALIZACIÓN DE DICHO CANJE CORRESPONDIENTE AL EJERCICIO 2012 DE UNA MOTOCICLETA ITALIKA, MODELO 2014",
+        "expediente": "PRA-2B-070/2020",
+        "fechaCaptura": "2023-08-03",
+        "id": "CEJ2BOY2",
+        "inhabilitacion": {
+            "plazo": "6 SEIS MESES ",
+            "fechaInicial": "2021-10-04",
+            "fechaFinal": "2022-04-04"
+        },
+        "institucionDependencia": {
+            "clave": "SECFINANZAS",
+            "nombre": "Secretaria de Finanzas y Administración",
+            "siglas": "SECFINANZAS"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-05-17"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "COAJ790607HMNRGN09",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "RECEPTOR ",
+            "nombres": "JUAN RICARDO",
+            "primerApellido": "CORONA",
+            "puesto": "RECEPTOR DE RENTAS DE INDAPARAPEO",
+            "rfc": "COAJ790607BIA",
+            "segundoApellido": "AGUILAR"
+        },
+        "tipoFalta": {
+            "clave": "NAD",
+            "valor": "NEGLIGENCIA ADMINISTRATIVA"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE CONTRALORIA",
+        "causaMotivoHechos": "NO PRESENTO LA DECLARACIÓN DE MODIFICACIÓN PATRIMONIAL 2019 DOS MIL DIECINUEVE. ",
+        "expediente": "DRSP-PAR-560-2015",
+        "fechaCaptura": "2023-11-22",
+        "id": "CIK4SED3",
+        "inhabilitacion": {
+            "plazo": "1 UN AÑO",
+            "fechaInicial": "2022-01-29",
+            "fechaFinal": "2023-01-29"
+        },
+        "institucionDependencia": {
+            "clave": "IJUMICH",
+            "nombre": "Instituto de la Juventud Michoacana",
+            "siglas": "IJUMICH"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-09-28"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "MEPJ890227HDFJNS00",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "ASESOR",
+            "nombres": "JOSUE ALONSO",
+            "primerApellido": "MEJIA",
+            "puesto": "ASESOR DE LA EXTINTA SECRETARIA DE JOVENES AHORA INSTITUTO DE LA JUVENTUD MICHOACANA",
+            "rfc": "MEPJ890227J66",
+            "segundoApellido": "PINEDA"
+        },
+        "tipoFalta": {
+            "clave": "VLNP",
+            "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+        "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION DE SITUACION PATRIMONIAL Y DE INTERESES DE CONCLUSION",
+        "documentos": [
+            {
+                "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+                "fecha": "2021-07-06",
+                "id": "Uvkp",
+                "tipo": "RESOLUCION",
+                "titulo": "RESOLUCION ADMINISTRATIVA",
+                "url": "https://drive.google.com/file/d/1ayctag0a7cbk-ssotnhd2puiiotugjai/view?usp=sharing"
+            }
+        ],
+        "expediente": "HALC/CONT/JS/PRA/005/2020",
+        "fechaCaptura": "2022-02-28",
+        "id": "CUV8TAC8",
+        "inhabilitacion": {
+            "plazo": "01 UN AÑO",
+            "fechaInicial": "2021-07-12",
+            "fechaFinal": "2022-07-12"
+        },
+        "institucionDependencia": {
+            "clave": "052",
+            "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+            "siglas": "--"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "SE APLICO INHABILITACION, NO MULTA",
+        "resolucion": {
+            "fechaResolucion": "2021-07-06"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "BACT880123MMNRNN07",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "JEFE",
+            "nombres": "TANIA",
+            "primerApellido": "BARRETO",
+            "puesto": "JEFA DE REGLAMENTOS GIROS BLANCOS",
+            "rfc": "BACT880123RYA",
+            "segundoApellido": "CONTRERAS"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+        "causaMotivoHechos": "NO CUMPLIR CON DIVERSAS OBLIGACIONES FISCALES, ADEMAS DE NO RESPALDAR CON LOS DOCUMENTOS SOPORTE DE AFECTACION PRESUPUESTARIA MULTIPLES TRANSACCIONES ASI COMO INOBSERVAR EL PROCESO DE ADQUISICIONES CON CARGO A PRESUPUESTO DE EGRESOS MUNICIPALES",
+        "documentos": [
+            {
+                "descripcion": "SE EMITE INHABILITACION PARA EL SERVIDOR PUBLICO",
+                "fecha": "2023-07-17",
+                "id": "Ypac",
+                "tipo": "RESOLUCION",
+                "titulo": "RESOLUCION ADMINISTRATIVA",
+                "url": "https://acortar.link/op7to2"
+            }
+        ],
+        "expediente": "HALC/CONT/JS/PRA/002/2020",
+        "fechaCaptura": "2023-07-18",
+        "id": "DEN3WAL3",
+        "inhabilitacion": {
+            "plazo": "11 ONCE MESES Y 20 VEINTE DIAS",
+            "fechaInicial": "2023-04-03",
+            "fechaFinal": "2024-04-01"
+        },
+        "institucionDependencia": {
+            "clave": "052",
+            "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+            "siglas": "--"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "SOLO SE APLICO INHABILITACION, NO MULTA",
+        "resolucion": {
+            "fechaResolucion": "2023-03-30"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "GOEG680824HMNDSL09",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "TESORERO MUNICIPAL",
+            "nombres": "GUILLERMO",
+            "primerApellido": "GODOY",
+            "puesto": "TESORERO MUNICIPAL",
+            "rfc": "GOEG680824CA8",
+            "segundoApellido": "ESCALANTE"
+        },
+        "tipoFalta": {
+            "clave": "VLNP",
+            "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE CONTRALORIA ",
+        "causaMotivoHechos": "NO CUMPLIO CON LEGALIDAD Y RESPONSABILIDAD SU OBLIGACION COMO SERVIDOR PUBLICO AL DESEMPEÑAR EL CARGO QUE TENIA ENCOMENDADOI TODA VEZ QUE NO PRESENTO SU DECLARACION DE SITUACION PATRIMONIAL INICIAL, DENTRO DE LOS 60 DIAS NATURALES SEGUIDOS A LA TOMA DE POSESION DEL CARGO, QUE FUE EL DIA OCHO DE DICIEMBRE DEL DOS MIL QUINCE  Y DEBIO PRESENTAR LA DECLARACION A MAS TARDAR EL SEIS DE FEBRERO DEL DIECISEIS",
+        "expediente": "DNR-SRO-PAR-162/2017",
+        "fechaCaptura": "2023-11-22",
+        "id": "DEQ4YAK5",
+        "inhabilitacion": {
+            "plazo": "1 AÑO ",
+            "fechaInicial": "2020-08-04",
+            "fechaFinal": "2021-08-04"
+        },
+        "institucionDependencia": {
+            "clave": "SEGOBM",
+            "nombre": "Secretaria de Gobierno",
+            "siglas": "SEGOBM"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2019-10-10"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "BAGP880216MMNRLL09",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "JEFE DE DEPARTAMENTO ",
+            "nombres": "PAULA ",
+            "primerApellido": "BARAJAS",
+            "puesto": "OFICIAL ADSCRITA A LA DIRECCIÓN DEL REGISTRO CIVIL EN EL ESTADO DE MICHOACÁN ",
+            "rfc": "BAGP880216G78",
+            "segundoApellido": "GALLEGOS "
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE CONTRALORÍA",
+        "causaMotivoHechos": "NO CUMPLIR CON EFICIENCIA, LEGALIDAD Y HONRADEZ, EL SERVICIO QUE TENÍA ENCOMENDADO COMO SERVIDOR PÚBLICO, PARTICULARMENTE COMO DIRECTOR DE PARTICIPACIÓN SOCIAL EN LA SECRETARIA DE POLÍTICA SOCIAL EN EL ESTADO DE MICHOACÁN TODA VEZ QUE NO REALIZO LA ENTREGA-RECEPCIÓN RESPECTO DEL RELEVO INSTITUCIONAL DE DICHA DIRECCIÓN QUE OCUPO DEL 16 DIECISÉIS DE MARZO DEL AÑO 2012 DOS MIL DOCE AL 30 TREINTA DE MAYO DEL AÑO 2014, SIENDO QUE EN REPETIDAS OCASIONES LE FUE REQUERIDO POR PARTE DE LA SECRETARIA DE POLÍTICA SOCIAL Y LA COORDINACIÓN DE CONTRALORÍA DEL ESTADO, HACIENDO CASO OMISO DE DICHOS REQUERIMIENTOS.  NO CUMPLIR CON EFICIENCIA, LEGALIDAD Y HONRADEZ, EL SERVICIO QUE TENÍA ENCOMENDADO COMO SERVIDOR PÚBLICO PARTICULARMENTE COMO DIRECTOR DE PARTICIPACIÓN SOCIAL EN LA SECRETARIA DE POLÍTICA SOCIAL EN EL ESTADO DE MICHOACÁN, TODA VEZ QUE DERIVO DE RELEVO INSTITUCIONAL DE DICHA DIRECCIÓN EN FECHA 31 TREINTA Y UNO DE MAYO DEL AÑO 2014, DOS MIL CATORCE EN EL CUAL EL C. JOSÉ GERARDO TALAVERA PINEDA FUE DADO DE BAJA DE DICHA DEPENDENCIA, ESTE SEGUÍA FUNGIENDO COMO DIRECTOR DE LA MISMA, SIN QUE OBRE DOCUMENTO ALGUNO QUE ESTABLEZCA LO CONTRARIO.  ",
+        "expediente": "DRSP-PAR-491/2014",
+        "fechaCaptura": "2023-09-08",
+        "id": "DES4QIH8",
+        "inhabilitacion": {
+            "plazo": "1 UN AÑO",
+            "fechaInicial": "2022-02-04",
+            "fechaFinal": "2023-02-04"
+        },
+        "institucionDependencia": {
+            "clave": "SEDEBI",
+            "nombre": "Secretaria del Bienestar",
+            "siglas": "SEDEBI"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-08-30"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "TAPG770102HMNLNR07",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "DIRECTOR DE AREA",
+            "nombres": "JOSE GERARDO",
+            "primerApellido": "TALAVERA",
+            "puesto": "DIRECTOR DE PARTICIPACIÓN SOCIAL EN LA SECRETARIA DE POLITICA SOCIAL EN EL ESTADO",
+            "rfc": "TAPG7701023D9",
+            "segundoApellido": "PINEDA"
+        },
+        "tipoFalta": {
+            "clave": "VLNP",
+            "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+        "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+        "documentos": [
+            {
+                "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+                "fecha": "2021-07-06",
+                "id": "-Ui1",
+                "tipo": "RESOLUCION",
+                "titulo": "RESOLUCION ADMINISTRATIVA",
+                "url": "https://drive.google.com/file/d/1id2klafpyvdk8gepg7kutbggh1r8bdpd/view?usp=sharing"
+            }
+        ],
+        "expediente": "HALC/CONT/JS/PRA/006/2020",
+        "fechaCaptura": "2022-02-28",
+        "id": "DOX2FUL1",
+        "inhabilitacion": {
+            "plazo": "01 UN AÑO",
+            "fechaInicial": "2021-07-12",
+            "fechaFinal": "2022-07-12"
+        },
+        "institucionDependencia": {
+            "clave": "052",
+            "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+            "siglas": "--"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "SE APLICO INHABILITACION, NO MULTA",
+        "resolucion": {
+            "fechaResolucion": "2021-07-06"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "AENB830803MMNRXR13",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "OPERATIVO U HOMOLOGO",
+            "nombres": "BRENDA",
+            "primerApellido": "ARTEAGA",
+            "puesto": "AUXILIAR EN EL CENTRO DE REHABILITACION INTEGRAL",
+            "rfc": "AENB8308034PA",
+            "segundoApellido": "NUÑEZ"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+        "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION DE SITUACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+        "documentos": [
+            {
+                "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+                "fecha": "2021-07-08",
+                "id": "ywaK",
+                "tipo": "RESOLUCION",
+                "titulo": "RESOLUCION ADMINISTRATIVA",
+                "url": "https://drive.google.com/file/d/1mhvolo5vrkz08_5s4uehus3jmlfvbxms/view?usp=sharing"
+            }
+        ],
+        "expediente": "HALC/CONT/JS/PRA/008/2020",
+        "fechaCaptura": "2022-02-28",
+        "id": "FIW2LIW1",
+        "inhabilitacion": {
+            "plazo": "01 UN AÑO",
+            "fechaInicial": "2021-07-13",
+            "fechaFinal": "2022-07-13"
+        },
+        "institucionDependencia": {
+            "clave": "052",
+            "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+            "siglas": "--"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "SOLO SE APLICO INHABILITACION, NO MULTA",
+        "resolucion": {
+            "fechaResolucion": "2021-07-08"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "GUCE700512MMNTDL09",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "DIRECTORA",
+            "nombres": "ELIZABETH ZULEMA ",
+            "primerApellido": "GUTIERREZ",
+            "puesto": "DIRECTORA DEL COMITE DE PLANEACION PARA EL DESARROLLO MUNICIPAL",
+            "rfc": "GUCE700512DP7",
+            "segundoApellido": "CUADRA"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARÍA DE CONTRALORÍA",
+        "causaMotivoHechos": "NO CUMPLIR CON DILIGENCIA EL SERVICIO QUE TENÍA ENCOMENDADO, TODA VEZ QUE DEL PERIODO DE 01 DE MAYO AL 31 DE DICIEMBRE DE 2012, NO VIGILO EL ADECUADO FUNCIONAMIENTO FINANCIERO DE LA DEPENDENCIA, AL EFECTUARSE PAGOS DE SALARIOS SUPERIORES A LOS ESTIPULADOS EN EL CATÁLOGO DE PUESTOS Y TABULADOR DE SUELDOS MENSUALES PARA SERVIDORES PÚBLICOS SUPERIORES Y MANDOS MEDIOS.",
+        "expediente": "DRSP-PAR-60/2014",
+        "fechaCaptura": "2023-06-21",
+        "id": "GEB3TIQ3",
+        "inhabilitacion": {
+            "plazo": "3 AÑOS",
+            "fechaInicial": "2021-12-02",
+            "fechaFinal": "2024-12-01"
+        },
+        "institucionDependencia": {
+            "clave": "UTM",
+            "nombre": "Universidad Tecnológica de Morelia",
+            "siglas": "UTM"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNO",
+        "resolucion": {
+            "fechaResolucion": "2021-06-04"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "RORA601109HMNSSL03",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "DIRECTOR",
+            "nombres": "ALFREDO",
+            "primerApellido": "ROSALES",
+            "puesto": "RECTOR ",
+            "rfc": "RORA601109N77",
+            "segundoApellido": "ROSALES"
+        },
+        "tipoFalta": {
+            "clave": "NAD",
+            "valor": "NEGLIGENCIA ADMINISTRATIVA"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARÍA DE CONTRALORÍA",
+        "causaMotivoHechos": "OMITIÓ REALIZAR LA TRANSFERENCIA DE LA CANTIDAD DE $235,843,690.00 CORRESPONDIENTE A LOS RECURSOS DERIVADOS COMPONENTE DE INFRAESTRUCTURA EDUCATIVA DEL FONDO DE PORTACIONES MÚLTIPLES 2014 AL INSTITUTO DE LA INFRAESTRUCTURA EDUCATIVA DEL ESTADO DE MICHOACÁN (IIFEEM) DENTRO DE LOS CINCO DÍAS HÁBILES SIGUIENTES A SU RECEPCIÓN, DURANTE EL AÑO 2014",
+        "expediente": "DNR-SRO-PAR-115/2018",
+        "fechaCaptura": "2023-06-21",
+        "id": "HOY1FOL2",
+        "inhabilitacion": {
+            "plazo": "1 AÑO",
+            "fechaInicial": "2022-12-14",
+            "fechaFinal": "2023-12-14"
+        },
+        "institucionDependencia": {
+            "clave": "SECFINANZAS",
+            "nombre": "Secretaria de Finanzas y Administración",
+            "siglas": "SECFINANZAS"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2022-09-10"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "CARS860914MDFRYT09",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "DIRECTOR DE ÁREA",
+            "nombres": "STEFANY BERENICE",
+            "primerApellido": "CARREÓN",
+            "puesto": "DIRECTORA DE ADMINISTRACIÓN DE FONDOS ADSCRITA A LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO",
+            "rfc": "CARS860914963",
+            "segundoApellido": "REYES"
+        },
+        "tipoFalta": {
+            "clave": "NAD",
+            "valor": "NEGLIGENCIA ADMINISTRATIVA"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE CONTRALORÍA ",
+        "causaMotivoHechos": "NO HABER PRESENTADO LA DECLARACIÓN DE MODIFICACIÓN PATRIMONIAL 2019, OBLIGACIÓN QUE DEBIÓ CUMPLIR DURANTE EL MES DE MAYO DEL 2019 DOS MIL DIECINUEVE.",
+        "expediente": "PRA-2B-002/2020",
+        "fechaCaptura": "2023-06-21",
+        "id": "HUW4LUV3",
+        "inhabilitacion": {
+            "plazo": "3 MESES",
+            "fechaInicial": "2022-01-14",
+            "fechaFinal": "2022-04-14"
+        },
+        "institucionDependencia": {
+            "clave": "COEPREDV_MICH",
+            "nombre": "Consejo Estatal para Prevenir y Eliminar la Discriminación y la Violencia",
+            "siglas": "COEPREDV"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-08-31"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "JAHB921217MMNCRR08",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "JEFATURA",
+            "nombres": "BRENDA STEFANIA ",
+            "primerApellido": "JACINTO",
+            "puesto": "JEFA DE DEPARTAMENTO",
+            "rfc": "JAHB921217TBA",
+            "segundoApellido": "HERNANDEZ"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "ÓRGANO INTERNO DE CONTROL",
+        "causaMotivoHechos": "NO PRESENTAR SU DECLARACIÓN D SITUACIÓN PATRIMONIAL DE CONCLUSIÓN DE ENCARGO",
+        "documentos": [
+            {
+                "descripcion": "RESOLUCIÓN ADMINISTRATIVA QUE CONTIENE LA SANCIÓN A LA C LUZ CECILIA SAUCEDO DÍAZ",
+                "fecha": "2023-09-28",
+                "id": "lB3_",
+                "tipo": "RESOLUCION",
+                "titulo": "RESOLUCIÓN ADMINISTRATIVA",
+                "url": "http://tjamich.gob.mx/sisofi_2018/uploads/28-09-2023/resolucion-luz-cecilia-saucedo-diaz.pdf"
+            }
+        ],
+        "expediente": "OIC/DS/11/2022",
+        "fechaCaptura": "2023-09-28",
+        "id": "JEH6QAH7",
+        "inhabilitacion": {
+            "plazo": "UN AÑO",
+            "fechaInicial": "2023-09-06",
+            "fechaFinal": "2024-09-06"
+        },
+        "institucionDependencia": {
+            "clave": "TJAE",
+            "nombre": "Tribunal de Justicia Administrativa del Estado",
+            "siglas": "TJAM"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2023-04-20"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "SADL801021MMNCZZ02",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "AUXILIAR DE OFICINA",
+            "nombres": "LUZ CECILIA",
+            "primerApellido": "SAUCEDO",
+            "puesto": "AUXILIAR DE OFICINA",
+            "rfc": "SADL801021B10",
+            "segundoApellido": "DÍAZ"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARÍA DE CONTRALORÍA ",
+        "causaMotivoHechos": "NO ADMINISTRO EN UNA CUENTA ESPECIFICA LOS RECURSOS FEDERALES DEL RAMO 33 TRANSFERIDOS AL ESTADO, CORRESPONDIENTES AL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LAS ENTIDADES FEDERATIVAS (FAFEF), DEL EJERCICIO FISCAL 2014, CONDUCTA CON LA CUAL SE DIFICULTO LA IDENTIFICACIÓN Y FISCALIZACIÓN DE LOS RECURSOS DEL FONDO DE REFERENCIA SIN ACREDITAR SU DEBIDA APLICACIÓN EN LAS OBRAS Y ACCIONES. ",
+        "expediente": "DNR-SRO-PAR-114/2018",
+        "fechaCaptura": "2023-09-08",
+        "id": "JUL3LIS8",
+        "inhabilitacion": {
+            "plazo": "4 AÑOS",
+            "fechaInicial": "2023-08-02",
+            "fechaFinal": "2027-08-02"
+        },
+        "institucionDependencia": {
+            "clave": "SECFINANZAS",
+            "nombre": "Secretaria de Finanzas y Administración",
+            "siglas": "SECFINANZAS"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-11-30"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "CARS860914MDFRYT09",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "DIRECTOR DE ÁREA",
+            "nombres": "STEFANY BERENICE ",
+            "primerApellido": "CARREÓN",
+            "puesto": "DIRECTORA DE ADMINISTRACIÓN DE FONDOS",
+            "rfc": "CARS860914963",
+            "segundoApellido": "REYES"
+        },
+        "tipoFalta": {
+            "clave": "NAD",
+            "valor": "NEGLIGENCIA ADMINISTRATIVA"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE CONTRALORIA",
+        "causaMotivoHechos": "PRESENTO DE MANERA EXTEMPORÁNEA LA DECLARACIÓN DE CONCLUSIÓN DE ENCARGO, OBLIGACIÓN QUE DEBIÓ CUMPLIR DENTRO DE LOS 40 CUARENTA DÍAS HÁBILES POSTERIORES A LA CONCLUSIÓN DEL ENCARGO, ESTO ANTES DEL 02 DE ENERO 2019 DOS MIL DIECINUEVE, NO OBSTANTE ELLO, FUE HASTA EL 11 ONCE DE MARZO DEL AÑO 2020 DOS MIL VEINTE QUE REALIZADO DICHO TRAMITE, CON UN DESFASE DE 1 AÑO CON 02 MESES.",
+        "expediente": "PRA-2B-044/2020",
+        "fechaCaptura": "2023-11-22",
+        "id": "KAT6BUP8",
+        "inhabilitacion": {
+            "plazo": "3 MESES",
+            "fechaInicial": "2022-02-18",
+            "fechaFinal": "2022-05-18"
+        },
+        "institucionDependencia": {
+            "clave": "CEDPI",
+            "nombre": "Comisión Estatal para el Desarrollo de Los Pueblos Indígenas",
+            "siglas": "CEDPI"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-11-25"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "AORH580809HMNLZM06",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "DIRECTOR GENERAL",
+            "nombres": "HUMBERTO WILFRIDO",
+            "primerApellido": "ALONSO",
+            "puesto": "DIRECTOR GENERAL DE LA COMISIÓN",
+            "rfc": "AORH580809PV0",
+            "segundoApellido": "RAZO"
+        },
+        "tipoFalta": {
+            "clave": "VLNP",
+            "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+        "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION DE SITUACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+        "documentos": [
+            {
+                "descripcion": "SE EMITE INHABILITACION PARA EL SERVIDOR PUBLICO",
+                "fecha": "2022-02-21",
+                "id": "K10Y",
+                "tipo": "RESOLUCION",
+                "titulo": "RESOLUCION ADMINISTRATIVA",
+                "url": "https://drive.google.com/drive/folders/1jgcaci8qoank71pri0g1jw7-j5osxese"
+            }
+        ],
+        "expediente": "HALC/CONT/JS/PRA/014",
+        "fechaCaptura": "2023-06-20",
+        "id": "KOR9HOY9",
+        "inhabilitacion": {
+            "plazo": "11 ONCE MESES Y 15 QUINCE DIAS",
+            "fechaInicial": "2022-02-24",
+            "fechaFinal": "2023-03-11"
+        },
+        "institucionDependencia": {
+            "clave": "052",
+            "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+            "siglas": "--"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "SOLO SE APLICO INHABILITACION Y NO MULTA",
+        "resolucion": {
+            "fechaResolucion": "2022-02-21"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "OICI860226HMNVSV06",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "OPERATIVO",
+            "nombres": "JOSE IVAN",
+            "primerApellido": "OVIEDO",
+            "puesto": "SECRETARIO PARTICULAR DEL SINDICO",
+            "rfc": "OICI860226AW7",
+            "segundoApellido": "CASTAÑEDA"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+        "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION DE SITUACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+        "documentos": [
+            {
+                "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+                "fecha": "2021-07-08",
+                "id": "Qqxz",
+                "tipo": "RESOLUCION",
+                "titulo": "RESOLUCION ADMINISTRATIVA",
+                "url": "https://drive.google.com/file/d/1-n-jlxwz2scmpfrh3lpcrvrlmyhkxxs0/view?usp=sharing"
+            }
+        ],
+        "expediente": "HALC/CONT/JS/PRA/009/2020",
+        "fechaCaptura": "2022-02-28",
+        "id": "KOV2CIM7",
+        "inhabilitacion": {
+            "plazo": "01 UN AÑO",
+            "fechaInicial": "2021-07-15",
+            "fechaFinal": "2022-07-15"
+        },
+        "institucionDependencia": {
+            "clave": "052",
+            "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+            "siglas": "--"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "SOLO SE APLICO INHABILITACION, NO MULTA",
+        "resolucion": {
+            "fechaResolucion": "2021-07-08"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "CAAN780827MMNSRB08",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "ADMINISTRADORA",
+            "nombres": "NUBIA MONICA",
+            "primerApellido": "CASTILLO",
+            "puesto": "ADMINISTRADORA DE LA CASA DE LA CULTURA",
+            "rfc": "CAAN780827SC1",
+            "segundoApellido": "ARELLANO"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARÍA DE CONTRALORÍA ",
+        "causaMotivoHechos": "NO CUMPLIÓ CON EFICIENCIA, LEGALIDAD Y RESPONSABILIDAD EL SERVICIO PÚBLICO ENCOMENDADO, ASÍ COMO NO APLICO LAS NORMAS Y PROCEDIMIENTOS PARA LA CORRECTA UTILIZACIÓN DE LOS RECURSOS FINANCIEROS DEL DESPACHO DEL GOBERNADOR.",
+        "expediente": "DNR-SRQD-PAR-108/2017",
+        "fechaCaptura": "2023-06-20",
+        "id": "KUW3NUR1",
+        "inhabilitacion": {
+            "plazo": "1 AÑO",
+            "fechaInicial": "2022-02-01",
+            "fechaFinal": "2023-02-01"
+        },
+        "institucionDependencia": {
+            "clave": "DG",
+            "nombre": "Despacho del Gobernador",
+            "siglas": "DG"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "SOLO CUENTA CON UN APELLIDO",
+        "resolucion": {
+            "fechaResolucion": "2021-08-30"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "ZEXS540619HMNPXR08",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "COORDINADOR",
+            "nombres": "SERGIO",
+            "primerApellido": "ZEPEDA",
+            "puesto": "COORDINADOR ADMINISTRATIVO DEL DESPACHO DEL GOBERNADOR",
+            "rfc": "ZESE540619E90",
+            "segundoApellido": "NO APLICA"
+        },
+        "tipoFalta": {
+            "clave": "VPC",
+            "valor": "VIOLACION PROCEDIMIENTOS DE CONTRATACION"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE CONTRALORÍA",
+        "causaMotivoHechos": "SIN CONTAR CON ATRIBUCIONES RECIBIÓ LA CONTRAPRESTACIÓN PARA EL CONTRATO DE BIENES Y /O SERVICIOS A TÍTULO PERSONAL, Y ADEMÁS TRAMITO INDEBIDAMENTE 03 FACTURAS POR CONCEPTO DE CONSUMO DE ALIMENTOS E INSUMOS EN FECHAS MUY POSTERIORES A LA REALIZACIÓN DEL EVENTO CELEBRADO EL DÍA 02 DE SEPTIEMBRE DE AÑO 2013, POR UN IMPORTE DE $2,365.00 (DOS MIL TRESCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.)",
+        "expediente": "DRSP-PAR-40/2015",
+        "fechaCaptura": "2023-06-21",
+        "id": "LEK2XID6",
+        "inhabilitacion": {
+            "plazo": "5 AÑOS",
+            "fechaInicial": "2021-11-05",
+            "fechaFinal": "2026-11-05"
+        },
+        "institucionDependencia": {
+            "clave": "SEDECO",
+            "nombre": "Secretaria de Desarrollo Económico",
+            "siglas": "SEDECO"
+        },
+        "multa": {
+            "monto": 2365,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2019-06-05"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "AAML640903MMNVNR07",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "DIRECCIÓN",
+            "nombres": "MA. LOURDES",
+            "primerApellido": "AVALOS",
+            "puesto": "DIRECTORA DE ABASTO Y COMERCIO POPULAR DE LA SECRETARÍA DE DESARROLLO ECONOMICO",
+            "rfc": "AAML640903S64",
+            "segundoApellido": "MENDOZA"
+        },
+        "tipoFalta": {
+            "clave": "NAD",
+            "valor": "NEGLIGENCIA ADMINISTRATIVA"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "OIC PROBANDO",
+        "causaMotivoHechos": "INCLUMIENTO DE DECLARACION PATRIMONIAL",
+        "expediente": "OIC-145/2022",
+        "fechaCaptura": "2023-05-25",
+        "id": "LEK5KOK4",
+        "inhabilitacion": {
+            "plazo": "DOS MESES",
+            "fechaInicial": "2023-10-10",
+            "fechaFinal": "2023-11-11"
+        },
+        "institucionDependencia": {
+            "clave": "SESEA",
+            "nombre": "Secretaría Ejecutiva Sistema Estatal Anticorrupción",
+            "siglas": "SESEA"
+        },
+        "multa": {
+            "monto": 10,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "COMENTARIO-12.10.2022 APROBADO",
+        "resolucion": {
+            "fechaResolucion": "2020-02-02"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "ZIEJ990517HMNSMN06",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "1",
+            "nombres": "PRUEBA 25 MAYOOOOO",
+            "primerApellido": "PROBANDO",
+            "puesto": "PRUEBA",
+            "rfc": "ZIET990919I55",
+            "segundoApellido": "PRUENAS"
+        },
+        "tipoFalta": {
+            "clave": "VPC",
+            "valor": "VIOLACION PROCEDIMIENTOS DE CONTRATACION"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            },
+            {
+                "clave": "M",
+                "valor": "MULTADO"
+            },
+            {
+                "clave": "O",
+                "valor": "OTRO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE CONTRALORIA",
+        "causaMotivoHechos": "TODA VEZ QUE OMITIÓ INFORMAR EN SU ACTA DE ENTREGA-RECEPCIÓN, EL EXTRAVIÓ DE UNA CÁMARA FOTOGRÁFICA Y OMITIÓ INFORMAR A SU SUPERIOR JERÁRQUICO",
+        "expediente": "DRSP-PAR-229/2015",
+        "fechaCaptura": "2023-11-22",
+        "id": "MEP5CUN9",
+        "inhabilitacion": {
+            "plazo": "1 UN AÑO",
+            "fechaInicial": "2021-12-07",
+            "fechaFinal": "2022-12-07"
+        },
+        "institucionDependencia": {
+            "clave": "SEDEBI",
+            "nombre": "Secretaria del Bienestar",
+            "siglas": "SEDEBI"
+        },
+        "multa": {
+            "monto": 1450,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-07-12"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "BOAG640324HMNLYB06",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "JEFE DE DEPARTAMENTO",
+            "nombres": "GABRIEL",
+            "primerApellido": "BOLAÑOS ",
+            "puesto": "JEFE DE DEPARTAMENTO DE CAPACITACION CIUDADANA",
+            "rfc": "BOAG640324K93",
+            "segundoApellido": "AYALA"
+        },
+        "tipoFalta": {
+            "clave": "NAD",
+            "valor": "NEGLIGENCIA ADMINISTRATIVA"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+        "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION DE SITUACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+        "documentos": [
+            {
+                "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+                "fecha": "2021-07-13",
+                "id": "8Eii",
+                "tipo": "RESOLUCION",
+                "titulo": "RESOLUCION ADMINISTRATIVA",
+                "url": "https://drive.google.com/file/d/1whrmi-ojimwluccdelbgrblzhhdbs5po/view?usp=sharing"
+            }
+        ],
+        "expediente": "HALC/CONT/JS/PRA/013/2020",
+        "fechaCaptura": "2022-02-28",
+        "id": "MUL9CEN5",
+        "inhabilitacion": {
+            "plazo": "01 UN AÑO",
+            "fechaInicial": "2021-07-22",
+            "fechaFinal": "2022-07-22"
+        },
+        "institucionDependencia": {
+            "clave": "052",
+            "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+            "siglas": "--"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "SE APLICO INHABILITACION, NO MULTA",
+        "resolucion": {
+            "fechaResolucion": "2021-07-13"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "SILR770718HMNBPC05",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "JEFE",
+            "nombres": "RICARDO",
+            "primerApellido": "SIBAJA",
+            "puesto": "JEFE DEL DEPARTAMENTO DE LOS JOVENES",
+            "rfc": "SILR7707184B6",
+            "segundoApellido": "LOPEZ"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARÍA DE CONTRALORÍA ",
+        "causaMotivoHechos": "AUTORIZÓ Y FIRMÓ INDEBIDAMENTE UN INCREMENTO SALARIAL DEL 5% DIRECTO AL SUELDO BASE... SIN CONTAR CON EL SOPORTE LEGAL, NI AUTORIZACIÓN DE LA JUNTA DIRECTIVA... RECURSO QUE EN EJERCICIO 2008 FUE SUSTRAÍDO Y NO PRESENTO EN TIEMPO Y FORMA SU PROGRAMA ANUAL DE ADQUISICIONES POR LOS EJERCICIOS 2011 Y 2012, NO IMPLEMENTO ACCIONES TENDIENTES A RECUPERAR EL IMPORTE DE $800,000.00 RECURSO EN EL EJERCICIO 2008, FUE SUSTRAÍDO DE LA CUENTA BANCARIA Y REGISTRADO COMO UNA CUENTA POR COBRAR, INDEBIDAMENTE SE REALIZARON PAGOS POR IMPORTE DE $24,534.00 POR CONCEPTO DE MULTAS Y SUS ACCESORIOS Y NO CONTABA CON PARTIDA PRESUPUESTAL AUTORIZADA. INDEBIDAMENTE SE REALIZARON PAGOS CON CHEQUE DE IMPORTE $221,876.44 POR CONCEPTO DE ADQUISICIONES DE BIENES Y SERVICIOS, SIN CONTAR CON LA DOCUMENTACIÓN COMPROBATORÍA QUE SOPORTE LA EROGACIÓN DEL GASTO ",
+        "expediente": "DRSP-PAR-386/2014",
+        "fechaCaptura": "2023-06-21",
+        "id": "NER4MEF6",
+        "inhabilitacion": {
+            "plazo": "6 AÑOS",
+            "fechaInicial": "2022-02-16",
+            "fechaFinal": "2028-02-16"
+        },
+        "institucionDependencia": {
+            "clave": "ITSLR",
+            "nombre": "Instituto Tecnológico Superior de Los Reyes",
+            "siglas": "ITSLR"
+        },
+        "multa": {
+            "monto": 140459.52,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-08-16"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "AABE700408MMNLRL02",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "SUBDIRECCIÓN",
+            "nombres": "ELISA",
+            "primerApellido": "ALANIZ",
+            "puesto": "JEFA DE DIVISION DE FINANZAS Y ADMINISTRACIÓN Y/O SUBDIRECTORA DE ADMINISTRACIÓN O SERVICIOS ADMINISTRATIVOS",
+            "rfc": "AABE700408CL7",
+            "segundoApellido": "BARRERA"
+        },
+        "tipoFalta": {
+            "clave": "VLNP",
+            "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARÍA DE CONTRALORÍA",
+        "causaMotivoHechos": "NO CUMPLIÓ CON LEGALIDAD, EFICIENCIA Y RESPONSABILIDAD EL CARGO QUE TENÍA ENCOMENDADO, TODA VEZ QUE NO COLABORÓ EN LA INTEGRACIÓN DEL TERCER Y CUARTO INFORME TRIMESTRAL, A EFECTO QUE SE PRESENTARA EN LA CUENTA PÚBICA DOS MIL CATORCE, LO RELATIVO A LA APLICACIÓN DE LOS RECURSOS DEL FONDO DE PAVIMENTACIÓN, ESPACIOS DEPORTIVOS, ALUMBRADO PÚBLICO Y REHABILITACIÓN DE INFRAESTRUCTURA EDUCATIVA PARA MUNICIPIOS Y DEMARCACIONES TERRITORIALES DEL DISTRITO FEDERAL (FOPEDEP 2014)",
+        "expediente": "DNR-SRO-PAR-24/2018",
+        "fechaCaptura": "2023-06-20",
+        "id": "NIF1RIB1",
+        "inhabilitacion": {
+            "plazo": "3 AÑOS",
+            "fechaInicial": "2020-09-12",
+            "fechaFinal": "2023-09-11"
+        },
+        "institucionDependencia": {
+            "clave": "SECFINANZAS",
+            "nombre": "Secretaria de Finanzas y Administración",
+            "siglas": "SECFINANZAS"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2020-02-06"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "RUFC391201HDFSLR07",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "DIRECCIÓN ",
+            "nombres": "CARLOS",
+            "primerApellido": "RUSSO",
+            "puesto": "DIRECTOR DE SEGUIMIENTO DE LA INVERSIÓN PÚBLICA CONVENIDA",
+            "rfc": "RUFC391201I61",
+            "segundoApellido": "FLORES"
+        },
+        "tipoFalta": {
+            "clave": "VLNP",
+            "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARÍA DE CONTRALORÍA",
+        "causaMotivoHechos": "NO HABER ENTREGADO LOS ESTADOS FINANCIEROS DE ENERO A DICIEMBRE DEL EJERCICIO FISCAL 2019, A LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN EN LOS PLAZOS SEÑALADOS EN LOS ARTÍCULO 84, 86 Y 87 DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN, LO CUAL ORIGINÓ QUE NO FUERAN INTEGRADOS Y CONSOLIDADOS PARA LA PRESENTACIÓN DEL INFORME DE LA CUENTA PÚBLICA 2019, POR PARTE DEL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO AL H. CONGRESO DEL ESTADO EN LA CUENTA PÚBLICA DEL EJERCICIO FISCAL 2019; TODA VEZ QUE LOS ESTADOS FINANCIEROS DE LOS MESES DE OCTUBRE A DICIEMBRE DEL 2019 DE LA UIIM, FUERON ENTREGADOS A LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN EN FORMA EXTEMPORÁNEA EL 09 DE JULIO DEL 2020",
+        "expediente": "PRA-2B-006/2021",
+        "fechaCaptura": "2023-06-21",
+        "id": "NIK7ZAB9",
+        "inhabilitacion": {
+            "plazo": "9 MESES",
+            "fechaInicial": "2022-08-08",
+            "fechaFinal": "2023-05-08"
+        },
+        "institucionDependencia": {
+            "clave": "UIIM",
+            "nombre": "Universidad Intercultural Indígena del Estado de Michoacán",
+            "siglas": "UIIM"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-10-26"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "GAAM740407HMNRVR05",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "RECTOR",
+            "nombres": "MARTÍN",
+            "primerApellido": "GARCÍA",
+            "puesto": "RECTOR DE LA UNIVERSIDAD INTERCULTURAL INDÍGENA DE MICHOACÁN",
+            "rfc": "GAAM740407963",
+            "segundoApellido": "AVILÉS"
+        },
+        "tipoFalta": {
+            "clave": "VLNP",
+            "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE CONTRALORIA",
+        "causaMotivoHechos": "CON MOTIVO DE LA AUDITORIA OPERATIVA DCAOP/AL/FGM/JC-FONDO REGIONAL/03/2015 REALIZADA A LA OBRA REHABILITACIÓN DEL CAMINO TLALPUJAHUA-TLACOTEPEC KM 0+000 AL 2+480 EJECUTADA CON RECURSOS DEL PROGRAMA FONDO REGIONAL RAMO 23 EJERCICIO FISCAL 2013; SE DERIVARON PAGOS IMPROCEDENTES, TODA VEZ QUE AUTORIZO LAS ESTIMACIONES DE OBRA AUN CUANDO LOS PLAZOS DE EJECUCIÓN SE ENCONTRABAN FUERA DE PERIODO, ASÍ MISMO OMITIÓ REGISTRAR DEBIDAMENTE LAS ACTIVIDADES EN LAS BITÁCORAS DE OBRAS OCASIONANDO INCONSISTENCIAS EN LAS FECHAS DE REPORTE DE ACTIVIDADES.",
+        "expediente": "DRSP-PAR-86/2016",
+        "fechaCaptura": "2023-06-21",
+        "id": "QOG8JEC7",
+        "inhabilitacion": {
+            "plazo": "2 AÑOS",
+            "fechaInicial": "2021-12-07",
+            "fechaFinal": "2023-12-07"
+        },
+        "institucionDependencia": {
+            "clave": "caminos",
+            "nombre": "Junta de Caminos del Estado de Michoacán de Ocampo",
+            "siglas": "Junta"
+        },
+        "multa": {
+            "monto": 5113.54,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-07-16"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "NUFS520412HMNXLC08",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "RESIDENTE",
+            "nombres": "JOSÉ SOCORRO",
+            "primerApellido": "NÚÑEZ",
+            "puesto": "RESIDENTE DE OBRA",
+            "rfc": "NUFS520412P66",
+            "segundoApellido": "FLORES"
+        },
+        "tipoFalta": {
+            "clave": "NAD",
+            "valor": "NEGLIGENCIA ADMINISTRATIVA"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+        "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION ",
+        "documentos": [
+            {
+                "descripcion": "SE EMITE INHABILITACION PARA EL SERVIDOR PUBLICO",
+                "fecha": "2022-02-08",
+                "id": "Q2a6",
+                "tipo": "RESOLUCION",
+                "titulo": "RESOLUCION ADMINISTRATIVA",
+                "url": "https://drive.google.com/drive/folders/1jgcaci8qoank71pri0g1jw7-j5osxese"
+            }
+        ],
+        "expediente": "HALC/CONT/JS/PRA/010/2020",
+        "fechaCaptura": "2023-06-20",
+        "id": "QUF6PIZ9",
+        "inhabilitacion": {
+            "plazo": "11 ONCE MESES",
+            "fechaInicial": "2022-02-11",
+            "fechaFinal": "2023-01-23"
+        },
+        "institucionDependencia": {
+            "clave": "052",
+            "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+            "siglas": "--"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "SOLO SE APLICO INHABILITACION Y NO MULTA",
+        "resolucion": {
+            "fechaResolucion": "2022-02-08"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "NURJ630502MGRXVS09",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "JEFATURA",
+            "nombres": "MA DE JESUS",
+            "primerApellido": "NUÑEZ",
+            "puesto": "JEFA DEL DEPARTAMENTO DE DESARROLLO SOCIAL",
+            "rfc": "NURJ630502Q25",
+            "segundoApellido": "RIVERA"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE CONTRALORIA",
+        "causaMotivoHechos": "POR NO HABER REALIZADO LA ENTREGA RECEPCIÓN DE LOS ASUNTOS INHERENTES Y RECURSOS PÚBLICOS POR CONCLUSIÓN DE SU ENCARGO DEL DEPARTAMENTO ANTES SEÑALADO, FALTANDO ASÍ A LO ESTABLECIDO EN LOS ARTÍCULOS 4, 10 Y 12 DE LOS LINEAMIENTOS QUE REGULAN EL PROCESO DE ENTREGA-RECEPCIÓN DE LAS DEPENDENCIAS, COORDINACIONES, ENTIDADES Y DEMÁS ÁREAS AUXILIARES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO",
+        "expediente": "PRA-2B-032/2020",
+        "fechaCaptura": "2023-11-22",
+        "id": "QUV1VUD6",
+        "inhabilitacion": {
+            "plazo": "3 TRES MESES",
+            "fechaInicial": "2022-12-21",
+            "fechaFinal": "2023-03-21"
+        },
+        "institucionDependencia": {
+            "clave": "UPU",
+            "nombre": "Universidad Politécnica de Uruapan",
+            "siglas": "UPU"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-12-17"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "CAGM780223MMNMRR03",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "JEFE DE DEPARTAMENTO",
+            "nombres": "MARCELA",
+            "primerApellido": "CAMPOS",
+            "puesto": "ENCARGADA DE JEFATURA DEL DEPARTAMENTO DE ASESORES Y TUTORIAS DE LA UNIVERSIDAD POLITECNICA ",
+            "rfc": "CAGM780223QMA",
+            "segundoApellido": "GARCIA"
+        },
+        "tipoFalta": {
+            "clave": "VLNP",
+            "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARÍA DE FINANZAS",
+        "causaMotivoHechos": "NO CUMPLIÓ CON LEGALIDAD Y RESPONSABILIDAD SU OBLIGACIÓN COMO SERVIDOR PÚBLICO, AL DESEMPEÑAR EL CARGO QUE TENÍA ENCOMENDADO, TODA VEZ QUE NO PRESENTO SU DECLARACIÓN DE SITUACIÓN PATRIMONIAL ANUAL DE MODIFICACIÓN DURANTE EL MES DE MAYO DEL AÑO 2017",
+        "expediente": "DNR-SRO-PAR-229/2017",
+        "fechaCaptura": "2023-06-20",
+        "id": "QUW6GEK5",
+        "inhabilitacion": {
+            "plazo": "3 AÑOS ",
+            "fechaInicial": "2021-09-06",
+            "fechaFinal": "2024-09-05"
+        },
+        "institucionDependencia": {
+            "clave": "IDP",
+            "nombre": "Instituto de Defensoría Pública del Estado de Michoacán",
+            "siglas": "IDP"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-02-11"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "SAMB740525HMNNRR20",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "DEFENSOR",
+            "nombres": "JOSE BERNARDO",
+            "primerApellido": "SANTIAGO",
+            "puesto": "DEFENSOR PÚBLICO",
+            "rfc": "SAMB740525TUA",
+            "segundoApellido": "MARCELINO"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "D",
+                "valor": "DESTITUCIÓN DEL EMPLO, CARGO O COMISIÓN"
+            },
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "ÓRGANO INTERNO DE CONTROL",
+        "causaMotivoHechos": "NO PRESENTAR SU DECLARACIÓN DE SITUACIÓN PATRIMONIAL DE CONCLUSIÓN DE ENCARGO",
+        "documentos": [
+            {
+                "descripcion": "RESOLUCIÓN ADMINISTRATIVA QUE CONTIENE LA SANCIÓN AL C. HOMERO REYES VANEGAS",
+                "fecha": "2023-09-28",
+                "id": "RBHL",
+                "tipo": "RESOLUCION",
+                "titulo": "RESOLUCIÓN ADMINISTRATIVA",
+                "url": "http://tjamich.gob.mx/sisofi_2018/uploads/28-09-2023/resolucion-homero-reyes-vanegas.pdf"
+            }
+        ],
+        "expediente": "OIC/DS/05/2023",
+        "fechaCaptura": "2023-09-28",
+        "id": "SAC4JES1",
+        "inhabilitacion": {
+            "plazo": "UN AÑO",
+            "fechaInicial": "2023-09-06",
+            "fechaFinal": "2024-09-06"
+        },
+        "institucionDependencia": {
+            "clave": "TJAE",
+            "nombre": "Tribunal de Justicia Administrativa del Estado",
+            "siglas": "TJAM"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2023-06-12"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "REVH740627HMNYNM01",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "ESCRIBIENTE",
+            "nombres": "HOMERO",
+            "primerApellido": "REYES",
+            "puesto": "ESCRIBIENTE",
+            "rfc": "REVH740627KA6",
+            "segundoApellido": "VANEGAS"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO",
+        "causaMotivoHechos": "ABUSO DE FUNCIONES",
+        "documentos": [
+            {
+                "descripcion": "SENTENCIA DEFINITIVA",
+                "fecha": "2022-06-15",
+                "id": "aegb",
+                "tipo": "RESOLUCION",
+                "titulo": "SENTENCIA DEFINITIVA",
+                "url": "http://www.tjamich.gob.mx/sisofi_2018/uploads/13-01-2023/pra-0067-2021-v-version-publica-para-sea_1.pdf"
+            }
+        ],
+        "expediente": "PRA-0067/2021-V",
+        "fechaCaptura": "2023-03-06",
+        "id": "SOC7RON3",
+        "inhabilitacion": {
+            "plazo": "1 AÑO",
+            "fechaInicial": "2022-11-23",
+            "fechaFinal": "2023-11-22"
+        },
+        "institucionDependencia": {
+            "clave": "COESAMM",
+            "nombre": "Comisión Estatal de Arbitraje Médico de Michoacán",
+            "siglas": "COESAMM"
+        },
+        "multa": {
+            "monto": 3500,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": ".....................",
+        "resolucion": {
+            "fechaResolucion": "2022-06-15"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "GOEM490331HMNNSN00",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "CONFIANZA",
+            "nombres": "MANUEL",
+            "primerApellido": "GONZALEZ",
+            "puesto": "SUBCOMISIONADO ADMINISTRATIVO DE LA COMISIÓN ESTATAL DE ARBITRAJE MEDICO DE MICHOACÁN",
+            "rfc": "GOEM490331RB0",
+            "segundoApellido": "ESPINOSA"
+        },
+        "tipoFalta": {
+            "clave": "AG",
+            "valor": "ADMINISTRATIVA GRAVE"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            },
+            {
+                "clave": "SE",
+                "valor": "SANCIÓN ECONÓMICA"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "ORGANO INTERNO DE CONTROL ",
+        "causaMotivoHechos": "NO CUMPLIR CON LAS NORMAS QUE REGULAN EL PROCEDIMIENTO DE LA NORMA ",
+        "documentos": [
+            {
+                "descripcion": "RESOLUCIÓN QUE SE IMPUSO ",
+                "fecha": "2019-01-25",
+                "id": "bW6y",
+                "tipo": "RESOLUCION",
+                "titulo": "SANCION ADMINISTRATIVA ",
+                "url": "file:///c:/users/usuario/downloads/resolucion-definitiva-exp-002-2018-franc-version-publica.pdf "
+            }
+        ],
+        "expediente": "CI//PA/002/2018",
+        "fechaCaptura": "2022-05-02",
+        "id": "TIS2MIY3",
+        "inhabilitacion": {
+            "plazo": "3  AÑOS ",
+            "fechaInicial": "2019-02-01",
+            "fechaFinal": "2022-02-01"
+        },
+        "institucionDependencia": {
+            "clave": "CEDH",
+            "nombre": "Comisión Estatal de Derechos Humanos",
+            "siglas": "-"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA ",
+        "resolucion": {
+            "fechaResolucion": "2019-01-25"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "RASF720121HDFNLR03",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "JEFE DE DEPARTAMENTO ",
+            "nombres": "FRANCISCO ",
+            "primerApellido": "RANGEL ",
+            "puesto": "VISITADOR  AUXILIAR ",
+            "rfc": "RASF720121IX3",
+            "segundoApellido": "SALGADO"
+        },
+        "tipoFalta": {
+            "clave": "AG",
+            "valor": "ADMINISTRATIVA GRAVE"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE CONTRALORIA",
+        "causaMotivoHechos": "REALIZÓ DE MANERA INDEBIDA 5, CINCO ALTAS DE VEHICULARES DE FECHA 24, VEINTICUATRO DE MAYO, 02, DOS, 07, SIETE Y 27 VEINTISIETE  JUNIO, DE 2017, DOS MIL DIECISIETE, SIN TOMAR EN CUENTA LOS REQUISITOS 2011, DOS MIL ONCE EMITIDOS POR LA SECRETARIA DE FINANZAS Y ADMINISTRACIÓN SIENDO EFECTUADAS A VEHÍCULOS PROVENIENTES DE OTRA ENTIDAD DE PROCEDENCIA EXTRANJERA SIN CONTAR CON EL TOTAL DE LAS DOCUMENTALES Y LOS PAGOS REQUISITORIOS, COMO SON EL PAGO CORRESPONDIENTE AL HOLOGRAMA DE CIRCULACIÓN POR LA CANTIDAD DE $844, (OCHOCIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.), POR CADA TRAMITE VEHICULAR, ASÍ COMO POR EL CONCEPTO DE VALIDACIÓN DE VEHÍCULOS DE OTRA ENTIDAD FEDERATIVA Y DE PROCEDENCIA EXTRANJERA POR EL MONTO DE $176.00,(CIENTO SETENTA Y SEIS PESOS 00/100 M.N.) POR CADA TRAMITE VEHICULAR, QUE ESTABLECE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2017, REALIZÁNDOSE POR CONSIGUIENTE DICHAS ALTAS, SIN PREVIA VALIDACIÓN DEL DEPARTAMENTO DE CONTROL VEHICULAR; LO QUE PROVOCO UN DETRIMENTO ECONÓMICO AL ESTADO POR LA CANTIDAD DE $5,100.00 (CINCO MIL CIEN PESOS 00/100 M.N.) ",
+        "expediente": "PRA-2B-072/2020",
+        "fechaCaptura": "2023-08-03",
+        "id": "TIT6ZOP5",
+        "inhabilitacion": {
+            "plazo": "01 UN AÑO",
+            "fechaInicial": "2021-10-21",
+            "fechaFinal": "2022-10-21"
+        },
+        "institucionDependencia": {
+            "clave": "SECFINANZAS",
+            "nombre": "Secretaria de Finanzas y Administración",
+            "siglas": "SECFINANZAS"
+        },
+        "multa": {
+            "monto": 10200,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "SANCIÓN ECONÓMICA POR LA CANTIDAD DE $10,200.00 (DIEZ MIL DOSCIENTOS PESOS 00/100 M.N)",
+        "resolucion": {
+            "fechaResolucion": "2021-06-01"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "PESP660412HMNRRD07",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "OFICIAL ",
+            "nombres": "PEDRO ",
+            "primerApellido": "PEREZ",
+            "puesto": "OFICIAL MAYOR",
+            "rfc": "PESP660412PL9",
+            "segundoApellido": "SUAREZ"
+        },
+        "tipoFalta": {
+            "clave": "NAD",
+            "valor": "NEGLIGENCIA ADMINISTRATIVA"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+        "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+        "documentos": [
+            {
+                "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+                "fecha": "2021-07-19",
+                "id": "8LAb",
+                "tipo": "RESOLUCION",
+                "titulo": "RESOLUCION ADMINISTRATIVA",
+                "url": "https://drive.google.com/file/d/1_bbjjpxen_ynixlncyoihz5mjqhr3kom/view?usp=sharing"
+            }
+        ],
+        "expediente": "HALC/CONT/JS/PRA/016/2020",
+        "fechaCaptura": "2022-02-28",
+        "id": "TOL1LIQ2",
+        "inhabilitacion": {
+            "plazo": "01 UN AÑO",
+            "fechaInicial": "2021-07-22",
+            "fechaFinal": "2022-07-22"
+        },
+        "institucionDependencia": {
+            "clave": "052",
+            "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+            "siglas": "--"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "SE APLICO INHABILITACION, NO MULTA",
+        "resolucion": {
+            "fechaResolucion": "2021-07-19"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "LUOJ930929HMNNCN05",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "SUBDIRECTOR OPERATIVO",
+            "nombres": "JUAN CARLOS",
+            "primerApellido": "LUNA",
+            "puesto": "SUBDIRECTOR OPERATIVO DE SEGURIDAD PUBLICA MUNICIPAL",
+            "rfc": "LUOJ930929SH5",
+            "segundoApellido": "OCHOA"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE CONTRALORIA",
+        "causaMotivoHechos": "NO REALIZO UNA APROPIADA ADMINISTRACIÓN DE LOS RECURSOS ASIGNADOS A LA MISMA, PUESTO QUE EN EL DESARROLLO DE LA AUDITORIA FINANCIERA ADMINISTRATIVA DE LOS ESTADOS FINANCIEROS DE LA UNIVERSIDAD SE DETERMINÓ QUE SE REALIZARON GASTOS SIN QUE ESTOS CONTARAN CON EL OFICIO QUE INDICARA, CUAL ES LA ACTIVIDAD QUE SERÁ LLEVADA A CABO O POR LA CUAL SE EROGARÍAN LOS RECURSOS CORRESPONDIENTES. NO CUMPLIÓ CON LAS OBLIGACIONES DE SEGURIDAD SOCIAL INHERENTES A LOS TRABAJADORES ADSCRITOS A LA ENTIDAD EN CITA, YA QUE NO OBSTANTE QUE SE AUTORIZÓ LA SUMA PARA DAR ALTA A LOS TRABAJADORES ANTE ÉL   ",
+        "expediente": "DRSP-PAR-185/2015",
+        "fechaCaptura": "2023-11-22",
+        "id": "VEF3FUR3",
+        "inhabilitacion": {
+            "plazo": "2 DOS AÑOS",
+            "fechaInicial": "2022-12-20",
+            "fechaFinal": "2024-12-20"
+        },
+        "institucionDependencia": {
+            "clave": "UIIM",
+            "nombre": "Universidad Intercultural Indígena del Estado de Michoacán",
+            "siglas": "UIIM"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-08-23"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "ROUH571123HMNDRG06",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "TITULAR DE UNIDAD",
+            "nombres": "HUGO",
+            "primerApellido": "RODRIGUEZ",
+            "puesto": "RECTOR DE LA UNIVERSIDAD INTERCULTURAL INDIGENA DEL ESTADO DE MICHOACAN",
+            "rfc": "ROUH571123EX9",
+            "segundoApellido": "URIBE"
+        },
+        "tipoFalta": {
+            "clave": "VLNP",
+            "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARÍA DE CONTRALORÍA",
+        "causaMotivoHechos": "NO REALIZÓ LA ENTREGA RECEPCIÓN FÍSICA Y MATERIAL DE LA OFICINA DE ENLACE JURÍDICO EN LA SECRETARIA DE EDUCACIÓN EN EL ESTADO ",
+        "expediente": "DRSP-PAR-541/2015",
+        "fechaCaptura": "2023-06-20",
+        "id": "VEK3ZIN1",
+        "inhabilitacion": {
+            "plazo": "2 AÑOS",
+            "fechaInicial": "2021-09-21",
+            "fechaFinal": "2023-09-21"
+        },
+        "institucionDependencia": {
+            "clave": "EDUCACION",
+            "nombre": "Secretaria de Educación",
+            "siglas": "EDUCACION"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNO",
+        "resolucion": {
+            "fechaResolucion": "2017-08-14"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "IADA700210HMNBVR03",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "ENLACE",
+            "nombres": "ARTURO ISMAEL",
+            "primerApellido": "IBARRA",
+            "puesto": "ENLACE JURÍDICO",
+            "rfc": "IADA700210K18",
+            "segundoApellido": "DÁVALOS"
+        },
+        "tipoFalta": {
+            "clave": "NAD",
+            "valor": "NEGLIGENCIA ADMINISTRATIVA"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARÍA DE CONTRALORÍA ",
+        "causaMotivoHechos": "NO CUMPLIR CON DILIGENCIA Y EFICIENCIA EL SERVICIO QUE LE FUE ENCOMENDADO EN EL CARGO QUE DESEMPEÑABA, TODA VEZ QUE NO ATENDIÓ LAS RECOMENDACIONES PREVENTIVAS REALIZADAS POR ESTE ÓRGANO DE CONTROL, DERIVADAS DE LOS RESULTADOS DE LA AUDITORÍA PRACTICADA A OBRAS CORRESPONDIENTES AL PROGRAMA DE TRATAMIENTO DE AGUAS RESIDUALES (PROTAR) DEL EJERCICIO PRESUPUESTAL 2011.",
+        "expediente": "DRSP-PAR-405/2014",
+        "fechaCaptura": "2023-06-21",
+        "id": "VIK6HEJ4",
+        "inhabilitacion": {
+            "plazo": "2 AÑOS",
+            "fechaInicial": "2022-01-25",
+            "fechaFinal": "2024-01-25"
+        },
+        "institucionDependencia": {
+            "clave": "CEAC",
+            "nombre": "Comisión Estatal del Agua y Gestión de Cuencas",
+            "siglas": "CEAC"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-06-30"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "GURR530414HMNZDM02",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "COORDINACIÓN",
+            "nombres": "RAMIRO",
+            "primerApellido": "GUZMÁN",
+            "puesto": "COORDINADOR GENERAL",
+            "rfc": "GURR530414DY6",
+            "segundoApellido": "RODRÍGUEZ"
+        },
+        "tipoFalta": {
+            "clave": "NAD",
+            "valor": "NEGLIGENCIA ADMINISTRATIVA"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE CONTRALORIA",
+        "causaMotivoHechos": "NO CONTO CON LA AUTORIZACIÓN DE LA JUNTA DIRECTIVA, PARA ALQUILAR 2 HECTÁREAS PROPIEDAD DE DICHA UNIVERSIDAD PARA EL CULTIVO PRODUCCIÓN Y APROVECHAMIENTO DE ÁRBOLES FRUTALES DE AGUACATE, POR UN PERIODO DE 20 AÑOS, ACCIÓN PARA LO CUAL NO TENÍA LAS ATRIBUCIONES PARA REALIZAR ARRENDAMIENTO ",
+        "expediente": "PRA-2B-014/2021",
+        "fechaCaptura": "2023-11-22",
+        "id": "VIP2HIZ4",
+        "inhabilitacion": {
+            "plazo": "1 UN AÑO",
+            "fechaInicial": "2022-12-22",
+            "fechaFinal": "2023-12-22"
+        },
+        "institucionDependencia": {
+            "clave": "UPU",
+            "nombre": "Universidad Politécnica de Uruapan",
+            "siglas": "UPU"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2022-03-17"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "BALV830729HMNRRC01",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "JEFE DE DEPARTAMENTO",
+            "nombres": "VICTOR MANUEL",
+            "primerApellido": "BRAVO",
+            "puesto": "ENCARGADO DE LA RECTORIA DE LA UNIVERSIDAD POLITECNICA DE URUAPAN MICHOACAN",
+            "rfc": "BALV830729JL3",
+            "segundoApellido": "LARA"
+        },
+        "tipoFalta": {
+            "clave": "VLNP",
+            "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "CONTRALORIA MUNICIPAL LAZARO CARDENAS MICHOACAN",
+        "causaMotivoHechos": "NO CUMPLIR CON DIVERSAS OBLIGACIONES FISCALES, NO RESPALDAR CON DOCUMENTOS SOPORTE AFECTACION PRESUPUESTARIA MULTIPLES TRANSACCIONES E INOBSERVAR EL PROCESO DE ADQUISICIONES CON CARGO A PRESUPUESTO DE EGRESOS MUNICIPALES",
+        "documentos": [
+            {
+                "descripcion": "SE EMITE INHABILITACION PARA EL SERVIDOR PUBLICO",
+                "fecha": "2023-06-20",
+                "id": "yDNV",
+                "tipo": "RESOLUCION",
+                "titulo": "RESOLUCION ADMINISTRATIVA",
+                "url": "https://n9.cl/idncf"
+            }
+        ],
+        "expediente": "HALC/CONT/JS/PRA/001/2020",
+        "fechaCaptura": "2023-06-20",
+        "id": "VOJ4DIR1",
+        "inhabilitacion": {
+            "plazo": "11 ONCE MESES",
+            "fechaInicial": "2023-03-13",
+            "fechaFinal": "2024-02-13"
+        },
+        "institucionDependencia": {
+            "clave": "052",
+            "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+            "siglas": "--"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "SOLO SE APLICO INHABILITACION, NO MULTA",
+        "resolucion": {
+            "fechaResolucion": "2023-03-07"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "PIOM880724MMNDCR02",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "TESORERA",
+            "nombres": "MIRIAM CRISTINA",
+            "primerApellido": "PIEDRA",
+            "puesto": "TESORERA MUNICIPAL",
+            "rfc": "PIOM880724TH9",
+            "segundoApellido": "OCHOA"
+        },
+        "tipoFalta": {
+            "clave": "VLNP",
+            "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARÍA DE CONTRALORÍA",
+        "causaMotivoHechos": "AL REALIZAR SERVICIOS DE MANTENIMIENTO Y REPARACIÓN VEHICULAR CON PROVEEDORES QUE NO SE ENCUENTRAN REGISTRADOS EN EL COMITÉ DE ADQUISICIONES DEL PODER EJECUTIVO (CADPE)",
+        "expediente": "DNR-PAR-112/2016",
+        "fechaCaptura": "2023-06-20",
+        "id": "VOS7VUM1",
+        "inhabilitacion": {
+            "plazo": "6 AÑOS",
+            "fechaInicial": "2021-11-29",
+            "fechaFinal": "2027-11-29"
+        },
+        "institucionDependencia": {
+            "clave": "SSP",
+            "nombre": "Secretaria de Seguridad Pública",
+            "siglas": "SSP"
+        },
+        "multa": {
+            "monto": 3835583.02,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-07-05"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "AAHE701230HDFLRL09",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "SECRETARIO",
+            "nombres": "ELÍAS",
+            "primerApellido": "ÁLVAREZ",
+            "puesto": "SECRETARIO DE SEGURIDAD PÚBLICA",
+            "rfc": "AAHE701230UR2",
+            "segundoApellido": "HERNÁNDEZ"
+        },
+        "tipoFalta": {
+            "clave": "NAD",
+            "valor": "NEGLIGENCIA ADMINISTRATIVA"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+        "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION DE SITUACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+        "documentos": [
+            {
+                "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+                "fecha": "2021-07-20",
+                "id": "8C7U",
+                "tipo": "RESOLUCION",
+                "titulo": "RESOLUCION ADMINISTRATIVA",
+                "url": "https://drive.google.com/file/d/1v_cjxnjbp6whsy9ams0lqq-p0cbd9yn4/view?usp=sharing"
+            }
+        ],
+        "expediente": "HALC/CONT/JS/PRA/022/2020",
+        "fechaCaptura": "2022-02-28",
+        "id": "WEF8MIG1",
+        "inhabilitacion": {
+            "plazo": "01 UN AÑO",
+            "fechaInicial": "2021-07-23",
+            "fechaFinal": "2022-07-23"
+        },
+        "institucionDependencia": {
+            "clave": "052",
+            "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+            "siglas": "--"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "SE APLICO INHABILITACION, NO MULTA",
+        "resolucion": {
+            "fechaResolucion": "2021-07-20"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "RACC871130HMNMRR04",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "JEFE",
+            "nombres": "CARLOS JOSE",
+            "primerApellido": "RAMIREZ",
+            "puesto": "JEFE DE INGRESOS MUNICIPALES",
+            "rfc": "RACC871130ME4",
+            "segundoApellido": "CRUZ"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARÍA DE CONTRALORÍA ",
+        "causaMotivoHechos": "NO REGISTRÓ 14 TRABAJADORES QUE NO ESTÁN REGISTRADOS EN NÓMINA PERO LES FUERON LOCALIZADOS MOVIMIENTOS AFILIATORIOS ANTE EL IMSS Y 13 DE LOS 26 TRABAJADORES QUE ESTÁN EN NÓMINA PERO NO SE DETECTÓ SU INCORPORACIÓN AL SEGURO OBLIGATORIO DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL; NO INCORPORÓ AL SALARIO DE LOS TRABAJADORES LAS PRESTACIONES DE ADQUISICIÓN DE BIBLIOGRAFÍA, AYUDA PARA TRANSPORTE, BONO PARA TRANSPORTE Y BONO PARA EL MEJORAMIENTO EN LA CALIDAD DE VIDA; NO TIMBRÓ LAS NÓMINAS DEL EJERCICIO FISCAL 2017; NO TIMBRÓ LAS NÓMINAS DEL EJERCICIO FISCAL 2017, CON TODOS LOS DATOS CORRECTOS EN LO QUE SE REFIERE A NÚMERO DE SEGURIDAD SOCIAL, REGISTRO FEDERAL DE CONTRIBUYENTES, CLAVE ÚNICA DE REGISTRO DE POBLACIÓN, SALARIO DIARIO, SALARIO BASE DE COTIZACIÓN, FECHA DE ALTA, PERCEPCIONES, DEDUCCIONES Y DÍAS LABORADOS PARA PAGO; NO REALIZÓ LOS CÁLCULOS EXACTOS, LOS MOVIMIENTOS AFILIATORIOS, Y NO REALIZÓ LOS PAGOS AL IMSS POR LAS DIFERENCIAS DETERMINADAS.",
+        "expediente": "PRA-3A-026/2020",
+        "fechaCaptura": "2023-06-21",
+        "id": "XAL3GEZ7",
+        "inhabilitacion": {
+            "plazo": "1 AÑO ",
+            "fechaInicial": "2022-01-21",
+            "fechaFinal": "2023-01-21"
+        },
+        "institucionDependencia": {
+            "clave": "TELEBAM",
+            "nombre": "Telebachillerato Michoacán",
+            "siglas": "TELEBAM"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-09-27"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "GUAM890208HMNZLG02",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "JEFE DE DEPARTAMENTO",
+            "nombres": "MIGUEL ÁNGEL",
+            "primerApellido": "GUZMÁN",
+            "puesto": "JEFE DE DEPARTAMENTO ADMINISTRATIVO",
+            "rfc": "GUAM8902088C9",
+            "segundoApellido": "ALONSO"
+        },
+        "tipoFalta": {
+            "clave": "VLNP",
+            "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE CONTRALORÍA",
+        "causaMotivoHechos": "NO CUMPLIR CON DILIGENCIA, HONRADEZ Y LEGALIDAD EL CARGO QUE TENÍA ENCOMENDADO, TODA VEZ QUE NO LLEVO ACABO UN ADECUADO CONTROL E INTEGRACIÓN DE LOS EXPEDIENTES UNITARIOS DE OBRAS; ASÍ COMO NO SUPERVISAR LA TERMINACIÓN DE LAS OBRAS EN LAS FECHAS ESTABLECIDAS, NI LA PRESENTACIÓN DE LOS CAMBIOS DE PROYECTOS DEBIDAMENTE REQUISITADOS Y VALIDADOS, RESPECTO A LAS MODIFICACIONES DE LOS PROYECTOS EJECUTIVOS DE OBRAS EJECUTADAS CON RECURSOS DEL PROGRAMA DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE ZONAS URBANAS DEL EJERCICIO PRESUPUESTAL 2011 ",
+        "expediente": "DRSP-PAR-371/2014",
+        "fechaCaptura": "2023-06-21",
+        "id": "XEN4VIQ6",
+        "inhabilitacion": {
+            "plazo": "5 AÑOS 1 MES",
+            "fechaInicial": "2021-11-10",
+            "fechaFinal": "2026-12-09"
+        },
+        "institucionDependencia": {
+            "clave": "CEAC",
+            "nombre": "Comisión Estatal del Agua y Gestión de Cuencas",
+            "siglas": "CEAC"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-05-31"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "SARP790330HDFLNV02",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "JEFATURA",
+            "nombres": "PAVEL",
+            "primerApellido": "SALVADOR",
+            "puesto": "JEFE DE DEPARTAMENTO DE SUPERVISION DE OBRAS",
+            "rfc": "SARP790330D20",
+            "segundoApellido": "RINCON"
+        },
+        "tipoFalta": {
+            "clave": "NAD",
+            "valor": "NEGLIGENCIA ADMINISTRATIVA"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+        "causaMotivoHechos": "OMISION EN LA PRESENTACION  DE LA DECLARACION DE SITUACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+        "documentos": [
+            {
+                "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE.",
+                "fecha": "2021-07-06",
+                "id": "sgVb",
+                "tipo": "RESOLUCION",
+                "titulo": "RESOLUCION ADMINISTRATIVA",
+                "url": "https://drive.google.com/file/d/1x8kl4cwxg3nzyt69ovbkgs8ghkgido7l/view?usp=sharing"
+            }
+        ],
+        "expediente": "HALC/CONT/JS/004/2020",
+        "fechaCaptura": "2022-02-28",
+        "id": "XUQ5CUG1",
+        "inhabilitacion": {
+            "plazo": "01 UN AÑO",
+            "fechaInicial": "2021-07-12",
+            "fechaFinal": "2022-07-12"
+        },
+        "institucionDependencia": {
+            "clave": "052",
+            "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+            "siglas": "--"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "SOLO SE APLICO INHABILITACION Y NO MULTA.",
+        "resolucion": {
+            "fechaResolucion": "2021-07-06"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "SILR810502MMNBPY06",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "COORDINADORA",
+            "nombres": "REYNA ",
+            "primerApellido": "SIBAJA",
+            "puesto": "COORDINADORA DE FOMENTO DEPORTIVO",
+            "rfc": "SILR810502VIO",
+            "segundoApellido": "LOPEZ"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARÍA DE CONTRALORÍA",
+        "causaMotivoHechos": "NO CUMPLIR CON DILIGENCIA EL SERVICIO QUE TENÍA ENCOMENDADO, TODA VEZ QUE REALIZO ADQUISICIONES A PROVEEDORES NO APEGÁNDOSE A LA NORMATIVA APLICABLE, MISMOS QUE NO ESTABAN INSCRITOS EN EL PADRÓN DE PROVEEDORES DEL COMITÉ DE ADQUISICIONES DEL PODER EJECUTIVO",
+        "expediente": "DRSP-PAR-628/2014",
+        "fechaCaptura": "2023-06-21",
+        "id": "ZAY4ZOX4",
+        "inhabilitacion": {
+            "plazo": "4 AÑOS",
+            "fechaInicial": "2021-12-06",
+            "fechaFinal": "2025-12-05"
+        },
+        "institucionDependencia": {
+            "clave": "CECONEXPO",
+            "nombre": "Centro de Convenciones de Morelia",
+            "siglas": "CECONEXPO"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-06-25"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "BAZV520224HBCZRC09",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "JEFATURA",
+            "nombres": "VÍCTOR MANUEL ",
+            "primerApellido": "BAEZA",
+            "puesto": "JEFE DE DEPARTAMENTO DE COMPRAS Y ALMACÉN",
+            "rfc": "BAZV520224353",
+            "segundoApellido": "ZÁRATE"
+        },
+        "tipoFalta": {
+            "clave": "VLNP",
+            "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARÍA DE CONTRALORÍA",
+        "causaMotivoHechos": "COMO PROFESORA DE LA ESCUELA PRIMARIA VICENTE GUERRERO DE LÁZARO CÁRDENAS MICHOACÁN, HIZO CASO OMISO A REPORTE DE UN ALUMNO QUE INDICO ERA SUJETO DE VIOLENCIA POR DOS COMPAÑEROS, LO QUE OCASIONO QUE DICHO NIÑO INGRESARA AL HOSPITAL EL 19 DE JUNIO 2014",
+        "expediente": "DRSP-PAR-105/2015",
+        "fechaCaptura": "2023-06-21",
+        "id": "ZIB5NOH9",
+        "inhabilitacion": {
+            "plazo": "2 AÑOS",
+            "fechaInicial": "2021-09-21",
+            "fechaFinal": "2023-09-21"
+        },
+        "institucionDependencia": {
+            "clave": "EDUCACION",
+            "nombre": "Secretaria de Educación",
+            "siglas": "EDUCACION"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2017-07-06"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "AASK831003MMNYRN02",
+            "genero": {
+                "clave": "F",
+                "valor": "FEMENINO"
+            },
+            "nivel": "DOCENTE",
+            "nombres": "KENIA JAMBELI",
+            "primerApellido": "AYALA",
+            "puesto": "PROFESORA DE LA ESCUELA PRIMARIA VICENTE GUERRERO DE LÁZARO CÁRDENAS MICHOACÁN",
+            "rfc": "AASK831003FR5",
+            "segundoApellido": "SERVIN"
+        },
+        "tipoFalta": {
+            "clave": "NAD",
+            "valor": "NEGLIGENCIA ADMINISTRATIVA"
+        },
+        "tipoSancion": [
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    },
+    {
+        "autoridadSancionadora": "SECRETARIA DE LA CONTRALORIA",
+        "causaMotivoHechos": "NO CUMPLIÓ CON LEGALIDAD Y RESPONSABILIDAD SU OBLIGACIÓN COMO SERVIDORA PÚBLICA, AL DESEMPEÑAR EL CARGO QUE TENÍA ENCOMENDADO, TODA VEZ QUE NO PRESENTO SU DECLARACIÓN DE SITUACIÓN PATRIMONIAL INICIAL, DENTRO DE LOS 60 DÍAS NATURALES SEGUIDOS A LA TOMA DE POSESIÓN DEL CARGO, QUE FUE EL DÍA PRIMERO DE SEPTIEMBRE DE DOS MIL DIECISÉIS Y DEBIÓ PRESENTAR LA DECLARACIÓN INICIAL A MÁS TARDAR EL TREINTA Y UNO DE OCTUBRE DE DOS MIL DIECISÉIS",
+        "expediente": "DNR-SRO-PAR-179/2017",
+        "fechaCaptura": "2023-11-22",
+        "id": "ZOG3YUV3",
+        "inhabilitacion": {
+            "plazo": "1 UN AÑO",
+            "fechaInicial": "2021-10-06",
+            "fechaFinal": "2022-10-05"
+        },
+        "institucionDependencia": {
+            "clave": "IDP",
+            "nombre": "Instituto de Defensoría Pública del Estado de Michoacán",
+            "siglas": "IDP"
+        },
+        "multa": {
+            "monto": 0,
+            "moneda": {
+                "clave": "MXN",
+                "valor": "Pesos Mexicanos (MXN)"
+            }
+        },
+        "observaciones": "NINGUNA",
+        "resolucion": {
+            "fechaResolucion": "2021-02-26"
+        },
+        "servidorPublicoSancionado": {
+            "curp": "AUGR831104HMNNMM00",
+            "genero": {
+                "clave": "M",
+                "valor": "MASCULINO"
+            },
+            "nivel": "DEFENSOR PUBLICO",
+            "nombres": "JOSE RAMON",
+            "primerApellido": "ANGUIANO",
+            "puesto": "DEFENSOR PUBLICO",
+            "rfc": "AUGR831104723",
+            "segundoApellido": "GOMEZ"
+        },
+        "tipoFalta": {
+            "clave": "IDSP",
+            "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+        },
+        "tipoSancion": [
+            {
+                "clave": "D",
+                "valor": "DESTITUCIÓN DEL EMPLO, CARGO O COMISIÓN"
+            },
+            {
+                "clave": "I",
+                "valor": "INHABILITADO"
+            }
+        ]
+    }
+]

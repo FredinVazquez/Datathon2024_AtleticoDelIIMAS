@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA",
+              "documentoObtenido": "BOLETA",
+              "estatus": "TRUNCO",
+              "fechaObtencion": "1999-12-15",
+              "institucionEducativa": {
+                "nombre": "SECUNDARIA TECNICA #89",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "SEC",
+                "valor": "SECUNDARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "OFICIALIA MAYOR",
+          "clasificacion": "Otro",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "codigoPostal": "59120",
+            "coloniaLocalidad": "Briseñas de Matamoros",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "011",
+              "valor": "Briseñas"
+            },
+            "numeroExterior": "02",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "INTENDECIA PRESIDENCIA",
+          "fechaTomaPosesion": "2022-05-23",
+          "funcionPrincipal": "INTENDENCIA PRESIDECNIA",
+          "nivelEmpleoCargoComision": "0",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "BRISEÑAS",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "3939350655"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JUANA EDITH",
+          "primerApellido": "ANDRADE",
+          "segundoApellido": "ARCEO"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "INSURGENTES",
+            "codigoPostal": "59120",
+            "coloniaLocalidad": "Briseñas de Matamoros",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "011",
+              "valor": "Briseñas"
+            },
+            "numeroExterior": "396",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 31038
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 31038
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 31038
+          }
+        }
+      }
+    },
+    "id": "88g0ih4nra",
+    "metadata": {
+      "actualizacion": "2023-05-02T17:27:13Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "BRISEÑAS",
+      "tipo": "INICIAL"
+    }
+  }
+]

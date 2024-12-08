@@ -1,0 +1,261 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true
+        },
+        "representacion": {
+          "ninguno": true
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "adeudos": {
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "CIENCIAS SOCIALES Y HUMANIDADES",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2011-07-15",
+              "institucionEducativa": {
+                "nombre": "BACHILLERATO DR. IGNACIO CHAVEZ",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosDependienteEconomico": {
+          "dependienteEconomico": [
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "domicilioExtranjero": {
+                "pais": "AF"
+              },
+              "domicilioMexico": {
+                "calle": "FRANCISCO MARQUEZ",
+                "codigoPostal": "58970",
+                "coloniaLocalidad": "LAZARO CARDENAS",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "MICHOACÁN DE OCAMPO"
+                },
+                "municipioAlcaldia": {
+                  "clave": "040",
+                  "valor": "Indaparapeo"
+                },
+                "numeroExterior": "37"
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2011-10-06",
+              "habitaDomicilioDeclarante": false,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "BETSAIDA ",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "GUZMAN ",
+              "proveedorContratistaGobierno": false,
+              "sector": {
+                "clave": "AGRI",
+                "valor": "AGRICULTURA"
+              },
+              "segundoApellido": "SOTELO",
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DESARROLLO INTEGRAL DE LA FAMILIA",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "BENITO JUAREZ",
+            "codigoPostal": "58970",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "040",
+              "valor": "Indaparapeo"
+            },
+            "numeroExterior": "06"
+          },
+          "empleoCargoComision": "PROMOTORA DE DESPENSAS",
+          "fechaTomaPosesion": "2023-02-06",
+          "funcionPrincipal": "ADMINISTRATIVA",
+          "nivelEmpleoCargoComision": "EVENTUAL",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Indaparapeo",
+          "telefonoOficina": {
+            "extension": "0",
+            "telefono": "4512350144"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ELIZABETH",
+          "primerApellido": "SOTELO",
+          "segundoApellido": "RAMIREZ"
+        },
+        "datosPareja": {
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "FRANCISCO MARQUEZ",
+            "codigoPostal": "58970",
+            "coloniaLocalidad": "LAZARO CARDENAS",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "040",
+              "valor": "Indaparapeo"
+            },
+            "numeroExterior": "37"
+          }
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "actividadIndustialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN"
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN"
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 8540
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN"
+          }
+        },
+        "inversiones": {
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "AFIRME",
+                "pais": "MX",
+                "rfc": "BAF950102PJ5"
+              },
+              "numeroCuentaContrato": "4130980112342793",
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "MXN",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CNOM",
+                "valor": "CUENTA DE NÓMINA"
+              },
+              "tercero": [],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": []
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoOComodato": {
+          "ninguno": true
+        },
+        "vehiculos": {
+          "ninguno": true
+        }
+      }
+    },
+    "id": "asqid7nto1",
+    "metadata": {
+      "actualizacion": "2023-05-19T14:00:28Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "Indaparapeo",
+      "tipo": "INICIAL"
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "firmar": {
+        "electronicamente": {
+          "aclaracionesObservaciones": "",
+          "ninguno": null
+        }
+      },
+      "interes": {
+        "apoyos": {
+          "aclaracionesObservaciones": "",
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "aclaracionesObservaciones": "",
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "aclaracionesObservaciones": "",
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "aclaracionesObservaciones": "",
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "representaciones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "adeudosPasivos": {
+          "aclaracionesObservaciones": "",
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "aclaracionesObservaciones": "",
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "aclaracionesObservaciones": "",
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN BÁSICA",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2005-11-01",
+              "institucionEducativa": {
+                "nombre": "ESC. PRIM. FRANCISCO GUILLERMO GARCIA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "PRI",
+                "valor": "PRIMARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [],
+          "ninguno": true
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "JUDICIAL",
+          "areaAdscripcion": "seguridada publica",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "PORTAL ALVARO OBREGON",
+            "codigoPostal": "61830",
+            "coloniaLocalidad": "Ario de Rosales",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "009",
+              "valor": "Ario"
+            },
+            "numeroExterior": "8",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "POLICIA MUNICIPAL",
+          "fechaTomaPosesion": "2022-09-01",
+          "funcionPrincipal": "CUERPO DE SEGURIDAD",
+          "nivelEmpleoCargoComision": "CONFIANZA",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Municipio de Ario",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4225210300"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JORGE LUIS",
+          "primerApellido": "GONZALEZ",
+          "segundoApellido": "CORREA"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "18 DE AGOSTO",
+            "codigoPostal": "61840",
+            "coloniaLocalidad": "Doctor Miguel Silva Macías",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "009",
+              "valor": "Ario"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 10200
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 10200
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 10200
+          }
+        },
+        "inversionesCuentasValores": {
+          "aclaracionesObservaciones": "",
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoComodato": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "tx6pn6v60p",
+    "metadata": {
+      "actualizacion": "2022-10-19T17:06:40Z",
+      "actualizacionConflictoInteres": false,
+      "avance": {
+        "firmar": {
+          "electronicamente": true
+        },
+        "interes": {
+          "apoyos": true,
+          "beneficiosPrivados": true,
+          "clientesPrincipales": true,
+          "fideicomisos": true,
+          "participacion": true,
+          "participacionTomaDecisiones": true,
+          "representaciones": true
+        },
+        "situacionPatrimonial": {
+          "actividadAnualAnterior": true,
+          "adeudosPasivos": true,
+          "bienesInmuebles": true,
+          "bienesMuebles": true,
+          "datosCurricularesDeclarante": true,
+          "datosDependientesEconomicos": true,
+          "datosEmpleoCargoComision": true,
+          "datosGenerales": true,
+          "datosPareja": true,
+          "domicilioDeclarante": true,
+          "experienciaLaboral": true,
+          "ingresos": true,
+          "inversionesCuentasValores": true,
+          "prestamoComodato": true,
+          "vehiculos": true
+        }
+      },
+      "declaracionCompleta": false,
+      "institucion": "Instituto Simulado",
+      "tipo": "INICIAL"
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1666634331906"
+      }
+    }
+  }
+]

@@ -1,0 +1,361 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true
+        },
+        "representacion": {
+          "ninguno": true
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "adeudos": {
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "INGENIERIA CIVIL",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2015-12-14",
+              "institucionEducativa": {
+                "nombre": "UMSNH",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosDependienteEconomico": {
+          "dependienteEconomico": [
+            {
+              "actividadLaboral": {
+                "clave": "PRI",
+                "valor": "PRIVADO"
+              },
+              "actividadLaboralSectorPrivadoOtro": {
+                "salarioMensualNeto": {
+                  "moneda": "MXN"
+                }
+              },
+              "domicilioExtranjero": {
+                "pais": "AF"
+              },
+              "domicilioMexico": {
+                "calle": "FERNANDO MONTES DE OCA ",
+                "codigoPostal": "58900",
+                "coloniaLocalidad": "SDEL BOSQUE ",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "MICHOACÁN DE OCAMPO"
+                },
+                "municipioAlcaldia": {
+                  "clave": "078",
+                  "valor": "Santa Ana Maya"
+                },
+                "numeroExterior": "214"
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2002-01-20",
+              "habitaDomicilioDeclarante": true,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "MARIA FERNANDA ",
+              "parentescoRelacion": {
+                "clave": "CONY",
+                "valor": "CÓNYUGE"
+              },
+              "primerApellido": "DIAZ ",
+              "proveedorContratistaGobierno": false,
+              "sector": {
+                "clave": "AGRI",
+                "valor": "AGRICULTURA"
+              },
+              "segundoApellido": "FLORES ",
+              "tipoOperacion": "AGREGAR"
+            },
+            {
+              "actividadLaboral": {
+                "clave": "PRI",
+                "valor": "PRIVADO"
+              },
+              "actividadLaboralSectorPrivadoOtro": {
+                "salarioMensualNeto": {
+                  "moneda": "MXN"
+                }
+              },
+              "actividadLaboralSectorPublico": {
+                "ambitoPublico": "EJECUTIVO",
+                "nivelOrdenGobierno": "FEDERAL",
+                "salarioMensualNeto": {
+                  "moneda": "MXN"
+                }
+              },
+              "domicilioExtranjero": {
+                "pais": "AF"
+              },
+              "domicilioMexico": {
+                "entidadFederativa": {
+                  "clave": "01",
+                  "valor": "AGUASCALIENTES"
+                },
+                "municipioAlcaldia": {
+                  "clave": "001",
+                  "valor": "Aguascalientes"
+                }
+              },
+              "extranjero": false,
+              "habitaDomicilioDeclarante": false,
+              "lugarDondeReside": "MEXICO",
+              "parentescoRelacion": {
+                "clave": "ABU",
+                "valor": "ABUELO(A)"
+              },
+              "proveedorContratistaGobierno": false,
+              "sector": {
+                "clave": "AGRI",
+                "valor": "AGRICULTURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "OBRAS PUBLICAS ",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "MORELOS ",
+            "codigoPostal": "58970",
+            "coloniaLocalidad": "CENTRO ",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "040",
+              "valor": "Indaparapeo"
+            },
+            "numeroExterior": "77"
+          },
+          "empleoCargoComision": "AUXILIAR TECNICO DE OBRAS",
+          "fechaTomaPosesion": "2022-10-14",
+          "funcionPrincipal": "SUPERVISOR DE OBRAS",
+          "nivelEmpleoCargoComision": "EVENTUAL",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Indaparapeo",
+          "telefonoOficina": {
+            "extension": "0",
+            "telefono": "4513520144"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JOSE BENITO ",
+          "primerApellido": "CASTILLO",
+          "segundoApellido": "SILVA "
+        },
+        "datosPareja": {
+          "actividadLaboral": {
+            "clave": "PRI",
+            "valor": "PRIVADO"
+          },
+          "actividadLaboralSectorPrivadoOtro": {
+            "proveedorContratistaGobierno": false,
+            "salarioMensualNeto": {
+              "moneda": "MXN"
+            },
+            "sector": {
+              "clave": "AGRI",
+              "valor": "AGRICULTURA"
+            }
+          },
+          "ciudadanoExtranjero": false,
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "entidadFederativa": {
+              "clave": "01",
+              "valor": "AGUASCALIENTES"
+            },
+            "municipioAlcaldia": {
+              "clave": "001",
+              "valor": "Aguascalientes"
+            }
+          },
+          "esDependienteEconomico": false,
+          "habitaDomicilioDeclarante": false,
+          "lugarDondeReside": "MEXICO",
+          "ninguno": false,
+          "relacionConDeclarante": "CONYUGE",
+          "tipoOperacion": "AGREGAR"
+        },
+        "domicilioDeclarante": {
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "FERNANDO MONTES DE OCA ",
+            "codigoPostal": "58900",
+            "coloniaLocalidad": "DEL BOSQUE ",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "078",
+              "valor": "Santa Ana Maya"
+            },
+            "numeroExterior": "214"
+          }
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "OBRAS PUBLICAS",
+              "empleoCargoComision": "DIRECTOR DE OBRAS PUBLICAS",
+              "fechaEgreso": "2021-08-31",
+              "fechaIngreso": "2018-09-01",
+              "funcionPrincipal": "GESTION DE RECURSO DEL MUNICIPIO EN OBRAS",
+              "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+              "nombreEntePublico": "AYUNTAMIENTO DE SANTA ANA MAYA",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "actividadIndustialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN"
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN"
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 14400
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN"
+          }
+        },
+        "inversiones": {
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "AFIRME",
+                "pais": "MX",
+                "rfc": "BAF950102JP5"
+              },
+              "numeroCuentaContrato": "4130980112342686",
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "MXN",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CNOM",
+                "valor": "CUENTA DE NÓMINA"
+              },
+              "tercero": [],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": []
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoOComodato": {
+          "ninguno": true
+        },
+        "vehiculos": {
+          "ninguno": true
+        }
+      }
+    },
+    "id": "ya4xqpb4ks",
+    "metadata": {
+      "actualizacion": "2023-05-23T09:34:08Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "Indaparapeo",
+      "tipo": "INICIAL"
+    }
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "FACULTAD DE ARQUITECTURA",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2017-08-31T00:00:00-0500",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD MICHOACANA DE SAN NICOLAS DE HIDALGO",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIRECCION DE OBRAS PUBLICAS",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "20 DE OCTUBRE",
+            "codigoPostal": "61300",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "022",
+              "valor": "CHARO"
+            },
+            "numeroExterior": "SN"
+          },
+          "empleoCargoComision": "SUPERVISOR DE OBRA",
+          "fechaTomaPosesion": "2022-10-01T00:00:00-0500",
+          "funcionPrincipal": "SUPERVISION DE OBRA Y ADMINISTRATIVO",
+          "nivelEmpleoCargoComision": "23",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "H. AYUNTAMIENTO DE CHARO, MICHOACAN",
+          "telefonoOficina": {
+            "extension": "112",
+            "telefono": "4513840017"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "KARLA",
+          "primerApellido": "HERNANDEZ",
+          "segundoApellido": "LUVIANO"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "PRIVADO"
+              },
+              "area": "OBRAS",
+              "fechaEgreso": "2022-09-30T00:00:00-0500",
+              "fechaIngreso": "2022-07-11T00:00:00-0500",
+              "nombreEmpresaSociedadAsociacion": "PROFESIONALES MICHOACANOS EN INFRAESTRUCTURA S.A.S DE C.V.",
+              "puesto": "RESIDENTE DE OBRA",
+              "rfc": "PMI2112043C0",
+              "sector": {
+                "clave": "CONS",
+                "valor": "CONSTRUCCIÓN"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "PRIVADO"
+              },
+              "area": "ESTIMACIONES",
+              "fechaEgreso": "2021-11-30T00:00:00-0600",
+              "fechaIngreso": "2020-01-06T00:00:00-0600",
+              "nombreEmpresaSociedadAsociacion": "EDIFICACIONES CARVER S.A. DE C.V.",
+              "puesto": "ENCARGADA DE ESTIMACIONES",
+              "sector": {
+                "clave": "CONS",
+                "valor": "CONSTRUCCIÓN"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "COSTOS Y PRESUPUESTOS",
+              "empleoCargoComision": "TECNICO PROFESIONISTA",
+              "fechaEgreso": "2019-12-31T00:00:00-0600",
+              "fechaIngreso": "2016-12-01T00:00:00-0600",
+              "funcionPrincipal": "REALIZACION DE PRESUPUESTOS Y PROCESOS LICITATORIOS",
+              "nivelOrdenGobierno": "ESTATAL",
+              "nombreEntePublico": "IIFEEM",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "PRIVADO"
+              },
+              "area": "PROYECTOS Y ESTIMACIONES",
+              "fechaEgreso": "2016-11-15T00:00:00-0600",
+              "fechaIngreso": "2015-08-20T00:00:00-0500",
+              "nombreEmpresaSociedadAsociacion": "INGENIERIA Y PROYECTOS EN CONSTRUCCION ELECTRICA S.C.",
+              "puesto": "ARQUITECTA PROYECTISTA",
+              "sector": {
+                "clave": "SERVPROF",
+                "valor": "SERVICIOS PROFESIONALES"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "PRIVADO"
+              },
+              "area": "COSTOS Y ESTIMACIONES",
+              "fechaEgreso": "2015-05-15T00:00:00-0500",
+              "fechaIngreso": "2014-06-09T00:00:00-0500",
+              "nombreEmpresaSociedadAsociacion": "SIX SIGMA CONSTRUCCIONES S.A. DE C.V.",
+              "puesto": "AUXILIAR DE COSTOS Y ESTIMACIONES",
+              "sector": {
+                "clave": "CONS",
+                "valor": "CONSTRUCCIÓN"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 10000
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 10000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "8tbn91j5e8",
+    "metadata": {
+      "actualizacion": "2022-12-07T15:20:28-0600",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE CHARO MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

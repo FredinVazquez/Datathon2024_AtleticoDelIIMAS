@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "DERECHO",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2014-07-15",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD DE GUADALAJARA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIRECCION JURIDICA",
+          "clasificacion": "Personal de confianza",
+          "contratadoPorHonorarios": true,
+          "domicilioMexico": {
+            "calle": "HIDALGO",
+            "codigoPostal": "59160",
+            "coloniaLocalidad": "Venustiano Carranza",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "103",
+              "valor": "Venustiano Carranza"
+            },
+            "numeroExterior": "2",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "ASESORA JURIDICA",
+          "fechaTomaPosesion": "2023-04-15",
+          "funcionPrincipal": "ASESORA JURIDICA",
+          "nivelEmpleoCargoComision": "EMPLEADO DE CONFIANZA",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "VENUSTIANO CARRANZA",
+          "telefonoOficina": {
+            "extension": "108",
+            "lada": "52",
+            "telefono": "3531283003"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JESSICA ALEJANDRA",
+          "primerApellido": "MARAVILLA",
+          "segundoApellido": "PRADO"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "aldama",
+            "codigoPostal": "59160",
+            "coloniaLocalidad": "Venustiano Carranza",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "103",
+              "valor": "Venustiano Carranza"
+            },
+            "numeroExterior": "91",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "ABOGADA LITIGANTE",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 6000
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 6000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 9000
+          }
+        }
+      }
+    },
+    "id": "zjvor0pafk",
+    "metadata": {
+      "actualizacion": "2023-05-31T21:55:23Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "VENUSTIANO CARRANZA",
+      "tipo": "INICIAL"
+    }
+  }
+]

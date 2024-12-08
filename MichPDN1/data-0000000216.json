@@ -1,0 +1,309 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "firmar": {
+        "electronicamente": {
+          "aclaracionesObservaciones": "",
+          "ninguno": null
+        }
+      },
+      "interes": {
+        "apoyos": {
+          "aclaracionesObservaciones": "",
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "aclaracionesObservaciones": "",
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "aclaracionesObservaciones": "",
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "aclaracionesObservaciones": "",
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "representaciones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "adeudosPasivos": {
+          "aclaracionesObservaciones": "",
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "aclaracionesObservaciones": "",
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "aclaracionesObservaciones": "",
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "LICENCIADO EN DANZA REGIONAL MEXICANA.",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2021-08-06",
+              "institucionEducativa": {
+                "nombre": "ESCUELA DE LA DANZA DEL PROF JAIME BUENTELLO BAZÁN",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [],
+          "ninguno": true
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "CULTURA Y TURISMO",
+          "contratadoPorHonorarios": true,
+          "domicilioMexico": {
+            "calle": "BENITO JUÁREZ",
+            "codigoPostal": "60440",
+            "coloniaLocalidad": "Camelinas",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "068",
+              "valor": "Peribán"
+            },
+            "numeroExterior": "23",
+            "numeroInterior": "B"
+          },
+          "empleoCargoComision": "COORDINADOR",
+          "fechaTomaPosesion": "2022-08-17",
+          "funcionPrincipal": "COORDINAR EVENTOS, TALLERES E INTERCAMBIOS CULTURALES.",
+          "nivelEmpleoCargoComision": "SIN NIVEL",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "COORDINADOR",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "3541180944"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "CARLOS GONZALO",
+          "primerApellido": "AGUILAR",
+          "segundoApellido": "GUILLEN"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "LÁZARO CÁRDENAS DEL RIO 38",
+            "codigoPostal": "60443",
+            "coloniaLocalidad": "San Francisco Peribán",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "068",
+              "valor": "Peribán"
+            },
+            "numeroExterior": "38",
+            "numeroInterior": "38"
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "",
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "PRIMARIA",
+              "fechaEgreso": "2022-08-15",
+              "fechaIngreso": "2018-08-15",
+              "nombreEmpresaSociedadAsociacion": "INSTITUTO APRENDER PARA LA VIDA",
+              "puesto": "PROFESOR",
+              "rfc": "AUGC920428CB",
+              "sector": {
+                "clave": "OTRO",
+                "valor": "OTRO (ESPECIFIQUE)"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "PREESCOLAR",
+              "fechaEgreso": "2022-08-15",
+              "fechaIngreso": "2017-09-05",
+              "nombreEmpresaSociedadAsociacion": "CENTRO EDUCATIVO \"MAYELI MONTESSORI\"",
+              "puesto": "EDUCADOR",
+              "rfc": "",
+              "sector": {
+                "clave": "OTRO",
+                "valor": "OTRO (ESPECIFIQUE)"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 14000
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 14000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 14000
+          }
+        },
+        "inversionesCuentasValores": {
+          "aclaracionesObservaciones": "",
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoComodato": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "iyk2oe30zj",
+    "metadata": {
+      "actualizacion": "2022-10-19T16:32:25Z",
+      "actualizacionConflictoInteres": false,
+      "avance": {
+        "firmar": {
+          "electronicamente": true
+        },
+        "interes": {
+          "apoyos": true,
+          "beneficiosPrivados": true,
+          "clientesPrincipales": true,
+          "fideicomisos": true,
+          "participacion": true,
+          "participacionTomaDecisiones": true,
+          "representaciones": true
+        },
+        "situacionPatrimonial": {
+          "actividadAnualAnterior": true,
+          "adeudosPasivos": true,
+          "bienesInmuebles": true,
+          "bienesMuebles": true,
+          "datosCurricularesDeclarante": true,
+          "datosDependientesEconomicos": true,
+          "datosEmpleoCargoComision": true,
+          "datosGenerales": true,
+          "datosPareja": true,
+          "domicilioDeclarante": true,
+          "experienciaLaboral": true,
+          "ingresos": true,
+          "inversionesCuentasValores": true,
+          "prestamoComodato": true,
+          "vehiculos": true
+        }
+      },
+      "declaracionCompleta": false,
+      "institucion": "Instituto Simulado",
+      "tipo": "INICIAL"
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1666218404141"
+      }
+    }
+  }
+]

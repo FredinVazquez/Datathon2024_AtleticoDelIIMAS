@@ -1,0 +1,272 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "firmar": {
+        "electronicamente": {
+          "aclaracionesObservaciones": "",
+          "ninguno": null
+        }
+      },
+      "interes": {
+        "apoyos": {
+          "aclaracionesObservaciones": "",
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "aclaracionesObservaciones": "",
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "aclaracionesObservaciones": "",
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "aclaracionesObservaciones": "",
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "representaciones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "adeudosPasivos": {
+          "aclaracionesObservaciones": "",
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "aclaracionesObservaciones": "",
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "aclaracionesObservaciones": "",
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA SUPERIOR",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2020-08-11",
+              "institucionEducativa": {
+                "nombre": "COLEGIO DE BACHILLERES DEL ESTADO DE MICHOACAN",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [],
+          "ninguno": true
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "ORGANO_AUTONOMO",
+          "areaAdscripcion": "SERVICIOS GENERALES",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "PALACIO MUNICIPAL",
+            "codigoPostal": "61250",
+            "coloniaLocalidad": "Maravatío de Ocampo Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "050",
+              "valor": "Maravatío"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "AUXILIAR GENERAL",
+          "fechaTomaPosesion": "2022-07-15",
+          "funcionPrincipal": "MANTENIMIENTO",
+          "nivelEmpleoCargoComision": "S/N",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "H. AYUNTAMIENTO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4474781279"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JUAN FRANCISCO",
+          "primerApellido": "LOPEZ",
+          "segundoApellido": "MUÑOZ"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "18 MARZO",
+            "codigoPostal": "61252",
+            "coloniaLocalidad": "Lomas del Panteón",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "050",
+              "valor": "Maravatío"
+            },
+            "numeroExterior": "77",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 10000
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 10000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 10000
+          }
+        },
+        "inversionesCuentasValores": {
+          "aclaracionesObservaciones": "",
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoComodato": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "8167qjgf6f",
+    "metadata": {
+      "actualizacion": "2022-10-18T23:32:15Z",
+      "actualizacionConflictoInteres": false,
+      "avance": {
+        "firmar": {
+          "electronicamente": true
+        },
+        "interes": {
+          "apoyos": true,
+          "beneficiosPrivados": true,
+          "clientesPrincipales": true,
+          "fideicomisos": true,
+          "participacion": true,
+          "participacionTomaDecisiones": true,
+          "representaciones": true
+        },
+        "situacionPatrimonial": {
+          "actividadAnualAnterior": true,
+          "adeudosPasivos": true,
+          "bienesInmuebles": true,
+          "bienesMuebles": true,
+          "datosCurricularesDeclarante": true,
+          "datosDependientesEconomicos": true,
+          "datosEmpleoCargoComision": true,
+          "datosGenerales": true,
+          "datosPareja": true,
+          "domicilioDeclarante": true,
+          "experienciaLaboral": true,
+          "ingresos": true,
+          "inversionesCuentasValores": true,
+          "prestamoComodato": true,
+          "vehiculos": true
+        }
+      },
+      "declaracionCompleta": false,
+      "institucion": "Instituto Simulado",
+      "tipo": "INICIAL"
+    },
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1666138239889"
+      }
+    }
+  }
+]

@@ -1,0 +1,216 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "IDIOMAS",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2018-08-31",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD MONTER",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [],
+          "ninguno": true
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SINDICATURA",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "jardin principal",
+            "codigoPostal": "58540",
+            "coloniaLocalidad": "Pastor Ortiz",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "113",
+              "valor": "José Sixto Verduzco"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "SN"
+          },
+          "empleoCargoComision": "AUXILIAR",
+          "fechaTomaPosesion": "2022-08-25",
+          "funcionPrincipal": "CHECAR LOS BIENES MUEBLES E INMUEBLES DE LAS AREAS",
+          "nivelEmpleoCargoComision": "C",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "JOSÉ SIXTO VERDUZCO",
+          "telefonoOficina": {
+            "extension": "0054",
+            "lada": "52",
+            "telefono": "4386980054"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ROSA MARTHA",
+          "primerApellido": "SAAVEDRA",
+          "segundoApellido": "TORRES"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "jiquilpan",
+            "codigoPostal": "58540",
+            "coloniaLocalidad": "Servando Chávez",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "113",
+              "valor": "José Sixto Verduzco"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "SN"
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "",
+          "experiencia": [
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "EDUCATIVO",
+              "empleoCargoComision": "MAESTRA",
+              "fechaEgreso": "2020-02-15",
+              "fechaIngreso": "2019-09-09",
+              "funcionPrincipal": "CLASES DE INGLES",
+              "nivelOrdenGobierno": "ESTATAL",
+              "nombreEntePublico": "NUMARAN",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "EDUCATIVA",
+              "empleoCargoComision": "MAESTRA",
+              "fechaEgreso": "2020-02-15",
+              "fechaIngreso": "2019-09-09",
+              "funcionPrincipal": "DAR CLASES DE INGLES",
+              "nivelOrdenGobierno": "ESTATAL",
+              "nombreEntePublico": "ECUANDUREO",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "EDUCATIVA",
+              "empleoCargoComision": "MAESTRA",
+              "fechaEgreso": "2019-11-14",
+              "fechaIngreso": "2019-09-09",
+              "funcionPrincipal": "DAR CLASES DE INGLES",
+              "nivelOrdenGobierno": "ESTATAL",
+              "nombreEntePublico": "CHURINTZIO",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 18010
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 18010
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 18010
+          }
+        }
+      }
+    },
+    "id": "f23tw24t13",
+    "metadata": {
+      "actualizacion": "2022-11-08T15:17:45Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "JOSÉ SIXTO VERDUZCO",
+      "tipo": "INICIAL"
+    }
+  }
+]

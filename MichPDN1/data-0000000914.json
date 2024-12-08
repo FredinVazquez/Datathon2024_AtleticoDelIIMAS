@@ -1,0 +1,176 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACION FISICA Y DEPORTES",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2022-07-11",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD MONTRER",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DEPORTE",
+          "clasificacion": "Otro",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "IGNACIO ZARAGOZA",
+            "codigoPostal": "61650",
+            "coloniaLocalidad": "Tacambaro de Codallos Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "082",
+              "valor": "Tacámbaro"
+            },
+            "numeroExterior": "XXXX",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "AUXILIAR DEL DEPORTE",
+          "fechaTomaPosesion": "2023-03-01",
+          "funcionPrincipal": "MANTENIMIENTO Y REHABILITACION DE LOS ESPACIOS DEPORTIVOS",
+          "nivelEmpleoCargoComision": "0000",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "TACÁMBARO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4595960020"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "GUSTAVO",
+          "primerApellido": "OLVERA",
+          "segundoApellido": "GARCIA"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "CALLE JOSE MARIA MORELOS Y PAVON",
+            "codigoPostal": "61677",
+            "coloniaLocalidad": "San Rafael Tecario (El Poblado)",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "082",
+              "valor": "Tacámbaro"
+            },
+            "numeroExterior": "81",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "DE CAMPO",
+              "empleoCargoComision": "OPERATIVIDAD",
+              "fechaEgreso": "2022-10-28",
+              "fechaIngreso": "2022-03-01",
+              "funcionPrincipal": "PODA DE AGUACATE",
+              "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+              "nombreEntePublico": "SANIDAD VEGETAL TACAMBARO",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 8600
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 8600
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 8600
+          }
+        }
+      }
+    },
+    "id": "i38t37ssoh",
+    "metadata": {
+      "actualizacion": "2023-07-04T18:59:53Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "TACÁMBARO",
+      "tipo": "INICIAL"
+    }
+  }
+]

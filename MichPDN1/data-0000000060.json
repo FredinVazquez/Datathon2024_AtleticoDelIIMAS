@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "PSICOLOGIA",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2022-07-15",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD DE GUADALAJARA (CUCI)",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "CULTURA",
+          "clasificacion": "Otro",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "codigoPostal": "59120",
+            "coloniaLocalidad": "Briseñas de Matamoros",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "011",
+              "valor": "Briseñas"
+            },
+            "numeroExterior": "2",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "AUXILIAR DE CULTURA",
+          "fechaTomaPosesion": "2022-08-22",
+          "funcionPrincipal": "AUXILIAR DE CULTURA",
+          "nivelEmpleoCargoComision": "0",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "BRISEÑAS",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "3939350655"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MARGARITA",
+          "primerApellido": "SALAZAR",
+          "segundoApellido": "FLORES"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "JAVIER MINA",
+            "codigoPostal": "47910",
+            "coloniaLocalidad": "La Barca Centro",
+            "entidadFederativa": {
+              "clave": "14",
+              "valor": "Jalisco"
+            },
+            "municipioAlcaldia": {
+              "clave": "018",
+              "valor": "La Barca"
+            },
+            "numeroExterior": "207",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 24800
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 24800
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 24800
+          }
+        }
+      }
+    },
+    "id": "fkvl2zjv0q",
+    "metadata": {
+      "actualizacion": "2023-05-05T15:48:16Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "BRISEÑAS",
+      "tipo": "INICIAL"
+    }
+  }
+]

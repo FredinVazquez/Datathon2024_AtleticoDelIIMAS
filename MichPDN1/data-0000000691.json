@@ -1,0 +1,168 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": null
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "INGENIERÍA AMBIENTAL",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2021-10-21T00:00:00-0500",
+              "institucionEducativa": {
+                "nombre": "INSTITUTO TECNOLÓGICO DEL VALLE DE MORELIA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "ORGANO_AUTONOMO",
+          "areaAdscripcion": "AGUA POTABLE Y ALCANTARILLADO MUNICIPAL",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "MIGUEL HIDALGO",
+            "codigoPostal": "58870",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "018",
+              "valor": "COPÁNDARO"
+            },
+            "numeroExterior": "57"
+          },
+          "empleoCargoComision": "ENCARGADO DEL DEPARTAMENTO DE CULTURA DEL AGUA",
+          "fechaTomaPosesion": "2022-10-14T00:00:00-0500",
+          "funcionPrincipal": "IMPLEMENTAR ACTIVIDADES Y PROGRAMAS QUE CONTRIBUYAN AL AUMENTO DE CONCIENCIA Y FOMENTAR LA PARTICIPACIÓN, COMPROMISO Y RESPONSABILIDAD EN LA GENERACIÓN DE UNA NUEVA CULTURA DEL AGUA.",
+          "nivelEmpleoCargoComision": "BASE",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "H. AYUNTAMIENTO CONSTITUCIONAL DE COPANDARO",
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ARTURO",
+          "primerApellido": "GARCÍA",
+          "segundoApellido": "MARTÍNEZ"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "PRIVADO"
+              },
+              "area": "TRATAMIENTO DE AGUA RESIDUAL",
+              "fechaEgreso": "2021-11-11T00:00:00-0600",
+              "fechaIngreso": "2021-05-10T00:00:00-0500",
+              "nombreEmpresaSociedadAsociacion": "XIN POINT MEXICO",
+              "puesto": "INGENIERO ASISTENTE DE PLANTA DE TRATAMIENTO",
+              "sector": {
+                "clave": "INDMANU",
+                "valor": "INDUSTRIA MANUFACTURERA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "PRIVADO"
+              },
+              "area": "AGUA POTABLE, RESIDUAL Y FUENTES FIJAS",
+              "fechaEgreso": "2022-08-01T00:00:00-0500",
+              "fechaIngreso": "2021-11-13T00:00:00-0600",
+              "nombreEmpresaSociedadAsociacion": "BUFETE QUIMICO S.A. DE C.V",
+              "puesto": "ESPECIALISTA DE MUESTREO",
+              "sector": {
+                "clave": "SERVPROF",
+                "valor": "SERVICIOS PROFESIONALES"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 11000
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 11000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "7pel78855p",
+    "metadata": {
+      "actualizacion": "2023-01-18T15:43:29-0600",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE COPÁNDARO MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

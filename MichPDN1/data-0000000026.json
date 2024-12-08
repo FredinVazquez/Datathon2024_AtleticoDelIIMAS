@@ -1,0 +1,152 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": null
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "BACHILLERATO",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2014-07-15T00:00:00-0500",
+              "institucionEducativa": {
+                "nombre": "PREPARATORIA ENCUENTRO DE HIDALGO Y MORELOS",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            },
+            {
+              "carreraAreaConocimiento": "HISTORIA",
+              "documentoObtenido": "BOLETA",
+              "estatus": "CURSANDO",
+              "fechaObtencion": "2023-07-01T00:00:00-0600",
+              "institucionEducativa": {
+                "nombre": "INSTITUTO DE ESTUDIOS UNIVERSITARIOS DE PUEBLA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIF",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "GALENANA",
+            "codigoPostal": "61300",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "022",
+              "valor": "CHARO"
+            },
+            "numeroExterior": "26",
+            "numeroInterior": "SN"
+          },
+          "empleoCargoComision": "PROMOTORA",
+          "fechaTomaPosesion": "2023-07-01T00:00:00-0600",
+          "funcionPrincipal": "ACTUALIZAR CENSOS PARA APOYOS A LA POBLACION",
+          "nivelEmpleoCargoComision": "PROMOTORA",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "H. AYUNTAMIENTO DE CHARO",
+          "telefonoOficina": {
+            "extension": "0",
+            "telefono": "4513840226"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "VIVIANA FERNANDA",
+          "primerApellido": "RICO",
+          "segundoApellido": "HERNANDEZ"
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 8384
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 8384
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "1mw0lukr5y",
+    "metadata": {
+      "actualizacion": "2023-08-23T12:59:42-0600",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE CHARO MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

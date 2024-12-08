@@ -1,0 +1,484 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "aclaracionesObservaciones": "",
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "aclaracionesObservaciones": "",
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "aclaracionesObservaciones": "",
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "aclaracionesObservaciones": "",
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "representaciones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "adeudosPasivos": {
+          "aclaracionesObservaciones": "",
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "aclaracionesObservaciones": "",
+          "bienInmueble": [
+            {
+              "datoIdentificacion": "ESCRITURA",
+              "domicilioMexico": {
+                "calle": "AV MADERO",
+                "codigoPostal": "61250",
+                "coloniaLocalidad": "Maravatío de Ocampo Centro",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "050",
+                  "valor": "Maravatío"
+                },
+                "numeroExterior": "375",
+                "numeroInterior": "A"
+              },
+              "fechaAdquisicion": "2002-06-15",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "porcentajePropiedad": 100,
+              "superficieConstruccion": {
+                "unidad": "m2",
+                "valor": 500
+              },
+              "superficieTerreno": {
+                "unidad": "m2",
+                "valor": 775
+              },
+              "tercero": [],
+              "tipoInmueble": {
+                "clave": "CASA",
+                "valor": "CASA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "ALVARO MARTINEZ SOTO",
+                  "relacion": {
+                    "clave": "HIJ",
+                    "valor": "HIJO(A)"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                },
+                {
+                  "nombreRazonSocial": "MIGUEL ANGEL MARTINEZ SOTO",
+                  "relacion": {
+                    "clave": "HIJ",
+                    "valor": "HIJO(A)"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 2000000
+              },
+              "valorConformeA": "CONTRATO"
+            },
+            {
+              "datoIdentificacion": "CONTRATO",
+              "domicilioMexico": {
+                "calle": "DAVID MORENO",
+                "codigoPostal": "61253",
+                "coloniaLocalidad": "San Miguel",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "050",
+                  "valor": "Maravatío"
+                },
+                "numeroExterior": "35",
+                "numeroInterior": ""
+              },
+              "fechaAdquisicion": "2010-04-15",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "porcentajePropiedad": 100,
+              "superficieConstruccion": {
+                "unidad": "m2",
+                "valor": 50
+              },
+              "superficieTerreno": {
+                "unidad": "m2",
+                "valor": 800
+              },
+              "tercero": [],
+              "tipoInmueble": {
+                "clave": "RACH",
+                "valor": "RANCHO"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "ALVARO MARTINEZ",
+                  "relacion": {
+                    "clave": "HIJ",
+                    "valor": "HIJO(A)"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                },
+                {
+                  "nombreRazonSocial": "MIGUEL ANGEL MARTINEZ",
+                  "relacion": {
+                    "clave": "HIJ",
+                    "valor": "HIJO(A)"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 300000
+              },
+              "valorConformeA": "CONTRATO"
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesMuebles": {
+          "aclaracionesObservaciones": "",
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA SUPERIOR",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "1987-05-15",
+              "institucionEducativa": {
+                "nombre": "HERMANOS LOPEZ RAYON",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "curp": "",
+              "domicilioMexico": {
+                "calle": "AV MADERO",
+                "codigoPostal": "61250",
+                "coloniaLocalidad": "Maravatío de Ocampo Centro",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "050",
+                  "valor": "Maravatío"
+                },
+                "numeroExterior": "375",
+                "numeroInterior": "A"
+              },
+              "extranjero": false,
+              "fechaNacimiento": "1997-04-17",
+              "habitaDomicilioDeclarante": true,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "ALVARO",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "MARTINEZ",
+              "rfc": "",
+              "segundoApellido": "SOTO",
+              "tipoOperacion": "AGREGAR"
+            },
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "curp": "",
+              "domicilioMexico": {
+                "calle": "AV MADERO",
+                "codigoPostal": "61250",
+                "coloniaLocalidad": "Maravatío de Ocampo Centro",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "050",
+                  "valor": "Maravatío"
+                },
+                "numeroExterior": "375",
+                "numeroInterior": "A"
+              },
+              "extranjero": false,
+              "fechaNacimiento": "1998-10-28",
+              "habitaDomicilioDeclarante": true,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "MIGUEL ANGEL",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "MARTINEZ",
+              "rfc": "",
+              "segundoApellido": "SOTO",
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "REGLAMENTOS",
+          "clasificacion": "Personal de confianza",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "MADERO",
+            "codigoPostal": "61250",
+            "coloniaLocalidad": "Maravatío de Ocampo Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "050",
+              "valor": "Maravatío"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "SUPERVISOR DE REGLAMENTOS",
+          "fechaTomaPosesion": "2022-11-01",
+          "funcionPrincipal": "LLEVO A CABO LA FUNCION DEL REGLAMENTO DEL MERCADO",
+          "nivelEmpleoCargoComision": "INTERMEDIO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "MARAVATÍO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4471178164"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MIGUEL ANGEL",
+          "primerApellido": "MARTINEZ",
+          "segundoApellido": "CORONEL"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "AV MADERO",
+            "codigoPostal": "61250",
+            "coloniaLocalidad": "Maravatío de Ocampo Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "050",
+              "valor": "Maravatío"
+            },
+            "numeroExterior": "375",
+            "numeroInterior": "A"
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "INSPECTOR DE MERCADO 2010 - 2013",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 20000
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 20000
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 32922
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 20000
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 12922
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 32922
+          }
+        },
+        "inversionesCuentasValores": {
+          "aclaracionesObservaciones": "",
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BBVA",
+                "pais": "MX",
+                "rfc": "MACM660815A6"
+              },
+              "numeroCuentaContrato": "0193349187",
+              "porcentajeIncrementoDecremento": 0,
+              "saldoSituacionActual": {
+                "moneda": "XXX",
+                "valor": 13004
+              },
+              "subTipoInversion": {
+                "clave": "CCHE",
+                "valor": "CUENTA DE CHEQUES"
+              },
+              "tercero": [],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoComodato": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "5u68qtxmjb",
+    "metadata": {
+      "actualizacion": "2022-12-14T19:19:01Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "MARAVATÍO",
+      "tipo": "INICIAL"
+    }
+  }
+]

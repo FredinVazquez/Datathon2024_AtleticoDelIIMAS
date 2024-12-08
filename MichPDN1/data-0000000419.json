@@ -1,0 +1,178 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "PROCESOS TEXTILES",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2007-10-01",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD TECNOLÓGICA DE MORELIA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "OFICIALIA MAYOR",
+          "clasificacion": "Personal de confianza",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "PORTAL CENTENARIO",
+            "codigoPostal": "61060",
+            "coloniaLocalidad": "Tlalpujahua de Rayón",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "093",
+              "valor": "Tlalpujahua"
+            },
+            "numeroExterior": "4",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "BIBLIOTECARIA",
+          "fechaTomaPosesion": "2023-03-16",
+          "funcionPrincipal": "APOYO A DIFERENTES AREAS",
+          "nivelEmpleoCargoComision": "OPERATIVO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "TLALPUJAHUA",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "7116880598"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MARIA JENNY",
+          "primerApellido": "SALINAS",
+          "segundoApellido": "QUINTERO"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "SIN NOMBRE",
+            "codigoPostal": "61062",
+            "coloniaLocalidad": "Zapateros",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "093",
+              "valor": "Tlalpujahua"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "CONTROL DE CALIDAD",
+              "fechaEgreso": "2022-03-06",
+              "fechaIngreso": "2022-01-17",
+              "nombreEmpresaSociedadAsociacion": "MAREL DE MEXICO, S.A. DE C.V.",
+              "puesto": "ASESOR DE CONTROL DE CALIDAD",
+              "rfc": "MME861211NK2",
+              "sector": {
+                "clave": "CMAYOR",
+                "valor": "COMERCIO AL POR MAYOR"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 6660
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 6660
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 6660
+          }
+        }
+      }
+    },
+    "id": "8ewfn005hz",
+    "metadata": {
+      "actualizacion": "2023-05-30T19:49:15Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "TLALPUJAHUA",
+      "tipo": "INICIAL"
+    }
+  }
+]

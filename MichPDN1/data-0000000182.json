@@ -1,0 +1,644 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "aclaracionesObservaciones": "",
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "aclaracionesObservaciones": "",
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "aclaracionesObservaciones": "",
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "aclaracionesObservaciones": "",
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "representaciones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "adeudosPasivos": {
+          "aclaracionesObservaciones": "",
+          "adeudo": [
+            {
+              "fechaAdquisicion": "2018-10-27",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 60000
+              },
+              "numeroCuentaContrato": "SN",
+              "otorganteCredito": {
+                "nombreInstitucion": "BANCOMER",
+                "rfc": "",
+                "tipoPersona": "MORAL"
+              },
+              "porcentajeIncrementoDecremento": 0,
+              "saldoInsolutoSituacionActual": {
+                "moneda": "MXN",
+                "valor": 574000
+              },
+              "tercero": [],
+              "tipoAdeudo": {
+                "clave": "PRPE",
+                "valor": "PRÉSTAMO PERSONAL"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            },
+            {
+              "fechaAdquisicion": "2019-05-30",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 80000
+              },
+              "numeroCuentaContrato": "SN",
+              "otorganteCredito": {
+                "nombreInstitucion": "BANCOMER",
+                "rfc": "",
+                "tipoPersona": "MORAL"
+              },
+              "porcentajeIncrementoDecremento": 0,
+              "saldoInsolutoSituacionActual": {
+                "moneda": "MXN",
+                "valor": 65000
+              },
+              "tercero": [],
+              "tipoAdeudo": {
+                "clave": "CPER",
+                "valor": "CRÉDITO PERSONAL"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            },
+            {
+              "fechaAdquisicion": "2022-11-13",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 10000
+              },
+              "numeroCuentaContrato": "SN",
+              "otorganteCredito": {
+                "nombreInstitucion": "ALIANZA",
+                "rfc": "",
+                "tipoPersona": "MORAL"
+              },
+              "porcentajeIncrementoDecremento": 0,
+              "saldoInsolutoSituacionActual": {
+                "moneda": "MXN",
+                "valor": 7300
+              },
+              "tercero": [],
+              "tipoAdeudo": {
+                "clave": "CPER",
+                "valor": "CRÉDITO PERSONAL"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            },
+            {
+              "fechaAdquisicion": "2022-09-23",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 10000
+              },
+              "numeroCuentaContrato": "SN",
+              "otorganteCredito": {
+                "nombreInstitucion": "CAJA LIVERDAD",
+                "rfc": "",
+                "tipoPersona": "MORAL"
+              },
+              "porcentajeIncrementoDecremento": 0,
+              "saldoInsolutoSituacionActual": {
+                "moneda": "MXN",
+                "valor": 3400
+              },
+              "tercero": [],
+              "tipoAdeudo": {
+                "clave": "CPER",
+                "valor": "CRÉDITO PERSONAL"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesInmuebles": {
+          "aclaracionesObservaciones": "",
+          "bienInmueble": [
+            {
+              "datoIdentificacion": "ESCRITURA",
+              "domicilioMexico": {
+                "calle": "HIDALGO",
+                "codigoPostal": "59490",
+                "coloniaLocalidad": "Ziquítaro",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "067",
+                  "valor": "Penjamillo"
+                },
+                "numeroExterior": "30",
+                "numeroInterior": "SN"
+              },
+              "fechaAdquisicion": "1983-10-23",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "porcentajePropiedad": 1,
+              "superficieConstruccion": {
+                "unidad": "m2",
+                "valor": 1
+              },
+              "superficieTerreno": {
+                "unidad": "m2",
+                "valor": 1
+              },
+              "tercero": [],
+              "tipoInmueble": {
+                "clave": "CASA",
+                "valor": "CASA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "ANTONIO BOMBELA IBARRA",
+                  "relacion": {
+                    "clave": "TIOA",
+                    "valor": "TIO(A)"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 350
+              },
+              "valorConformeA": "ESCRITURA PÚBLICA"
+            },
+            {
+              "datoIdentificacion": "ESCRITURA",
+              "domicilioMexico": {
+                "calle": "SN",
+                "codigoPostal": "59426",
+                "coloniaLocalidad": "Villas de las Lomas",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "069",
+                  "valor": "La Piedad"
+                },
+                "numeroExterior": "113",
+                "numeroInterior": "SN"
+              },
+              "fechaAdquisicion": "2015-06-15",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CRÉDITO",
+              "porcentajePropiedad": 1,
+              "superficieConstruccion": {
+                "unidad": "m2",
+                "valor": 2
+              },
+              "superficieTerreno": {
+                "unidad": "m2",
+                "valor": 1
+              },
+              "tercero": [],
+              "tipoInmueble": {
+                "clave": "CASA",
+                "valor": "CASA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "FOVISTE",
+                  "relacion": {
+                    "clave": "NIN",
+                    "valor": "NINGUNO"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "MORAL"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 500000
+              },
+              "valorConformeA": "ESCRITURA PÚBLICA"
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesMuebles": {
+          "aclaracionesObservaciones": "",
+          "bienMueble": [
+            {
+              "descripcionGeneralBien": "TELEVISION",
+              "fechaAdquisicion": "1997-12-15",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "tercero": [],
+              "tipoBien": {
+                "clave": "APAE",
+                "valor": "APARATOS ELECTRÓNICOS Y ELECTRODOMÉSTICOS"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "MUEBLERIA AGUILAR",
+                  "relacion": {
+                    "clave": "NIN",
+                    "valor": "NINGUNO"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "MORAL"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 15000
+              }
+            }
+          ],
+          "ninguno": false
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN BÁSICA",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "1967-06-23",
+              "institucionEducativa": {
+                "nombre": "Benito juarez",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "PRI",
+                "valor": "PRIMARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [],
+          "ninguno": true
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "Secretaria",
+          "clasificacion": "Integrante",
+          "contratadoPorHonorarios": true,
+          "domicilioMexico": {
+            "calle": "Av. Morelos",
+            "codigoPostal": "59470",
+            "coloniaLocalidad": "Penjamillo de Degollado Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "067",
+              "valor": "Penjamillo"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "07"
+          },
+          "empleoCargoComision": "AUXILIAR",
+          "fechaTomaPosesion": "2022-12-21",
+          "funcionPrincipal": "Auxiliar a la secretaria",
+          "nivelEmpleoCargoComision": "B",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "PENJAMILLO",
+          "telefonoOficina": {
+            "extension": "101",
+            "lada": "52",
+            "telefono": "3595240075"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "J SACRAMENTO",
+          "primerApellido": "GARCIA",
+          "segundoApellido": "Salas"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "Hidalgo",
+            "codigoPostal": "59490",
+            "coloniaLocalidad": "Ziquítaro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "067",
+              "valor": "Penjamillo"
+            },
+            "numeroExterior": "30",
+            "numeroInterior": "sn"
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "GENERAL",
+              "empleoCargoComision": "DIRECTOR",
+              "fechaEgreso": "2022-09-01",
+              "fechaIngreso": "1980-09-01",
+              "funcionPrincipal": "ADMINISTRAR",
+              "nivelOrdenGobierno": "FEDERAL",
+              "nombreEntePublico": "ESCUELA PRIMARIA LAZARO CARDENAS",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 7000
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 7000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 7000
+          }
+        },
+        "inversionesCuentasValores": {
+          "aclaracionesObservaciones": "",
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoComodato": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "aclaracionesObservaciones": "",
+          "ninguno": false,
+          "vehiculo": [
+            {
+              "anio": 1993,
+              "fechaAdquisicion": "1995-11-18",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "lugarRegistro": {
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "pais": "MX"
+              },
+              "marca": "Ford Ranger",
+              "modelo": "Ford Ranger",
+              "numeroSerieRegistro": "SN",
+              "tercero": [],
+              "tipoOperacion": "AGREGAR",
+              "tipoVehiculo": {
+                "clave": "AUMOT",
+                "valor": "AUTOMÓVIL/MOTOCICLETA"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "UMBERTO CANCHOLA GONZALES",
+                  "relacion": {
+                    "clave": "NIN",
+                    "valor": "NINGUNO"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 60000
+              }
+            },
+            {
+              "anio": 2004,
+              "fechaAdquisicion": "2015-08-15",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "lugarRegistro": {
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "pais": "MX"
+              },
+              "marca": "Volkswagen",
+              "modelo": "SN",
+              "numeroSerieRegistro": "SN",
+              "tercero": [
+                {
+                  "nombreRazonSocial": "BERTA ALICIA NAJERA BOMBELA",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoOperacion": "AGREGAR",
+              "tipoVehiculo": {
+                "clave": "AUMOT",
+                "valor": "AUTOMÓVIL/MOTOCICLETA"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                },
+                {
+                  "clave": "CTER",
+                  "valor": "COPROPIEDAD CON TERCEROS"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "JORGE ANGEL GONZALES TORRES",
+                  "relacion": {
+                    "clave": "NIN",
+                    "valor": "NINGUNO"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 60000
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "za6esiob2a",
+    "metadata": {
+      "actualizacion": "2023-01-10T20:38:46Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "PENJAMILLO",
+      "tipo": "INICIAL"
+    }
+  }
+]

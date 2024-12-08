@@ -1,0 +1,185 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "Gestión social y Relaciones Publicas",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2014-03-28",
+              "institucionEducativa": {
+                "nombre": "UAG Universidad Autónoma de Guadalajara",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "MAE",
+                "valor": "MAESTRÍA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SEGURIDAD PUBLICA",
+          "clasificacion": "Servidor[a] público[a] eventual",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "Diego Jose Abad  Esquina Profesor Fajardo",
+            "codigoPostal": "59510",
+            "coloniaLocalidad": "Jiquilpan de Juárez Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "045",
+              "valor": "Jiquilpan"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "POLICIA",
+          "fechaTomaPosesion": "2023-06-22",
+          "funcionPrincipal": "ASESORIA",
+          "nivelEmpleoCargoComision": "00",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "JIQUILPAN",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "3535330840"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MA LUISA",
+          "primerApellido": "DELGADO",
+          "segundoApellido": "RAMIREZ"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "Monasterio",
+            "codigoPostal": "45410",
+            "coloniaLocalidad": "Paseos de Santiago",
+            "entidadFederativa": {
+              "clave": "14",
+              "valor": "Jalisco"
+            },
+            "municipioAlcaldia": {
+              "clave": "101",
+              "valor": "Tonalá"
+            },
+            "numeroExterior": "1375",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "DIRECCIÓN ADMINISTRATIVA",
+              "empleoCargoComision": "DIRECTORA ADMINISTRATIVA",
+              "fechaEgreso": "2021-08-15",
+              "fechaIngreso": "2018-10-01",
+              "funcionPrincipal": "DIRECCIÓN",
+              "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+              "nombreEntePublico": "COMISARIA DE LA POLICIA PREVENTIVA MUNICIPAL",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [
+              {
+                "nombreRazonSocial": "ALFA RJR S.A DE C.V",
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 10000
+                },
+                "tipoNegocio": "RECICLADORA"
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 10000
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 19172
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 10000
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 9172
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 29172
+          }
+        }
+      }
+    },
+    "id": "vj4bh7vw6z",
+    "metadata": {
+      "actualizacion": "2024-02-15T13:40:30Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "JIQUILPAN",
+      "tipo": "INICIAL"
+    }
+  }
+]

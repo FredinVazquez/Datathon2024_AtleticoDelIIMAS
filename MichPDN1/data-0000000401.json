@@ -1,0 +1,176 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA SUPERIOR",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2016-07-02",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD POPULAR AUTONOMA DE VERACRUZ",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SEGURIDAD PUBLICA MUNICIPAL",
+          "clasificacion": "Personal de confianza",
+          "contratadoPorHonorarios": true,
+          "domicilioMexico": {
+            "calle": "VICENTE GUERRERO",
+            "codigoPostal": "61370",
+            "coloniaLocalidad": "Tiquicheo",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "092",
+              "valor": "Tiquicheo de Nicolás Romero"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "SN"
+          },
+          "empleoCargoComision": "ELEMENTO RAZO",
+          "fechaTomaPosesion": "2022-07-04",
+          "funcionPrincipal": "PREVENCION",
+          "nivelEmpleoCargoComision": "OPERATIVO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "TIQUICHEO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4591043010"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "BALTAZAR",
+          "primerApellido": "ELIGIO",
+          "segundoApellido": "REBOLLAR"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "NO SE VE EN LAS OBSIONES MI COLONIA, LA CUAL ES LAZARO CARDENAS",
+          "domicilioMexico": {
+            "calle": "MARGARITA MEZA DE JUAREZ",
+            "codigoPostal": "61500",
+            "coloniaLocalidad": "Zitacuaro Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "112",
+              "valor": "Zitácuaro"
+            },
+            "numeroExterior": "6",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoPublico": "JUDICIAL",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "CUSTODIO",
+              "empleoCargoComision": "CUSTODIO",
+              "fechaEgreso": "2021-10-04",
+              "fechaIngreso": "2014-08-14",
+              "funcionPrincipal": "CUSTODIAR",
+              "nivelOrdenGobierno": "ESTATAL",
+              "nombreEntePublico": "POLICIA PENITENCIARIO",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 11500
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 11500
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 11500
+          }
+        }
+      }
+    },
+    "id": "txoaw4rhdn",
+    "metadata": {
+      "actualizacion": "2023-04-04T21:02:13Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "TIQUICHEO",
+      "tipo": "INICIAL"
+    }
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "aclaracionesObservaciones": "",
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "aclaracionesObservaciones": "",
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "aclaracionesObservaciones": "",
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "aclaracionesObservaciones": "",
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "representaciones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "adeudosPasivos": {
+          "aclaracionesObservaciones": "",
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "aclaracionesObservaciones": "",
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "aclaracionesObservaciones": "",
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "Pedagogia",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2018-09-21",
+              "institucionEducativa": {
+                "nombre": "Universidad contemporánea de las Américas",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "curp": "",
+              "domicilioMexico": {
+                "calle": "Prol. 20 de noviembre. Salida a quinceo",
+                "codigoPostal": "60282",
+                "coloniaLocalidad": "Arantepacua",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "056",
+                  "valor": "Nahuatzen"
+                },
+                "numeroExterior": "1",
+                "numeroInterior": "B"
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2019-03-31",
+              "habitaDomicilioDeclarante": true,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "César Antonio",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "Mendoza",
+              "rfc": "",
+              "segundoApellido": "Silva",
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "Seguridad pública municipal",
+          "clasificacion": "Empleado",
+          "contratadoPorHonorarios": true,
+          "domicilioMexico": {
+            "calle": "Portal hidalgo",
+            "codigoPostal": "60290",
+            "coloniaLocalidad": "Tingambato",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "090",
+              "valor": "Tingambato"
+            },
+            "numeroExterior": "0",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "POLICIA",
+          "fechaTomaPosesion": "2023-04-15",
+          "funcionPrincipal": "Proximidad social",
+          "nivelEmpleoCargoComision": "EMPLEADO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "TINGAMBATO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4523365005"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "NOEMI",
+          "primerApellido": "SILVA",
+          "segundoApellido": "JIMENEZ"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "Prol.20 de noviembre. Salida a quinceo",
+            "codigoPostal": "60282",
+            "coloniaLocalidad": "Arantepacua",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "056",
+              "valor": "Nahuatzen"
+            },
+            "numeroExterior": "1",
+            "numeroInterior": "B"
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 4038
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 4038
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 4038
+          }
+        },
+        "inversionesCuentasValores": {
+          "aclaracionesObservaciones": "",
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoComodato": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "xp0zekxiju",
+    "metadata": {
+      "actualizacion": "2023-05-30T03:48:59Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "TINGAMBATO",
+      "tipo": "INICIAL"
+    }
+  }
+]

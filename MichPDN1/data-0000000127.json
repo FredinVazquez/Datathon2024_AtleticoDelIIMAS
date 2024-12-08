@@ -1,0 +1,321 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "aclaracionesObservaciones": "",
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "aclaracionesObservaciones": "",
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "aclaracionesObservaciones": "",
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "aclaracionesObservaciones": "",
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "representaciones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "adeudosPasivos": {
+          "aclaracionesObservaciones": "",
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "aclaracionesObservaciones": "",
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "aclaracionesObservaciones": "",
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "1997-07-16",
+              "institucionEducativa": {
+                "nombre": "telesecundaria jose ruben romero",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "SEC",
+                "valor": "SECUNDARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "curp": "",
+              "domicilioMexico": {
+                "calle": "elena garro",
+                "codigoPostal": "58300",
+                "coloniaLocalidad": "La Aldea",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "053",
+                  "valor": "Morelia"
+                },
+                "numeroExterior": "443d",
+                "numeroInterior": "7"
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2005-08-17",
+              "habitaDomicilioDeclarante": false,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "maria belen de los angeles",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "hernandez",
+              "rfc": "",
+              "segundoApellido": "yerena",
+              "tipoOperacion": "AGREGAR"
+            },
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "curp": "",
+              "domicilioMexico": {
+                "calle": "elena garro",
+                "codigoPostal": "58300",
+                "coloniaLocalidad": "La Aldea",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "053",
+                  "valor": "Morelia"
+                },
+                "numeroExterior": "443d",
+                "numeroInterior": "7"
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2009-01-09",
+              "habitaDomicilioDeclarante": false,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "ximena estefania",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "hernandez",
+              "rfc": "",
+              "segundoApellido": "yerena",
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "seguridad publica",
+          "clasificacion": "Personal de confianza",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "portal independencia",
+            "codigoPostal": "58450",
+            "coloniaLocalidad": "Lagunillas",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "048",
+              "valor": "Lagunillas"
+            },
+            "numeroExterior": "25",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "POLICIA MUNICIPAL",
+          "fechaTomaPosesion": "2022-08-01",
+          "funcionPrincipal": "operativa",
+          "nivelEmpleoCargoComision": "RAZO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "LAGUNILLAS",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4341175880"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MARIA JOSEFINA",
+          "primerApellido": "YERENA",
+          "segundoApellido": "VILLANUEVA"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "Elena Garro",
+            "codigoPostal": "58300",
+            "coloniaLocalidad": "La Aldea",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "053",
+              "valor": "Morelia"
+            },
+            "numeroExterior": "443d",
+            "numeroInterior": "7"
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "atencion al cliente",
+              "fechaEgreso": "2022-10-30",
+              "fechaIngreso": "2021-10-25",
+              "nombreEmpresaSociedadAsociacion": "tortilleria yoselin",
+              "puesto": "trabajador",
+              "rfc": "",
+              "sector": {
+                "clave": "CMENOR",
+                "valor": "COMERCIO AL POR MENOR"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 31200
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 31200
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 31200
+          }
+        },
+        "inversionesCuentasValores": {
+          "aclaracionesObservaciones": "",
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoComodato": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "71p8vvz5n0",
+    "metadata": {
+      "actualizacion": "2022-12-07T17:42:28Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "LAGUNILLAS",
+      "tipo": "INICIAL"
+    }
+  }
+]

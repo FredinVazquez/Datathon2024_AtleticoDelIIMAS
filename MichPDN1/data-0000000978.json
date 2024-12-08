@@ -1,0 +1,506 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "adeudos": {
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [
+            {
+              "datoIdentificacion": "DATO RESERVADO",
+              "fechaAdquisicion": "2016-11-07",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "porcentajePropiedad": 100,
+              "superficieConstruccion": {
+                "unidad": "m2",
+                "valor": 1
+              },
+              "superficieTerreno": {
+                "unidad": "m2",
+                "valor": 3
+              },
+              "tercero": [],
+              "tipoInmueble": {
+                "clave": "RACH",
+                "valor": "RANCHO"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "DATO RESERVADO",
+                  "relacion": {
+                    "clave": "DATO RESERVADO",
+                    "valor": "DATO RESERVADO"
+                  },
+                  "rfc": "DATO RESERVADO",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 20000
+              },
+              "valorConformeA": "ESCRITURA PÚBLICA"
+            },
+            {
+              "datoIdentificacion": "DATO RESERVADO",
+              "fechaAdquisicion": "2012-11-13",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "porcentajePropiedad": 100,
+              "superficieConstruccion": {
+                "unidad": "m2",
+                "valor": 1
+              },
+              "superficieTerreno": {
+                "unidad": "m2",
+                "valor": 1
+              },
+              "tercero": [],
+              "tipoInmueble": {
+                "clave": "RACH",
+                "valor": "RANCHO"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "DATO RESERVADO",
+                  "relacion": {
+                    "clave": "DATO RESERVADO",
+                    "valor": "DATO RESERVADO"
+                  },
+                  "rfc": "DATO RESERVADO",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 19334
+              },
+              "valorConformeA": "ESCRITURA PÚBLICA"
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesMuebles": {
+          "bienMueble": [
+            {
+              "descripcionGeneralBien": "CABEZAS DE GANADO",
+              "fechaAdquisicion": "2020-11-18",
+              "formaAdquisicion": {
+                "clave": "HRN",
+                "valor": "HERENCIA"
+              },
+              "formaPago": "NO APLICA",
+              "tercero": [],
+              "tipoBien": {
+                "clave": "OTRO",
+                "valor": "OTRO (ESPECIFIQUE)"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "DATO RESERVADO",
+                  "relacion": {
+                    "clave": "DATO RESERVADO",
+                    "valor": "DATO RESERVADO"
+                  },
+                  "rfc": "DATO RESERVADO",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 0
+              }
+            }
+          ],
+          "ninguno": false
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "PRIMARIA",
+              "documentoObtenido": "BOLETA",
+              "estatus": "TRUNCO",
+              "fechaObtencion": "2000-01-01",
+              "institucionEducativa": {
+                "nombre": "PRIMARIA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "PRI",
+                "valor": "PRIMARIA"
+              },
+              "tipoOpeacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "REGIDURIAS",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "ALLENDE",
+            "codigoPostal": "61330",
+            "coloniaLocalidad": "TZITZIO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "101",
+              "valor": "TZITZIO"
+            },
+            "numeroExterior": "S/N",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "REGIDOR DE SALUD Y DEPORTE",
+          "fechaTomaPosesion": "2021-09-01",
+          "funcionPrincipal": "GESTION DE SALUD Y DEPORTE",
+          "nivelEmpleoCargoComision": "ELECCION POPULAR",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Regidurías",
+          "telefonoOficina": {
+            "extension": "0",
+            "telefono": "4593530069"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "FELIPE",
+          "primerApellido": "SALINAS",
+          "segundoApellido": "HERNANDEZ"
+        },
+        "experienciaLaboral": {
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "FONDOS DE INVERSIÓN"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OPR",
+                  "valor": "ORGANIZACIONES PRIVADAS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "SSI",
+                  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "VBU",
+                  "valor": "VALORES BURSÁTILES"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "BON",
+                  "valor": "BONOS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OTRO",
+                  "valor": "OTRO (ESPECIFIQUE)"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 18348
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 18348
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 18348
+          }
+        },
+        "inversiones": {
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BANORTE",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "numeroCuentaContrato": "DATO RESERVADO",
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CNOM",
+                "valor": "CUENTA DE NÓMINA"
+              },
+              "tercero": [],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": false,
+          "vehiculo": [
+            {
+              "anio": 1986,
+              "fechaAdquisicion": "2015-01-01",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "lugarRegistro": {
+                "entidadFederativa": {
+                  "clave": "DATO RESERVADO",
+                  "valor": "DATO RESERVADO"
+                },
+                "pais": "DATO RESERVADO"
+              },
+              "marca": "NISSAN",
+              "modelo": "1986",
+              "numeroSerieRegistro": "DATO RESERVADO",
+              "tercero": [],
+              "tipoOperacion": "AGREGAR",
+              "tipoVehiculo": {
+                "clave": "AUMOT",
+                "valor": "AUTOMÓVIL / MOTOCICLETA"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "DATO RESERVADO",
+                  "relacion": {
+                    "clave": "DATO RESERVADO",
+                    "valor": "DATO RESERVADO"
+                  },
+                  "rfc": "DATO RESERVADO",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 46000
+              }
+            },
+            {
+              "anio": 2015,
+              "fechaAdquisicion": "2013-01-01",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "lugarRegistro": {
+                "entidadFederativa": {
+                  "clave": "DATO RESERVADO",
+                  "valor": "DATO RESERVADO"
+                },
+                "pais": "DATO RESERVADO"
+              },
+              "marca": "ITALIKA",
+              "modelo": "2015",
+              "numeroSerieRegistro": "DATO RESERVADO",
+              "tercero": [],
+              "tipoOperacion": "AGREGAR",
+              "tipoVehiculo": {
+                "clave": "AUMOT",
+                "valor": "AUTOMÓVIL / MOTOCICLETA"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "ELECTRA",
+                  "relacion": {
+                    "clave": "NIN",
+                    "valor": "NINGUNO"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "MORAL"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 15000
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "2043s3dtax",
+    "metadata": {
+      "actualizacion": "2021-09-29T01:47:18Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "AYUNTAMIENTO DE TZITZIO",
+      "tipo": "INICIAL"
+    }
+  }
+]

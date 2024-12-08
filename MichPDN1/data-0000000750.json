@@ -1,0 +1,176 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA SUPERIOR",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "TRUNCO",
+              "fechaObtencion": "1997-09-02",
+              "institucionEducativa": {
+                "nombre": "CBTIS NO. 12",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DESARROLLO SOCIAL",
+          "clasificacion": "Representante popular",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "DIEGO JOSE ABAD",
+            "codigoPostal": "59510",
+            "coloniaLocalidad": "Jiquilpan de Juárez Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "045",
+              "valor": "Jiquilpan"
+            },
+            "numeroExterior": "0",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "AUXILIAR",
+          "fechaTomaPosesion": "2023-10-01",
+          "funcionPrincipal": "AUXILIAR COMPUTACION",
+          "nivelEmpleoCargoComision": "00",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "JIQUILPAN",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "3535330840"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "SANDRA ELIZABETH",
+          "primerApellido": "YSI",
+          "segundoApellido": "ALVAREZ"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "DIEGO JOSE ABAD  PTE",
+            "codigoPostal": "59510",
+            "coloniaLocalidad": "Jiquilpan de Juárez Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "045",
+              "valor": "Jiquilpan"
+            },
+            "numeroExterior": "116",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "FERIAS Y PROTOCOLO",
+              "empleoCargoComision": "AUXILIAR",
+              "fechaEgreso": "2021-08-31",
+              "fechaIngreso": "2018-09-01",
+              "funcionPrincipal": "AUXILIAR FERIAS",
+              "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+              "nombreEntePublico": "AYUNTAMIENTO DE JIQUILPAN",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 7400
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 7400
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 7400
+          }
+        }
+      }
+    },
+    "id": "39k9fkb72d",
+    "metadata": {
+      "actualizacion": "2023-10-25T11:23:50Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "JIQUILPAN",
+      "tipo": "INICIAL"
+    }
+  }
+]

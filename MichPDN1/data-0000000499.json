@@ -1,0 +1,529 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "fideicomisos": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2020-01-01",
+          "fechaIngreso": "2020-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "",
+            "valor": 0
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true,
+          "totalIngresosNetosAnuales": {
+            "moneda": "",
+            "valor": 0
+          }
+        },
+        "adeudos": {
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [
+            {
+              "fechaAdquisicion": "2007-08-08",
+              "formaAdquisicion": {
+                "clave": "DNC",
+                "valor": "Donación"
+              },
+              "formaPago": "NO APLICA",
+              "porcentajePropiedad": 100,
+              "superficieConstruccion": {
+                "unidad": "m2",
+                "valor": 365
+              },
+              "superficieTerreno": {
+                "unidad": "m2",
+                "valor": 324
+              },
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInmueble": {
+                "clave": "CASA",
+                "valor": "Casa"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 0
+              },
+              "valorConformeA": "ESCRITURA PÚBLICA"
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesMuebles": {
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "INGENIERO - ARQUITECTO",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "1990-09-12",
+              "institucionEducativa": {
+                "nombre": "INSTITUTO POLITÉCNICO NACIONAL",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "ORGANO_AUTONOMO",
+          "areaAdscripcion": "CAPASU",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "CUPATITZIO",
+            "ciudadLocalidad": "No especificado",
+            "codigoPostal": "60090",
+            "estadoProvincia": "No especificado",
+            "numeroExterior": "207",
+            "numeroInterior": "",
+            "pais": "MX"
+          },
+          "domicilioMexico": {
+            "calle": "CUPATITZIO",
+            "codigoPostal": "60090",
+            "coloniaLocalidad": "LA TAMACUA",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "102",
+              "valor": "Uruapan"
+            },
+            "numeroExterior": "207",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "DIRECTOR DE OPERACIONES",
+          "fechaTomaPosesion": "2021-10-13",
+          "funcionPrincipal": "Áreas técnicas",
+          "nivelEmpleoCargoComision": "19",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Municipio de Uruapan Michoacán",
+          "telefonoOficina": {
+            "extension": "110",
+            "telefono": "4525245925"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "LEONIDES OCTAVIO",
+          "primerApellido": "HERNANDEZ",
+          "segundoApellido": "VILLAFAN"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "OTR",
+                "valor": "Otro"
+              },
+              "area": "REPRESENTANTE LEGAL",
+              "fechaEgreso": "2021-03-31",
+              "fechaIngreso": "2020-01-05",
+              "nombreEmpresaSociedadAsociacion": "LEONIDES HERNANDEZ VILLAFAN",
+              "puesto": "RESIDENTE DE OBRA",
+              "rfc": "HEVL651205N61",
+              "sector": {
+                "clave": "CONS",
+                "valor": "Construcción"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "OTR",
+                "valor": "Otro"
+              },
+              "area": "REPRESENTANTE LEGAL",
+              "fechaEgreso": "2019-07-30",
+              "fechaIngreso": "2019-01-05",
+              "nombreEmpresaSociedadAsociacion": "LEONIDES HERNANDEZ VILLAFAN",
+              "puesto": "RESIDENTE DE OBRA",
+              "rfc": "HEVL651205N61",
+              "sector": {
+                "clave": "CONS",
+                "valor": "Construcción"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "SECRETARIA DE OBRAS PUBLICAS Y SERVICIOS",
+              "empleoCargoComision": "DIRECTOR DE CONSTRUCCION",
+              "fechaEgreso": "2018-08-31",
+              "fechaIngreso": "2017-11-01",
+              "funcionPrincipal": "Áreas técnicas",
+              "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+              "nombreEntePublico": "MUNICIPIO URUAPAN MICHOACAN",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 32433
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 32433
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 32433
+          }
+        },
+        "inversiones": {
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BANBAJIO",
+                "pais": "MX",
+                "rfc": "BBA940707IE1"
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CAHO",
+                "valor": "CUENTA DE AHORRO"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BBVA",
+                "pais": "MX",
+                "rfc": "BBA830831LJ2"
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CCHE",
+                "valor": "CUENTA DE CHEQUES"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BBVA",
+                "pais": "MX",
+                "rfc": "BBA830831LJ2"
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CAHO",
+                "valor": "CUENTA DE AHORRO"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            },
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "HSBC",
+                "pais": "MX",
+                "rfc": "HMI950125KG8"
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CNOM",
+                "valor": "CUENTA DE NÓMINA"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": false,
+          "vehiculo": [
+            {
+              "anio": 2017,
+              "fechaAdquisicion": "2021-07-21",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Compraventa"
+              },
+              "formaPago": "CONTADO",
+              "marca": "FORD",
+              "modelo": "ESCAPE",
+              "motivoBaja": {
+                "clave": "VNT",
+                "valor": "VENTA"
+              },
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoOperacion": "AGREGAR",
+              "tipoVehiculo": {
+                "clave": "OTRO",
+                "valor": "Otro (especifique)"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 230000
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "0hxeg5v89w",
+    "metadata": {
+      "actualizacion": "2021-11-09T00:00:00Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "Municipio de Uruapan Michoacán",
+      "tipo": "INICIAL"
+    }
+  }
+]

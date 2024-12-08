@@ -1,0 +1,80 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": null
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": []
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "RASTRO",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "AVENIDA LAZARO CARDENAS",
+            "codigoPostal": "58420",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "073",
+              "valor": "QUIROGA"
+            },
+            "numeroExterior": "17"
+          },
+          "empleoCargoComision": "OPERARIO DEL RASTRO",
+          "fechaTomaPosesion": "2021-09-01T00:00:00-0500",
+          "funcionPrincipal": "OPERARIO DEL RASTRO",
+          "nivelEmpleoCargoComision": "OPERATIVO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "AYUNTAMIENTO DE QUIROGA",
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MIRIAM SUSANA",
+          "primerApellido": "CARRILLO",
+          "segundoApellido": "HERNANDEZ"
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "ingresoMensualNetoDeclarante": {
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {},
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "1qljqta2e7",
+    "metadata": {
+      "actualizacion": "2022-05-14T14:15:23-0500",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "MUNICIPIO DE QUIROGA MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

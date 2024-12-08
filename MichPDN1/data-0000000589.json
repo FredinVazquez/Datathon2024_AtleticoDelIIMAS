@@ -1,0 +1,274 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "DIPLOMADO EN PSICOTERAPIA BREVE EN INTERVENCION EN CRISIS",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2004-06-26T00:00:00-0500",
+              "institucionEducativa": {
+                "nombre": "IMCED",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "ESP",
+                "valor": "ESPECIALIDAD"
+              },
+              "tipoOperacion": "AGREGAR"
+            },
+            {
+              "carreraAreaConocimiento": "LICENCIADO EN PSICOLOGIA EDUCATIVA",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "1990-10-30T00:00:00-0600",
+              "institucionEducativa": {
+                "nombre": "IMCED",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "INSTITUTO MUNICIPAL DE LA MUJER",
+          "contratadoPorHonorarios": true,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "SAN JUAN DEL RIO",
+            "codigoPostal": "58664",
+            "coloniaLocalidad": "ZACAPU",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "107",
+              "valor": "ZACAPU"
+            },
+            "numeroExterior": "472",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "PSICOLOGO",
+          "fechaTomaPosesion": "2021-09-01T00:00:00-0500",
+          "funcionPrincipal": "DAR CONSULTAS PSICOLOGICAS",
+          "nivelEmpleoCargoComision": "PSICOLOGO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "INSTITUTO DE LA MUJER",
+          "telefonoOficina": {
+            "extension": "161",
+            "telefono": "4363638400"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ENRIQUE",
+          "primerApellido": "SALAS",
+          "segundoApellido": "RIVAS"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoPublico": "ORGANISMOS_AUTONOMOS",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "SISTEMA DIF MUNICIPAL",
+              "empleoCargoComision": "PSICOLOGO",
+              "fechaEgreso": "2018-08-31T00:00:00-0500",
+              "fechaIngreso": "2017-04-18T00:00:00-0500",
+              "funcionPrincipal": "PSICOLOGO",
+              "nivelOrdenGobierno": "MUNICIPAL",
+              "nombreEntePublico": "MUNICIPIO DE JIMENEZ MICHOACAN",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "ORGANISMOS_AUTONOMOS",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "INSTITUTO MUNICIPAL DE LA MUJER EN ZACAPU MICHOACAN",
+              "empleoCargoComision": "PSICOLOGO",
+              "fechaEgreso": "2020-08-31T00:00:00-0500",
+              "fechaIngreso": "2018-09-01T00:00:00-0500",
+              "funcionPrincipal": "PSICOLOGO",
+              "nivelOrdenGobierno": "MUNICIPAL",
+              "nombreEntePublico": "H AYUNTAMIENTO MUNICIPAL DE ZACAPU MICHOACAN",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "ORGANISMOS_AUTONOMOS",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "DIRECCION DE SECUNDARIAS TECNICAS",
+              "empleoCargoComision": "MAESTRO DE TECNOLOGIAS",
+              "fechaEgreso": "2005-01-31T00:00:00-0600",
+              "fechaIngreso": "1980-10-01T00:00:00-0600",
+              "funcionPrincipal": "ATENCION A GRUPOS",
+              "nivelOrdenGobierno": "FEDERAL",
+              "nombreEntePublico": "SECRETARIA DE EDUCACION PUBLICA",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "FONDOS DE INVERSIÓN"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OPR",
+                  "valor": "ORGANIZACIONES PRIVADAS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "SSI",
+                  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "VBU",
+                  "valor": "VALORES BURSÁTILES"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "BON",
+                  "valor": "BONOS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OTRO",
+                  "valor": "OTRO (ESPECIFIQUE)"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 25000
+          },
+          "otrosIngresos": {
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 19000
+                },
+                "tipoIngreso": "JUBILACION"
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 19000
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 19000
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 6000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "kbm542mjxs",
+    "metadata": {
+      "actualizacion": "2021-09-20T12:50:53-0500",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE ZACAPU MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

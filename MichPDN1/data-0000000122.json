@@ -1,0 +1,178 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "DERECHO",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "TRUNCO",
+              "fechaObtencion": "2020-07-01",
+              "institucionEducativa": {
+                "nombre": "TEC MILENIUM",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "TRANSITO MUNICIPAL Y VIALIDAD",
+          "clasificacion": "Personal de confianza",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "AV SAN JUAN DEL FUERTE",
+            "codigoPostal": "59379",
+            "coloniaLocalidad": "Las Margaritas",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "069",
+              "valor": "La Piedad"
+            },
+            "numeroExterior": "160",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "AGENTE",
+          "fechaTomaPosesion": "2022-11-01",
+          "funcionPrincipal": "BRINDAR SEGURIDAD VIAL",
+          "nivelEmpleoCargoComision": "3",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "LA PIEDAD",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "3525228334"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "OSCAR ALEXIS",
+          "primerApellido": "CONTRERAS",
+          "segundoApellido": "MAGANA"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "PASEO TLAXCALA",
+            "codigoPostal": "59349",
+            "coloniaLocalidad": "Dr. Miguel Silva INFONAVIT",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "069",
+              "valor": "La Piedad"
+            },
+            "numeroExterior": "67",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "SEGURIDAD PRIVADA",
+              "fechaEgreso": "2022-10-30",
+              "fechaIngreso": "2020-11-01",
+              "nombreEmpresaSociedadAsociacion": "AEROTIGER SA DE CV",
+              "puesto": "GUARDIA DE SEGURIDAD",
+              "rfc": "",
+              "sector": {
+                "clave": "SERVCORP",
+                "valor": "SERVICIOS CORPORATIVOS"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 12639
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 12639
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 12639
+          }
+        }
+      }
+    },
+    "id": "9he1qin0pg",
+    "metadata": {
+      "actualizacion": "2023-05-31T22:04:24Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "LA PIEDAD",
+      "tipo": "INICIAL"
+    }
+  }
+]

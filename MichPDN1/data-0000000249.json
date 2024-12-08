@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "ESTOY CURSANDO LA LICENCIATURA Y POR LO TANTO LA ESCUELA ME PUEDE OTORGAR UNA CONSTANCIA DE ESTUDIOS AL MOMENTO QUE LA REQUIERA",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "CONTABILIDAD Y FINANZAS",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "CURSANDO",
+              "fechaObtencion": "2023-05-08",
+              "institucionEducativa": {
+                "nombre": "UNID",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIRECCION DE PLANEACION ACCESO A LA INFORMACION Y ATENCION AL MIG",
+          "clasificacion": "Servidor(a) público(a)",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "16 DE SEPTIEMBRE",
+            "codigoPostal": "60490",
+            "coloniaLocalidad": "Nuevo San Juan Parangaricutiro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "058",
+              "valor": "Nuevo Parangaricutiro"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "INFORMATICA",
+          "fechaTomaPosesion": "2023-01-01",
+          "funcionPrincipal": "INFORMATICA",
+          "nivelEmpleoCargoComision": "ADMINISTRATIVO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "NUEVO PARANGARICUTIRO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4525940220"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "SAMANTHA LISBETH",
+          "primerApellido": "ANGUIANO",
+          "segundoApellido": "URIBE"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "ALBARO OBREGON",
+            "codigoPostal": "60490",
+            "coloniaLocalidad": "San Mateo",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "058",
+              "valor": "Nuevo Parangaricutiro"
+            },
+            "numeroExterior": "6",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 7821
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 7821
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 7821
+          }
+        }
+      }
+    },
+    "id": "dei64lphuu",
+    "metadata": {
+      "actualizacion": "2023-05-09T18:28:01Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "NUEVO PARANGARICUTIRO",
+      "tipo": "INICIAL"
+    }
+  }
+]

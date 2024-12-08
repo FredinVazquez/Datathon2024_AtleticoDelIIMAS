@@ -1,0 +1,411 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "aclaracionesObservaciones": "",
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "aclaracionesObservaciones": "",
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "aclaracionesObservaciones": "",
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "aclaracionesObservaciones": "",
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "representaciones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "adeudosPasivos": {
+          "aclaracionesObservaciones": "",
+          "adeudo": [
+            {
+              "fechaAdquisicion": "2023-06-08",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 55000
+              },
+              "numeroCuentaContrato": "00740960579860346072",
+              "otorganteCredito": {
+                "nombreInstitucion": "BBVA",
+                "rfc": "",
+                "tipoPersona": "MORAL"
+              },
+              "porcentajeIncrementoDecremento": 0,
+              "saldoInsolutoSituacionActual": {
+                "moneda": "MXN",
+                "valor": 5161801
+              },
+              "tercero": [],
+              "tipoAdeudo": {
+                "clave": "PRPE",
+                "valor": "PRÉSTAMO PERSONAL"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            },
+            {
+              "fechaAdquisicion": "2023-05-04",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 18000
+              },
+              "numeroCuentaContrato": "00740960509848339393",
+              "otorganteCredito": {
+                "nombreInstitucion": "BBVA",
+                "rfc": "",
+                "tipoPersona": "MORAL"
+              },
+              "porcentajeIncrementoDecremento": 0,
+              "saldoInsolutoSituacionActual": {
+                "moneda": "MXN",
+                "valor": 1555062
+              },
+              "tercero": [],
+              "tipoAdeudo": {
+                "clave": "PRPE",
+                "valor": "PRÉSTAMO PERSONAL"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesInmuebles": {
+          "aclaracionesObservaciones": "",
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "aclaracionesObservaciones": "",
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "Ingeniería Mecánica",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2016-02-10",
+              "institucionEducativa": {
+                "nombre": "Universidad Michoacana de San Nicolás de Hidalgo",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "SIN_CAMBIOS"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "curp": "",
+              "domicilioMexico": {
+                "calle": "Primavera",
+                "codigoPostal": "61650",
+                "coloniaLocalidad": "La Joya de la Golondrina",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "082",
+                  "valor": "Tacámbaro"
+                },
+                "numeroExterior": "SN",
+                "numeroInterior": ""
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2007-11-07",
+              "habitaDomicilioDeclarante": true,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "Alexander",
+              "parentescoRelacion": {
+                "clave": "CUN",
+                "valor": "CUÑADO(A)"
+              },
+              "primerApellido": "Osornio",
+              "rfc": "",
+              "segundoApellido": "Ochoa",
+              "tipoOperacion": "MODIFICAR"
+            },
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "curp": "ZAOA200220MMNRSNA9",
+              "domicilioMexico": {
+                "calle": "Primavera",
+                "codigoPostal": "61650",
+                "coloniaLocalidad": "La Joya de la Golondrina",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "082",
+                  "valor": "Tacámbaro"
+                },
+                "numeroExterior": "SN",
+                "numeroInterior": ""
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2020-02-20",
+              "habitaDomicilioDeclarante": true,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "Ángela Valentina",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "Zarco",
+              "rfc": "",
+              "segundoApellido": "Osornio",
+              "tipoOperacion": "MODIFICAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "Secretaría Técnica",
+          "clasificacion": "Personal de confianza",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "Portal Marcos A. Jiménez",
+            "codigoPostal": "61650",
+            "coloniaLocalidad": "Tacambaro de Codallos Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "082",
+              "valor": "Tacámbaro"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "SECRETARIO TÉCNICO",
+          "fechaTomaPosesion": "2023-12-16",
+          "funcionPrincipal": "Secretario Técnico",
+          "nivelEmpleoCargoComision": "CONFIANZA",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "TACÁMBARO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4595960020"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MARCO ANTONIO",
+          "primerApellido": "ZARCO",
+          "segundoApellido": "MORELOS"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "El nombre oficial del Centro Penitenciario lo desconozco. \r\nEl sueldo mensual neto es aproximado, no tengo el dato exacto.",
+          "actividadLaboral": {
+            "clave": "PUB",
+            "valor": "PUBLICO"
+          },
+          "actividadLaboralSectorPublico": {
+            "ambitoPublico": "JUDICIAL",
+            "areaAdscripcion": "Educativa",
+            "empleoCargoComision": "Psicóloga",
+            "fechaIngreso": "2023-11-01",
+            "funcionPrincipal": "Psicóloga",
+            "nivelOrdenGobierno": "ESTATAL",
+            "nombreEntePublico": "Centro Penitenciario de Tacámbaro",
+            "salarioMensualNeto": {
+              "moneda": "MXN",
+              "valor": 12000
+            }
+          },
+          "ciudadanoExtranjero": false,
+          "domicilioMexico": {
+            "calle": "Primavera",
+            "codigoPostal": "61650",
+            "coloniaLocalidad": "La Joya de la Golondrina",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "082",
+              "valor": "Tacámbaro"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          },
+          "esDependienteEconomico": false,
+          "fechaNacimiento": "1992-05-16",
+          "habitaDomicilioDeclarante": true,
+          "lugarDondeReside": "MEXICO",
+          "ninguno": false,
+          "nombre": "Judith",
+          "primerApellido": "Osornio",
+          "relacionConDeclarante": "CONCUBINA_CONCUBINARIO_UNION_LIBRE",
+          "segundoApellido": "Moreno",
+          "tipoOperacion": "AGREGAR"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "Primavera",
+            "codigoPostal": "61650",
+            "coloniaLocalidad": "La Joya de la Golondrina",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "082",
+              "valor": "Tacámbaro"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 18610
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 18610
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 30610
+          }
+        },
+        "inversionesCuentasValores": {
+          "aclaracionesObservaciones": "",
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoComodato": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "x8zy409nzq",
+    "metadata": {
+      "actualizacion": "2024-01-09T10:56:49Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "TACÁMBARO",
+      "tipo": "INICIAL"
+    }
+  }
+]

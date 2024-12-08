@@ -1,0 +1,386 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "aclaracionesObservaciones": "",
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "aclaracionesObservaciones": "",
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "aclaracionesObservaciones": "",
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "aclaracionesObservaciones": "",
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "representaciones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "adeudosPasivos": {
+          "aclaracionesObservaciones": "",
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "aclaracionesObservaciones": "",
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "aclaracionesObservaciones": "",
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2010-07-30",
+              "institucionEducativa": {
+                "nombre": "secundaria federal 20 de noviembre",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "SEC",
+                "valor": "SECUNDARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "curp": "",
+              "domicilioMexico": {
+                "calle": "conocida",
+                "codigoPostal": "61595",
+                "coloniaLocalidad": "Los Guajes",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "081",
+                  "valor": "Susupuato"
+                },
+                "numeroExterior": "sn",
+                "numeroInterior": ""
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2015-10-12",
+              "habitaDomicilioDeclarante": true,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "cristhofer",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "juarez",
+              "rfc": "",
+              "segundoApellido": "victoria",
+              "tipoOperacion": "AGREGAR"
+            },
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "curp": "",
+              "domicilioMexico": {
+                "calle": "conocida",
+                "codigoPostal": "61595",
+                "coloniaLocalidad": "Los Guajes",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "081",
+                  "valor": "Susupuato"
+                },
+                "numeroExterior": "sn",
+                "numeroInterior": ""
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2016-08-20",
+              "habitaDomicilioDeclarante": true,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "axel jefeth",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "juarez",
+              "rfc": "",
+              "segundoApellido": "victoria",
+              "tipoOperacion": "AGREGAR"
+            },
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "curp": "",
+              "domicilioMexico": {
+                "calle": "conocida",
+                "codigoPostal": "61595",
+                "coloniaLocalidad": "Los Guajes",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "081",
+                  "valor": "Susupuato"
+                },
+                "numeroExterior": "sn",
+                "numeroInterior": ""
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2018-09-21",
+              "habitaDomicilioDeclarante": true,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "diana regina",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "juarez",
+              "rfc": "",
+              "segundoApellido": "victoria",
+              "tipoOperacion": "AGREGAR"
+            },
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "curp": "",
+              "domicilioMexico": {
+                "calle": "conocida",
+                "codigoPostal": "61595",
+                "coloniaLocalidad": "Los Guajes",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "081",
+                  "valor": "Susupuato"
+                },
+                "numeroExterior": "sn",
+                "numeroInterior": ""
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2023-01-09",
+              "habitaDomicilioDeclarante": true,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "ian mateo",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "juarez",
+              "rfc": "",
+              "segundoApellido": "victoria",
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "regiduria",
+          "clasificacion": "Representante popular",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "VICENTE GUERRERO",
+            "codigoPostal": "61590",
+            "coloniaLocalidad": "Susupuato de Guerrero",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "081",
+              "valor": "Susupuato"
+            },
+            "numeroExterior": "6",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "REGIDORA",
+          "fechaTomaPosesion": "2023-01-01",
+          "funcionPrincipal": "gestionar apoyos para el municipio de susupuato",
+          "nivelEmpleoCargoComision": "DE CONFIANZA",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "SUSUPUATO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "7151512076"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ALEJANDRA",
+          "primerApellido": "VICTORIA",
+          "segundoApellido": "APOLINAR"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "",
+          "actividadLaboral": {
+            "clave": "NIN",
+            "valor": "NINGUNO"
+          },
+          "ciudadanoExtranjero": false,
+          "esDependienteEconomico": false,
+          "fechaNacimiento": "1991-02-17",
+          "habitaDomicilioDeclarante": true,
+          "lugarDondeReside": "SE_DESCONOCE",
+          "ninguno": false,
+          "nombre": "alejandro",
+          "primerApellido": "lopez",
+          "relacionConDeclarante": "CONCUBINA_CONCUBINARIO_UNION_LIBRE",
+          "segundoApellido": "miranda",
+          "tipoOperacion": "AGREGAR"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "conocida",
+            "codigoPostal": "61595",
+            "coloniaLocalidad": "Los Guajes",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "081",
+              "valor": "Susupuato"
+            },
+            "numeroExterior": "sn",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 19526
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 19526
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 19526
+          }
+        },
+        "inversionesCuentasValores": {
+          "aclaracionesObservaciones": "",
+          "inversion": [],
+          "ninguno": true
+        },
+        "prestamoComodato": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "vehiculo": []
+        }
+      }
+    },
+    "id": "b0iww48hij",
+    "metadata": {
+      "actualizacion": "2023-05-30T19:53:45Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "SUSUPUATO",
+      "tipo": "INICIAL"
+    }
+  }
+]

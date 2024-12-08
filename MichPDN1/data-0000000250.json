@@ -1,0 +1,196 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA SUPERIOR",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2017-06-13",
+              "institucionEducativa": {
+                "nombre": "ICEP",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "PROTECCION CIVIL",
+          "clasificacion": "Servidor(a) público(a)",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "BELEN",
+            "codigoPostal": "60490",
+            "coloniaLocalidad": "Rincón del Paraiso",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "058",
+              "valor": "Nuevo Parangaricutiro"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "PARAMEDICO",
+          "fechaTomaPosesion": "2023-02-06",
+          "funcionPrincipal": "ATENCION A LA CIUDADANIA",
+          "nivelEmpleoCargoComision": "OPERATIVO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "NUEVO PARANGARICUTIRO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4521797561"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JOSE MARIA",
+          "primerApellido": "CHAVEZ",
+          "segundoApellido": "RAMA"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "SIMON BOLIVAR",
+            "codigoPostal": "60490",
+            "coloniaLocalidad": "San Francisco",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "058",
+              "valor": "Nuevo Parangaricutiro"
+            },
+            "numeroExterior": "64B",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "AMBULACIAS",
+              "fechaEgreso": "2022-08-28",
+              "fechaIngreso": "2022-02-01",
+              "nombreEmpresaSociedadAsociacion": "911 BAYWATCH",
+              "puesto": "PARAMEDICO OPERADOR",
+              "rfc": "",
+              "sector": {
+                "clave": "SERVS",
+                "valor": "SERVICIOS DE SALUD"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "INVESTIGADOR DE CREDITO",
+              "fechaEgreso": "2022-01-20",
+              "fechaIngreso": "2020-06-16",
+              "nombreEmpresaSociedadAsociacion": "CAJA MORELIA VALLADOLID",
+              "puesto": "INVESTIGADOR DE CREDITO",
+              "rfc": "",
+              "sector": {
+                "clave": "SERVFIN",
+                "valor": "SERVICIOS FINANCIEROS"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 7121
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 7121
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 7121
+          }
+        }
+      }
+    },
+    "id": "3mzhpxczyq",
+    "metadata": {
+      "actualizacion": "2023-05-16T15:48:02Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "NUEVO PARANGARICUTIRO",
+      "tipo": "INICIAL"
+    }
+  }
+]

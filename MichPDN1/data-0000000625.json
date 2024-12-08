@@ -1,0 +1,265 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true
+        },
+        "representacion": {
+          "ninguno": true
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "adeudos": {
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [
+            {
+              "datoIdentificacion": "197",
+              "domicilioExtranjero": {
+                "pais": "AF"
+              },
+              "domicilioMexico": {
+                "calle": "LOTE 22 MANZANA E",
+                "codigoPostal": "58920",
+                "coloniaLocalidad": "LAS BEGONIAS ALVARO OBREGON",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "MICHOACÁN DE OCAMPO"
+                },
+                "municipioAlcaldia": {
+                  "clave": "003",
+                  "valor": "Álvaro Obregón"
+                },
+                "numeroExterior": "S/N"
+              },
+              "fechaAdquisicion": "2020-12-30",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "porcentajePropiedad": 100,
+              "superficieConstruccion": {
+                "unidad": "m2",
+                "valor": 112
+              },
+              "superficieTerreno": {
+                "unidad": "m2",
+                "valor": 112
+              },
+              "tercero": [],
+              "tipoInmueble": {
+                "clave": "TERR",
+                "valor": "TERRENO"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [],
+              "transmisor": [],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 120000
+              },
+              "valorConformeA": "ESCRITURA PÚBLICA"
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesMuebles": {
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "LICENCIATURA EN ADMINISTRACION DE EMPRESAS",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2017-07-01",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD MICHOACANA DE SAN NICOLAS DE HIDALGO",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosDependienteEconomico": {
+          "ninguno": true
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "INSTTITUTO MUNICIPAL DE PLANEACION",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "AQUILES SERDAN",
+            "codigoPostal": "58920",
+            "coloniaLocalidad": "CENTRO ",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "003",
+              "valor": "Álvaro Obregón"
+            },
+            "numeroExterior": "S/N"
+          },
+          "empleoCargoComision": "DIRECTOR",
+          "fechaTomaPosesion": "2022-12-19",
+          "funcionPrincipal": "PLANEACION DE LA ADMINISTRACION MUNICIPAL",
+          "nivelEmpleoCargoComision": "DIRECTOR",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Álvaro Obregón",
+          "telefonoOficina": {},
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "HECTOR ALAN ",
+          "primerApellido": "SANCHEZ",
+          "segundoApellido": "HERNANDEZ"
+        },
+        "datosPareja": {
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "PIPILA",
+            "codigoPostal": "58920",
+            "coloniaLocalidad": "CENTRO ALVARO OBREGON",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "003",
+              "valor": "Álvaro Obregón"
+            },
+            "numeroExterior": "6"
+          }
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "actividadIndustialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN"
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN"
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 8048
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 8048
+          }
+        },
+        "inversiones": {
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "HSBC",
+                "pais": "MX"
+              },
+              "numeroCuentaContrato": "4213168058900358",
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "MXN",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CNOM",
+                "valor": "CUENTA DE NÓMINA"
+              },
+              "tercero": [],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": []
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoOComodato": {
+          "ninguno": true
+        },
+        "vehiculos": {
+          "ninguno": true
+        }
+      }
+    },
+    "id": "5wsucpx76n",
+    "metadata": {
+      "actualizacion": "2023-05-28T17:00:45Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "Álvaro Obregón",
+      "tipo": "INICIAL"
+    }
+  }
+]

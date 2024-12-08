@@ -1,0 +1,283 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "MAESTRIA EN HABILIDADES DIRECTIVAS",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2015-07-13T00:00:00-0500",
+              "institucionEducativa": {
+                "nombre": "UNIVER",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "NA",
+                "valor": "MAESTRIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIRECCION DE CULTURA",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "BLVD LAZARO CARDENAS ESQ. CONSTITUCION",
+            "codigoPostal": "59000",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "076",
+              "valor": "SAHUAYO"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "ASISTENTE A",
+          "fechaTomaPosesion": "2023-02-01T00:00:00-0600",
+          "funcionPrincipal": "GESTION MUNICIPAL",
+          "nivelEmpleoCargoComision": "00",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "CULTURA",
+          "telefonoOficina": {
+            "extension": "0",
+            "telefono": "3535320020"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "PATRICIA",
+          "primerApellido": "ZAMORA",
+          "segundoApellido": "SANCHEZ"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "CULTURA",
+              "empleoCargoComision": "DIF MUNICIPAL",
+              "fechaEgreso": "2003-04-30T00:00:00-0500",
+              "fechaIngreso": "2002-01-01T00:00:00-0600",
+              "funcionPrincipal": "COORDINACION DE PROGRAMAS CULTURALES",
+              "nivelOrdenGobierno": "MUNICIPAL",
+              "nombreEntePublico": "MUNICIPIO DE SAHUAYO MICHOACAN",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "DEPARTAMENTO DE RECREACION Y CULTURA",
+              "empleoCargoComision": "JEFA DE AREA",
+              "fechaEgreso": "2008-08-31T00:00:00-0500",
+              "fechaIngreso": "2003-05-15T00:00:00-0500",
+              "funcionPrincipal": "OPERATIVIDAD DE PROGRAMAS ESTATALES DE VULNERABILIDAD EN EL AMBITO CULTURAL",
+              "nivelOrdenGobierno": "ESTATAL",
+              "nombreEntePublico": "DIF ESTATAL",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "SECRETARIA DE CULTURA",
+              "empleoCargoComision": "JEFA DE VINCULACION CON SISTEMA EDUCATIVO",
+              "fechaEgreso": "2013-02-15T00:00:00-0600",
+              "fechaIngreso": "2008-09-01T00:00:00-0500",
+              "funcionPrincipal": "OPERACION DE PROGRAMAS DE VINCULACION EDUCATIVA A NIVEL INTERNACIONAL",
+              "nivelOrdenGobierno": "ESTATAL",
+              "nombreEntePublico": "GOBIERNO DEL ESTADO",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "CULTURA",
+              "empleoCargoComision": "DIRECCION",
+              "fechaEgreso": "2017-07-31T00:00:00-0500",
+              "fechaIngreso": "2013-02-15T00:00:00-0600",
+              "funcionPrincipal": "GESTION Y OPERATIVIDAD DE PROGRAMAS CULTURALES DENTRO DEL MUNICIPIO",
+              "nivelOrdenGobierno": "MUNICIPAL",
+              "nombreEntePublico": "MUNICIPÍO DE SAHUAYO MICHOACAN",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "ORGANISMOS_AUTONOMOS",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "PÚBLICO"
+              },
+              "areaAdscripcion": "SECRETARIA ACADEMICA",
+              "empleoCargoComision": "SECRETARIA ACADEMICA",
+              "fechaEgreso": "2020-06-15T00:00:00-0500",
+              "fechaIngreso": "2017-08-15T00:00:00-0500",
+              "funcionPrincipal": "OPERATIVIDAD ACADEMICA DE LA UNIVERSIDAD",
+              "nivelOrdenGobierno": "ESTATAL",
+              "nombreEntePublico": "UNIVERSIDAD DE LA CIENEGA DEL ESTADO DE MICHOACAN DE OCAMPO",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": "CAPITAL"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "FIN",
+                  "valor": "FONDOS DE INVERSIÓN"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OPR",
+                  "valor": "ORGANIZACIONES PRIVADAS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "SSI",
+                  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "VBU",
+                  "valor": "VALORES BURSÁTILES"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "BON",
+                  "valor": "BONOS"
+                }
+              },
+              {
+                "remuneracion": {
+                  "moneda": "MXN",
+                  "valor": 0
+                },
+                "tipoInstrumento": {
+                  "clave": "OTRO",
+                  "valor": "OTRO (ESPECIFIQUE)"
+                }
+              }
+            ],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 14032
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 14032
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "wipvtrhv5i",
+    "metadata": {
+      "actualizacion": "2023-05-05T16:08:22-0600",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE SAHUAYO MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

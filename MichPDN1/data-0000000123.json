@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA SUPERIOR",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2010-10-30",
+              "institucionEducativa": {
+                "nombre": "SECRETARIA DE EDUCACION PUBLICA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "RELACIONES EXTERIORES",
+          "clasificacion": "Servidor(a) público(a)",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "AV PATRIA  CENTRO COMERCIAL",
+            "codigoPostal": "45160",
+            "coloniaLocalidad": "Jacarandas",
+            "entidadFederativa": {
+              "clave": "14",
+              "valor": "Jalisco"
+            },
+            "municipioAlcaldia": {
+              "clave": "120",
+              "valor": "Zapopan"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "A6"
+          },
+          "empleoCargoComision": "AUXILIAR ADMINISTRATIVO",
+          "fechaTomaPosesion": "2023-02-16",
+          "funcionPrincipal": "ATENCION USUARIOS",
+          "nivelEmpleoCargoComision": "AUXILIAR ADMINISTRATIVO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "LA PIEDAD",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "3318169010"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ALEJANDRO",
+          "primerApellido": "JARERO",
+          "segundoApellido": "ARANA"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "PIRUL",
+            "codigoPostal": "45400",
+            "coloniaLocalidad": "Tonalá Centro",
+            "entidadFederativa": {
+              "clave": "14",
+              "valor": "Jalisco"
+            },
+            "municipioAlcaldia": {
+              "clave": "101",
+              "valor": "Tonalá"
+            },
+            "numeroExterior": "7",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 6690
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 6690
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 6690
+          }
+        }
+      }
+    },
+    "id": "w7s5ekq770",
+    "metadata": {
+      "actualizacion": "2023-05-31T23:09:34Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "LA PIEDAD",
+      "tipo": "INICIAL"
+    }
+  }
+]

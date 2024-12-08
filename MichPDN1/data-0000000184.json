@@ -1,0 +1,671 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "aclaracionesObservaciones": "",
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "aclaracionesObservaciones": "",
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "aclaracionesObservaciones": "",
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "aclaracionesObservaciones": "",
+          "fideicomiso": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "participacion": []
+        },
+        "representaciones": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2022-12-31",
+          "fechaIngreso": "2022-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "MXN",
+            "valor": 144000
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "MXN",
+            "valor": 144000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosNetosAnuales": {
+            "moneda": "MXN",
+            "valor": 144000
+          }
+        },
+        "adeudosPasivos": {
+          "aclaracionesObservaciones": "",
+          "adeudo": [],
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "aclaracionesObservaciones": "Tengo en posesión 3 terrenos comunales que fueron donados por mi padre el señor Fernando Mangato Santos en la comunidad de Jarácuaro Autónomo, con titulo de propiedad",
+          "bienInmueble": [
+            {
+              "datoIdentificacion": "19455",
+              "domicilioMexico": {
+                "calle": "LA ORILLA EN CALLE SALAZAR",
+                "codigoPostal": "61630",
+                "coloniaLocalidad": "San Miguel",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "032",
+                  "valor": "Erongarícuaro"
+                },
+                "numeroExterior": "SN",
+                "numeroInterior": "SN"
+              },
+              "fechaAdquisicion": "2017-12-19",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "porcentajePropiedad": 100,
+              "superficieConstruccion": {
+                "unidad": "m2",
+                "valor": 1
+              },
+              "superficieTerreno": {
+                "unidad": "m2",
+                "valor": 271
+              },
+              "tercero": [],
+              "tipoInmueble": {
+                "clave": "TERR",
+                "valor": "TERRENO"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "CYG",
+                  "valor": "CONYUGE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "MA. DE LOS ANGELESORTIZ TENA",
+                  "relacion": {
+                    "clave": "NIN",
+                    "valor": "NINGUNO"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 13600
+              },
+              "valorConformeA": "ESCRITURA PÚBLICA"
+            },
+            {
+              "datoIdentificacion": "7028",
+              "domicilioMexico": {
+                "calle": "lote numero diez de manzana treinta y cinco de la zona uno",
+                "codigoPostal": "58336",
+                "coloniaLocalidad": "San Jose Itzicuaro",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "053",
+                  "valor": "Morelia"
+                },
+                "numeroExterior": "SN",
+                "numeroInterior": "SN"
+              },
+              "fechaAdquisicion": "2022-01-21",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "porcentajePropiedad": 100,
+              "superficieConstruccion": {
+                "unidad": "m2",
+                "valor": 1
+              },
+              "superficieTerreno": {
+                "unidad": "m2",
+                "valor": 200
+              },
+              "tercero": [],
+              "tipoInmueble": {
+                "clave": "TERR",
+                "valor": "TERRENO"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "Roberto Rendon Arias",
+                  "relacion": {
+                    "clave": "NIN",
+                    "valor": "NINGUNO"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 230000
+              },
+              "valorConformeA": "ESCRITURA PÚBLICA"
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesMuebles": {
+          "aclaracionesObservaciones": "",
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "LIC EN DERECHO",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2005-12-08",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD MICHOACANA DE SAN NICOLAS DE HIDALGO",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosDependientesEconomicos": {
+          "aclaracionesObservaciones": "",
+          "dependienteEconomico": [
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "curp": "MAJF24051100000000",
+              "domicilioMexico": {
+                "calle": "LIB. ADOLFO LOPEZ MATEOS SIN NUM.",
+                "codigoPostal": "61632",
+                "coloniaLocalidad": "Jarácuaro",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "032",
+                  "valor": "Erongarícuaro"
+                },
+                "numeroExterior": "SIN",
+                "numeroInterior": "SIN"
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2011-05-24",
+              "habitaDomicilioDeclarante": false,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "FERNANDO",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "MANGATO",
+              "rfc": "",
+              "segundoApellido": "JIMENEZ",
+              "tipoOperacion": "AGREGAR"
+            },
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "curp": "JIRI780309MDFMNV03",
+              "domicilioMexico": {
+                "calle": "LIB. ADOLFO LOPEZ MATEOS SIN NUM",
+                "codigoPostal": "61632",
+                "coloniaLocalidad": "Jarácuaro",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "Michoacán de Ocampo"
+                },
+                "municipioAlcaldia": {
+                  "clave": "032",
+                  "valor": "Erongarícuaro"
+                },
+                "numeroExterior": "SIN",
+                "numeroInterior": "SIN"
+              },
+              "extranjero": false,
+              "fechaNacimiento": "1978-03-09",
+              "habitaDomicilioDeclarante": false,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "IVONNE",
+              "parentescoRelacion": {
+                "clave": "CONY",
+                "valor": "CÓNYUGE"
+              },
+              "primerApellido": "JIMENEZ",
+              "rfc": "",
+              "segundoApellido": "RINCON",
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "SINDICATURA",
+          "clasificacion": "Personal de confianza",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "Av. Morelos",
+            "codigoPostal": "59470",
+            "coloniaLocalidad": "Penjamillo de Degollado Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "067",
+              "valor": "Penjamillo"
+            },
+            "numeroExterior": "7",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "ABOGADO JURIDICO",
+          "fechaTomaPosesion": "2023-01-01",
+          "funcionPrincipal": "MEDIADOR",
+          "nivelEmpleoCargoComision": "CONFIANZA",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "PENJAMILLO",
+          "telefonoOficina": {
+            "extension": "01",
+            "lada": "52",
+            "telefono": "3595240077"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "IVAN",
+          "primerApellido": "MANGATO",
+          "segundoApellido": "Tomas"
+        },
+        "datosPareja": {
+          "aclaracionesObservaciones": "AMA DE CASA EN NUESTRO DOMICILIO CONYUGAL JARACUARO AUTONOMO. YO TUBE QUE MUDARME A VIVIR  AL MUNICIPIO DE PENJAMILLO POR EL TRABAJO.",
+          "actividadLaboral": {
+            "clave": "NIN",
+            "valor": "NINGUNO"
+          },
+          "ciudadanoExtranjero": false,
+          "domicilioMexico": {
+            "calle": "LIB. ADOLFO LOPEZ MATEOS SIN NUM",
+            "codigoPostal": "61632",
+            "coloniaLocalidad": "Jarácuaro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "032",
+              "valor": "Erongarícuaro"
+            },
+            "numeroExterior": "NO",
+            "numeroInterior": "NO"
+          },
+          "esDependienteEconomico": true,
+          "fechaNacimiento": "1978-03-09",
+          "habitaDomicilioDeclarante": false,
+          "lugarDondeReside": "MEXICO",
+          "ninguno": false,
+          "nombre": "IVONNE",
+          "primerApellido": "JIMENEZ",
+          "relacionConDeclarante": "CONYUGE",
+          "segundoApellido": "RINCON",
+          "tipoOperacion": "AGREGAR"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "Av. Morelos",
+            "codigoPostal": "59470",
+            "coloniaLocalidad": "Penjamillo de Degollado Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "067",
+              "valor": "Penjamillo"
+            },
+            "numeroExterior": "7",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "Privado"
+              },
+              "area": "COORPORATIVO JURIDICO MICHOACANO",
+              "fechaEgreso": "2022-12-15",
+              "fechaIngreso": "2021-09-15",
+              "nombreEmpresaSociedadAsociacion": "PARTICULAR ( POR MI PROPIA CUENTA)",
+              "puesto": "ABOGADO",
+              "rfc": "MATI810713EA",
+              "sector": {
+                "clave": "OTRO",
+                "valor": "OTRO (ESPECIFIQUE)"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "DIRECCION DE OBRAS PUBLICAS",
+              "empleoCargoComision": "DIRECTOR DE OBRAS PUBLICAS",
+              "fechaEgreso": "2021-08-31",
+              "fechaIngreso": "2018-09-01",
+              "funcionPrincipal": "planear, organizar, coordinar y ejecutar obras de urbanización",
+              "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+              "nombreEntePublico": "AYUNTAMIENTO DE ERONARICUARO",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "SINDICATURA",
+              "empleoCargoComision": "SINDICO MUNICIPAL",
+              "fechaEgreso": "2018-08-31",
+              "fechaIngreso": "2015-09-01",
+              "funcionPrincipal": "REPRESENTAR JURIDICAMENTE AL AYUNTAMIENTO",
+              "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+              "nombreEntePublico": "AYUNTAMIENTO DE ERONGARICUARO",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "SEDRU",
+              "empleoCargoComision": "ENCARGADO DE CENTRAL REGION URUAPAN",
+              "fechaEgreso": "2015-05-01",
+              "fechaIngreso": "2013-07-01",
+              "funcionPrincipal": "SUPERVICION DE EQUIPOS Y OPERADORES DE MAQUINARIA PESADA",
+              "nivelOrdenGobierno": "ESTATAL",
+              "nombreEntePublico": "GOBIERNO DEL ESTADO",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoPublico": "EJECUTIVO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "SEPSOL",
+              "empleoCargoComision": "DELEGADO REGION PATZCUARO-ZIRAHUEN",
+              "fechaEgreso": "2012-02-01",
+              "fechaIngreso": "2009-01-01",
+              "funcionPrincipal": "SUPERVICION, EJECUCION Y DIFUCION DE PROGRAMAS SOCIALES",
+              "nivelOrdenGobierno": "ESTATAL",
+              "nombreEntePublico": "GOBIERNO DEL ESTADO",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "SUELDO MENSUAL $17266",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 183120
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 183120
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 183120
+          }
+        },
+        "inversionesCuentasValores": {
+          "aclaracionesObservaciones": "",
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "BANBAGIO",
+                "pais": "MX",
+                "rfc": ""
+              },
+              "numeroCuentaContrato": "38607081",
+              "porcentajeIncrementoDecremento": 0,
+              "saldoSituacionActual": {
+                "moneda": "MXN",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CAHO",
+                "valor": "CUENTA DE AHORRO"
+              },
+              "tercero": [],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "tipoOperacion": "AGREGAR",
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoComodato": {
+          "aclaracionesObservaciones": "",
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "aclaracionesObservaciones": "EL VEHICULO VOLKWAGEN MARCA POLO AÑO 2004, LO VENDI EN EL AÑO 2021 POR LA CANTIDAD DE 20,000 VEINTE MIL PESOS.",
+          "ninguno": false,
+          "vehiculo": [
+            {
+              "anio": 2008,
+              "fechaAdquisicion": "2022-02-22",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "COMPRAVENTA"
+              },
+              "formaPago": "CONTADO",
+              "lugarRegistro": {
+                "entidadFederativa": {
+                  "clave": "",
+                  "valor": ""
+                },
+                "pais": "US"
+              },
+              "marca": "DONGE",
+              "modelo": "NITRO",
+              "numeroSerieRegistro": "1D8GU28K08W112005",
+              "tercero": [],
+              "tipoOperacion": "AGREGAR",
+              "tipoVehiculo": {
+                "clave": "AUMOT",
+                "valor": "AUTOMÓVIL/MOTOCICLETA"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "transmisor": [
+                {
+                  "nombreRazonSocial": "ADILENE ESTRADA CORTEZ",
+                  "relacion": {
+                    "clave": "NIN",
+                    "valor": "NINGUNO"
+                  },
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 80000
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "tmuaque8ji",
+    "metadata": {
+      "actualizacion": "2023-02-03T02:14:48Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "PENJAMILLO",
+      "tipo": "INICIAL"
+    }
+  }
+]

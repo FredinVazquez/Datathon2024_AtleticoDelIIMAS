@@ -1,0 +1,167 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2015-05-15T00:00:00-0500",
+              "institucionEducativa": {
+                "nombre": "SANTA ANA COLLEGE",
+                "ubicacion": "EX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "ORGANO_AUTONOMO",
+          "areaAdscripcion": "AGUA POTABLE Y ALCANTARILLADO MUNICIPAL",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "MIGUEL HIDALGO",
+            "codigoPostal": "58870",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "018",
+              "valor": "COPÁNDARO"
+            },
+            "numeroExterior": "57"
+          },
+          "empleoCargoComision": "FONTANERO",
+          "fechaTomaPosesion": "2022-10-18T00:00:00-0500",
+          "funcionPrincipal": "LLEVAR UNA BITACORA DE TODAS LAS ACTIVIDADES, COORDINAR LAS FUNCIONES OPERATIVAS PARA EL BUEN FUNCIONAMIENTO Y COORDINACIÓN EN CAMPO PARA DARLE FLUIDEZ A LAS PROBLEMATICAS EN REPERACIONES PREVENTIVAS O CORRECTIVAS DE REDES HIDRAULICAS Y SANITARIAS.",
+          "nivelEmpleoCargoComision": "BASE",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "H. AYUNTAMIENTO CONSTITUCIONAL DE COPANDARO",
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "JESUS",
+          "primerApellido": "GARCÍA",
+          "segundoApellido": "CHANOCUA"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "PRIVADO"
+              },
+              "area": "MANTENIMIENTO",
+              "fechaEgreso": "2010-03-03T00:00:00-0600",
+              "fechaIngreso": "2005-02-17T00:00:00-0600",
+              "nombreEmpresaSociedadAsociacion": "CONTINENTAL FABRICATION INC.",
+              "puesto": "SOLDADOR",
+              "sector": {
+                "clave": "CMAYOR",
+                "valor": "COMERCIO AL POR MAYOR"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "EX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "PRV",
+                "valor": "PRIVADO"
+              },
+              "area": "JARDINERIA",
+              "fechaEgreso": "2005-01-10T00:00:00-0600",
+              "fechaIngreso": "2000-01-30T00:00:00-0600",
+              "nombreEmpresaSociedadAsociacion": "BAXTER GARDEN",
+              "puesto": "AYUDANTE DE MANTENIMIENTO",
+              "sector": {
+                "clave": "SERVPROF",
+                "valor": "SERVICIOS PROFESIONALES"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "EX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 7800
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 7800
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "i1v72vhf1n",
+    "metadata": {
+      "actualizacion": "2023-01-23T15:55:24-0600",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE COPÁNDARO MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

@@ -1,0 +1,474 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "interes": {
+        "apoyos": {
+          "apoyo": [],
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "beneficio": [],
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "cliente": [],
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "fideicomisos": [],
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "fechaConclusion": "2020-01-01",
+          "fechaIngreso": "2020-01-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "",
+            "valor": 0
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true,
+          "totalIngresosNetosAnuales": {
+            "moneda": "",
+            "valor": 0
+          }
+        },
+        "adeudos": {
+          "adeudo": [
+            {
+              "fechaAdquisicion": "2014-02-11",
+              "localizacionAdeudo": {
+                "pais": "MX"
+              },
+              "montoOriginal": {
+                "moneda": "MXN",
+                "valor": 618924
+              },
+              "numeroCuentaContrato": "20001892526",
+              "otorganteCredito": {
+                "nombreInstitucion": "",
+                "razon_social": "",
+                "rfc": "",
+                "tipoPersona": "FISICA"
+              },
+              "saldoInsolutoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoFechaConclusion": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoInsolutoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "tipoAdeudo": {
+                "clave": "CHIP",
+                "valor": "Crédito hipotecario"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [
+            {
+              "fechaAdquisicion": "2014-02-11",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Compraventa"
+              },
+              "formaPago": "CRÉDITO",
+              "porcentajePropiedad": 100,
+              "superficieConstruccion": {
+                "unidad": "m2",
+                "valor": 320
+              },
+              "superficieTerreno": {
+                "unidad": "m2",
+                "valor": 192
+              },
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInmueble": {
+                "clave": "CASA",
+                "valor": "Casa"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 1190000
+              },
+              "valorConformeA": "ESCRITURA PÚBLICA"
+            }
+          ],
+          "ninguno": false
+        },
+        "bienesMuebles": {
+          "bienMueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "Licenciatura en Administracion de Empresas Turisticas",
+              "documentoObtenido": "TITULO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "1988-09-14",
+              "institucionEducativa": {
+                "nombre": "Instituto Tecnológico de Morelia",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "ORGANO_AUTONOMO",
+          "areaAdscripcion": "CAPASU",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "calle": "Cupatitzio",
+            "ciudadLocalidad": "No especificado",
+            "codigoPostal": "60090",
+            "estadoProvincia": "No especificado",
+            "numeroExterior": "207",
+            "numeroInterior": "",
+            "pais": "MX"
+          },
+          "domicilioMexico": {
+            "calle": "Cupatitzio",
+            "codigoPostal": "60090",
+            "coloniaLocalidad": "La Tamacua",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "102",
+              "valor": "Uruapan"
+            },
+            "numeroExterior": "207",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "DIRECTOR COMERCIAL",
+          "fechaTomaPosesion": "2021-09-27",
+          "funcionPrincipal": "Administración Financiera (Recaudación de Ingresos, Desembolso de Fondos, Presupuesto, Contabilidad)",
+          "nivelEmpleoCargoComision": "19",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Municipio de Uruapan Michoacán",
+          "telefonoOficina": {
+            "extension": "107",
+            "telefono": "4525240061"
+          }
+        },
+        "datosGenerales": {
+          "nombre": "ANDRES",
+          "primerApellido": "GUTIERREZ",
+          "segundoApellido": "CHAVEZ"
+        },
+        "experienciaLaboral": {
+          "experiencia": [
+            {
+              "ambitoPublico": "ORGANO_AUTONOMO",
+              "ambitoSector": {
+                "clave": "PUB",
+                "valor": "Público"
+              },
+              "areaAdscripcion": "Coordinacion Nacional de Recursos Humanos",
+              "empleoCargoComision": "Director de Relaciones Laborales",
+              "fechaEgreso": "2019-06-30",
+              "fechaIngreso": "2019-02-01",
+              "funcionPrincipal": "Otro (Especifique)",
+              "nivelOrdenGobierno": "FEDERAL",
+              "nombreEntePublico": "Instituto Nacional de Antropologia e Historia",
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "OTR",
+                "valor": "No aplica"
+              },
+              "area": "Coordinacion Nacional de Recursos Materiales y Servicios",
+              "fechaEgreso": "2018-11-30",
+              "fechaIngreso": "2018-07-16",
+              "nombreEmpresaSociedadAsociacion": "Instituto Nacional de Antropologia e Historia",
+              "puesto": "Director de Control y Gestion",
+              "rfc": "GUCA611130M35",
+              "sector": {
+                "clave": "OTRO",
+                "valor": "Otro (Especifique)"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "OTR",
+                "valor": "No aplica"
+              },
+              "area": "Direccion",
+              "fechaEgreso": "2015-09-14",
+              "fechaIngreso": "2012-03-01",
+              "nombreEmpresaSociedadAsociacion": "Comision de Agua Potable ,Alcantarillado y Saneamiento dfe Uruapan",
+              "puesto": "Encargado del Despacho de la Direccion",
+              "rfc": "GUCA611130M35",
+              "sector": {
+                "clave": "OTRO",
+                "valor": "Otro (Especifique)"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            },
+            {
+              "ambitoSector": {
+                "clave": "OTR",
+                "valor": "No aplica"
+              },
+              "area": "Direccion de Adquisiciones",
+              "fechaEgreso": "2011-12-31",
+              "fechaIngreso": "2009-10-01",
+              "nombreEmpresaSociedadAsociacion": "H Ayuntamiento de Uruapan, Michoacan",
+              "puesto": "Director de Adquisiciones",
+              "rfc": "GUCA611130M35",
+              "sector": {
+                "clave": "OTRO",
+                "valor": "Otro (Especifique)"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 32433
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 32433
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": false,
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 32433
+          }
+        },
+        "inversiones": {
+          "inversion": [
+            {
+              "localizacionInversion": {
+                "institucionRazonSocial": "HSBC",
+                "pais": "MX",
+                "rfc": "GUCA611130M35"
+              },
+              "saldoDiciembreAnterior": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "saldoSituacionActual": {
+                "moneda": "DATO RESERVADO",
+                "valor": 0
+              },
+              "subTipoInversion": {
+                "clave": "CMAS",
+                "valor": "CUENTA MAESTRA"
+              },
+              "tercero": [
+                {
+                  "nombreRazonSocial": "",
+                  "rfc": "",
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoInversion": {
+                "clave": "BANC",
+                "valor": "BANCARIA"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ]
+            }
+          ],
+          "ninguno": false
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        },
+        "vehiculos": {
+          "ninguno": false,
+          "vehiculo": [
+            {
+              "anio": 2014,
+              "fechaAdquisicion": "2019-04-15",
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Compraventa"
+              },
+              "formaPago": "CONTADO",
+              "marca": "AUDI",
+              "modelo": "A4 SPORTQUATTRO 2.0 TURBO FSI 225 HP",
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "tipoVehiculo": {
+                "clave": "AUMOT",
+                "valor": "Automóvil/ motocicleta"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "Declarante"
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "FISICA"
+                }
+              ],
+              "valorAdquisicion": {
+                "moneda": "MXN",
+                "valor": 265000
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "40sftofpmv",
+    "metadata": {
+      "actualizacion": "2021-10-22T00:00:00Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": true,
+      "institucion": "Municipio de Uruapan Michoacán",
+      "tipo": "INICIAL"
+    }
+  }
+]

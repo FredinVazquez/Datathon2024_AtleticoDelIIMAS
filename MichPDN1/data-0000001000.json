@@ -1,0 +1,356 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": false,
+      "interes": {
+        "apoyos": {
+          "ninguno": true
+        },
+        "beneficiosPrivados": {
+          "ninguno": true
+        },
+        "clientesPrincipales": {
+          "ninguno": true
+        },
+        "fideicomisos": {
+          "ninguno": true
+        },
+        "participacion": {
+          "ninguno": true
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true
+        },
+        "representacion": {
+          "ninguno": true
+        }
+      },
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "actividadIndustialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "enajenacionBienes": {
+            "bienes": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "fechaConclusion": "2022-12-31",
+          "fechaIngreso": "2022-02-01",
+          "ingresoNetoAnualDeclarante": {
+            "moneda": "MXN",
+            "valor": 157800
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "moneda": "MXN"
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "otrosIngresosTotal": {
+            "moneda": "MXN"
+          },
+          "remuneracionNetaCargoPublico": {
+            "moneda": "MXN",
+            "valor": 157800
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            },
+            "servicios": []
+          },
+          "servidorPublicoAnioAnterior": true,
+          "totalIngresosNetosAnuales": {
+            "moneda": "MXN",
+            "valor": 157800
+          }
+        },
+        "adeudos": {
+          "ninguno": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "bienesMuebles": {
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "Secundaria",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2022-01-14",
+              "institucionEducativa": {
+                "nombre": "INEA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "SEC",
+                "valor": "SECUNDARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosDependienteEconomico": {
+          "dependienteEconomico": [
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "domicilioExtranjero": {
+                "pais": "AF"
+              },
+              "domicilioMexico": {
+                "codigoPostal": "61700",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "MICHOACÁN DE OCAMPO"
+                },
+                "municipioAlcaldia": {
+                  "clave": "111",
+                  "valor": "Ziracuaretiro"
+                }
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2013-04-21",
+              "habitaDomicilioDeclarante": true,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "YOSELIN MONSERRAT",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "JUAREZ",
+              "proveedorContratistaGobierno": false,
+              "sector": {
+                "clave": "OTRO",
+                "valor": "OTRO (ESPECIFIQUE)"
+              },
+              "segundoApellido": "SANCHEZ",
+              "tipoOperacion": "AGREGAR"
+            },
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "domicilioExtranjero": {
+                "pais": "AF"
+              },
+              "domicilioMexico": {
+                "codigoPostal": "61700",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "MICHOACÁN DE OCAMPO"
+                },
+                "municipioAlcaldia": {
+                  "clave": "111",
+                  "valor": "Ziracuaretiro"
+                }
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2015-01-02",
+              "habitaDomicilioDeclarante": true,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "MARIA DEL CARMEN",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "JUAREZ",
+              "proveedorContratistaGobierno": false,
+              "sector": {
+                "clave": "OTRO",
+                "valor": "OTRO (ESPECIFIQUE)"
+              },
+              "segundoApellido": "SANCHEZ",
+              "tipoOperacion": "AGREGAR"
+            },
+            {
+              "actividadLaboral": {
+                "clave": "NIN",
+                "valor": "NINGUNO"
+              },
+              "domicilioExtranjero": {
+                "pais": "AF"
+              },
+              "domicilioMexico": {
+                "codigoPostal": "61700",
+                "entidadFederativa": {
+                  "clave": "16",
+                  "valor": "MICHOACÁN DE OCAMPO"
+                },
+                "municipioAlcaldia": {
+                  "clave": "111",
+                  "valor": "Ziracuaretiro"
+                }
+              },
+              "extranjero": false,
+              "fechaNacimiento": "2018-12-12",
+              "habitaDomicilioDeclarante": true,
+              "lugarDondeReside": "MEXICO",
+              "nombre": "OSCAR DANTE",
+              "parentescoRelacion": {
+                "clave": "HIJ",
+                "valor": "HIJO(A)"
+              },
+              "primerApellido": "JUAREZ",
+              "proveedorContratistaGobierno": false,
+              "sector": {
+                "clave": "OTRO",
+                "valor": "OTRO (ESPECIFIQUE)"
+              },
+              "segundoApellido": "SANCHEZ",
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "Dirección de Seguridad Pública",
+          "contratadoPorHonorarios": false,
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "Abasolo",
+            "codigoPostal": "61700",
+            "coloniaLocalidad": "Centro, Ziracuaretiro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "111",
+              "valor": "Ziracuaretiro"
+            },
+            "numeroExterior": "S/n",
+            "numeroInterior": "S/n"
+          },
+          "empleoCargoComision": "POLICÍA RAZO",
+          "fechaTomaPosesion": "2023-05-01",
+          "funcionPrincipal": "Seguridad y vigilancia",
+          "nivelEmpleoCargoComision": "POLICÍA RAZO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "Ziracuaretiro",
+          "telefonoOficina": {
+            "extension": "0",
+            "telefono": "4235930044"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ELIZABETH MONSERRAT",
+          "primerApellido": "SANCHEZ",
+          "segundoApellido": "HERNANDEZ"
+        },
+        "datosPareja": {
+          "ninguno": true
+        },
+        "domicilioDeclarante": {
+          "domicilioExtranjero": {
+            "pais": "AF"
+          },
+          "domicilioMexico": {
+            "calle": "Cuauhtémoc",
+            "codigoPostal": "61700",
+            "coloniaLocalidad": "El Panteón, Ziracuaretiro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "111",
+              "valor": "Ziracuaretiro"
+            },
+            "numeroExterior": "261",
+            "numeroInterior": "S/n"
+          }
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "actividadIndustialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN"
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN"
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 9600
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN"
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 9600
+          }
+        },
+        "inversiones": {
+          "ninguno": true
+        },
+        "prestamoOComodato": {
+          "ninguno": true
+        },
+        "vehiculos": {
+          "ninguno": true
+        }
+      }
+    },
+    "id": "8zn6f94ov7",
+    "metadata": {
+      "actualizacion": "2023-05-31T15:38:36Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "Ziracuaretiro",
+      "tipo": "INICIAL"
+    }
+  }
+]

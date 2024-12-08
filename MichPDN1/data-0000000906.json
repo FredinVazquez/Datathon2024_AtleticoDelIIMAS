@@ -1,0 +1,99 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": null
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2022-06-13T00:00:00-0500",
+              "institucionEducativa": {
+                "nombre": "COLEGIO DE BACHILLERES DEL ESTADO DE MICHOACAN",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "UNIDAD BASICA DE REABILITACION",
+          "contratadoPorHonorarios": true,
+          "domicilioExtranjero": {
+            "calle": "",
+            "ciudadLocalidad": "",
+            "codigoPostal": "",
+            "estadoProvincia": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "pais": ""
+          },
+          "domicilioMexico": {
+            "calle": "HACIENDA CORRALEJO",
+            "codigoPostal": "58420",
+            "coloniaLocalidad": "CENTRO",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "MICHOACÁN DE OCAMPO"
+            },
+            "municipioAlcaldia": {
+              "clave": "073",
+              "valor": "QUIROGA"
+            },
+            "numeroExterior": "S/N",
+            "numeroInterior": "S/N"
+          },
+          "empleoCargoComision": "AUXILIAR DE ADMINISTRACION",
+          "fechaTomaPosesion": "2021-09-03T00:00:00-0500",
+          "funcionPrincipal": "ATENCIÓNALACIUDADANIA,MANEJODEEXPEDIENTES,ORIENTACIONALACUIDADANIAENGENRAL",
+          "nivelEmpleoCargoComision": "AUXILIAR DE ADMINISTRACION",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "H AYUNTAMIETO DE QUIROGA",
+          "telefonoOficina": {
+            "telefono": "4543542227"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "MIRIAM",
+          "primerApellido": "SILVA",
+          "segundoApellido": "CONTRERAS"
+        },
+        "experienciaLaboral": {
+          "ninguno": true
+        },
+        "ingresos": {
+          "ingresoMensualNetoDeclarante": {
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {},
+          "totalIngresosMensualesNetos": {
+            "moneda": "",
+            "valor": -1
+          }
+        }
+      }
+    },
+    "id": "upwqwjzk8s",
+    "metadata": {
+      "actualizacion": "2022-06-16T17:35:54-0500",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "MUNICIPIO DE QUIROGA MICHOACÁN",
+      "tipo": "INICIAL"
+    }
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "ninguno",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "ninguna",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "ADMINISTRACION DE EMPRESAS",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "TRUNCO",
+              "fechaObtencion": "2013-07-10",
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD DE ESPECIALIDADES",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "ninguna",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "DIF MUNICIPAL",
+          "clasificacion": "Servidor[a] público[a] eventual",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "ENRIQUE RAMIREZ",
+            "codigoPostal": "59319",
+            "coloniaLocalidad": "Jardines del Carmen (Peña)",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "069",
+              "valor": "La Piedad"
+            },
+            "numeroExterior": "75",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "PROMOTOR",
+          "fechaTomaPosesion": "2022-11-15",
+          "funcionPrincipal": "PROMOVER PROGRAMAS ALIMENTARIOS",
+          "nivelEmpleoCargoComision": "EMPLEADO EVENTUAL",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "LA PIEDAD",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "3525220122"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ELBA",
+          "primerApellido": "AVILA",
+          "segundoApellido": "ARREOLA"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "ninguna",
+          "domicilioMexico": {
+            "calle": "GUSTAVO SOTO ARIAS",
+            "codigoPostal": "36910",
+            "coloniaLocalidad": "Santa Ana Pacueco",
+            "entidadFederativa": {
+              "clave": "11",
+              "valor": "Guanajuato"
+            },
+            "municipioAlcaldia": {
+              "clave": "023",
+              "valor": "Pénjamo"
+            },
+            "numeroExterior": "54",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "ninguno",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "ninguna",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 8681
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 8681
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 8681
+          }
+        }
+      }
+    },
+    "id": "jdz74zcyxy",
+    "metadata": {
+      "actualizacion": "2023-05-22T16:46:56Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "LA PIEDAD",
+      "tipo": "INICIAL"
+    }
+  }
+]

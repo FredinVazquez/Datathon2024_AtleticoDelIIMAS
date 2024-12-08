@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN MEDIA SUPERIOR",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2009-07-02",
+              "institucionEducativa": {
+                "nombre": "COLEGIO DE BACHILLERES PLANTEL GABRIEL ZAMORA",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "BCH",
+                "valor": "BACHILLERATO"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "NINGUNO",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "OFICIALIA",
+          "clasificacion": "Otro",
+          "contratadoPorHonorarios": true,
+          "domicilioMexico": {
+            "calle": "Ignacio Zaragoza",
+            "codigoPostal": "61730",
+            "coloniaLocalidad": "Lázaro Cárdenas",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "033",
+              "valor": "Gabriel Zamora"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "SN"
+          },
+          "empleoCargoComision": "LIMPIEZA",
+          "fechaTomaPosesion": "2021-09-15",
+          "funcionPrincipal": "AUXILIAR DE LIMPIEZA",
+          "nivelEmpleoCargoComision": "TERCERO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "GABRIEL ZAMORA",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4225215004"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ALEJANDRA",
+          "primerApellido": "CALDERON",
+          "segundoApellido": "RODRIGUEZ"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "NINGUNO",
+          "domicilioMexico": {
+            "calle": "AV. LAZARO CARDENAS",
+            "codigoPostal": "61740",
+            "coloniaLocalidad": "Charapendo",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "033",
+              "valor": "Gabriel Zamora"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "SN"
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 33750
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 33750
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 36750
+          }
+        }
+      }
+    },
+    "id": "48mk1dx77f",
+    "metadata": {
+      "actualizacion": "2023-05-31T16:18:23Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "GABRIEL ZAMORA",
+      "tipo": "INICIAL"
+    }
+  }
+]

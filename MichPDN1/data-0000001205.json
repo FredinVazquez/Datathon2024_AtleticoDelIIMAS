@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "sin comentarios",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "Administracion Empresas",
+              "documentoObtenido": "CONSTANCIA",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2015-06-19",
+              "institucionEducativa": {
+                "nombre": "UNE",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "sin comentarios que agregar",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "Archivo Municipal",
+          "clasificacion": "Empleado",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "zepeda esquina franscisco villa sn",
+            "codigoPostal": "59256",
+            "coloniaLocalidad": "La Estación",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "106",
+              "valor": "Yurécuaro"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "sn"
+          },
+          "empleoCargoComision": "AUXILIAR ADMINISTRATIVO",
+          "fechaTomaPosesion": "2022-06-01",
+          "funcionPrincipal": "Auxiliar Administrativo",
+          "nivelEmpleoCargoComision": "AUXILIAR ADMINISTRACION",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "YURÉCUARO",
+          "telefonoOficina": {
+            "extension": "1",
+            "lada": "52",
+            "telefono": "3565680644"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "DIANA MARIBEL",
+          "primerApellido": "TELLO",
+          "segundoApellido": "QUEVEDO"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "sin comentarios",
+          "domicilioMexico": {
+            "calle": "Lazaro Cardenas",
+            "codigoPostal": "59230",
+            "coloniaLocalidad": "El Calvario",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "086",
+              "valor": "Tanhuato"
+            },
+            "numeroExterior": "32",
+            "numeroInterior": "sn"
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral\r\nBancarias \r\nFinancieras\r\nRecuros Humanos",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 6500
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 6500
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 6500
+          }
+        }
+      }
+    },
+    "id": "re5wrae6g2",
+    "metadata": {
+      "actualizacion": "2023-05-31T19:12:57Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "YURÉCUARO",
+      "tipo": "INICIAL"
+    }
+  }
+]

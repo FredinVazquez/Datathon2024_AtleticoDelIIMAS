@@ -1,0 +1,159 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "NINGUNA",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "EDUCACIÓN BÁSICA",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2002-06-28",
+              "institucionEducativa": {
+                "nombre": "ESCUELA LAZARO CARDENAS",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "PRI",
+                "valor": "PRIMARIA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "NINGUNO",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "OFICIALIA",
+          "clasificacion": "Otro",
+          "contratadoPorHonorarios": true,
+          "domicilioMexico": {
+            "calle": "Ignacio Zaragoza",
+            "codigoPostal": "61730",
+            "coloniaLocalidad": "Lázaro Cárdenas",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "033",
+              "valor": "Gabriel Zamora"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "SN"
+          },
+          "empleoCargoComision": "AREAS VERDES",
+          "fechaTomaPosesion": "2023-02-02",
+          "funcionPrincipal": "PODAR",
+          "nivelEmpleoCargoComision": "TERCERO",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "GABRIEL ZAMORA",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "4225215004"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "REYES",
+          "primerApellido": "SANCHEZ",
+          "segundoApellido": "SANCHEZ"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "NINGUNA",
+          "domicilioMexico": {
+            "calle": "IGNACIO ALLENDE",
+            "codigoPostal": "61730",
+            "coloniaLocalidad": "Las Crucitas",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "033",
+              "valor": "Gabriel Zamora"
+            },
+            "numeroExterior": "SN",
+            "numeroInterior": "SN"
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "",
+          "experiencia": [],
+          "ninguno": true
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 20000
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 20000
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 20000
+          }
+        }
+      }
+    },
+    "id": "ysyiekbhw8",
+    "metadata": {
+      "actualizacion": "2023-05-30T21:20:43Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "GABRIEL ZAMORA",
+      "tipo": "INICIAL"
+    }
+  }
+]

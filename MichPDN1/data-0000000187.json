@@ -1,0 +1,178 @@
+[
+  {
+    "declaracion": {
+      "declaracionCompleta": true,
+      "situacionPatrimonial": {
+        "actividadAnualAnterior": {
+          "aclaracionesObservaciones": "",
+          "servidorPublicoAnioAnterior": true
+        },
+        "bienesInmuebles": {
+          "bienInmueble": [],
+          "ninguno": true
+        },
+        "datosCurricularesDeclarante": {
+          "aclaracionesObservaciones": "",
+          "escolaridad": [
+            {
+              "carreraAreaConocimiento": "ADMINISTRACION DE EMPRESAS",
+              "documentoObtenido": "CERTIFICADO",
+              "estatus": "FINALIZADO",
+              "fechaObtencion": "2022-08-29",
+              "institucionEducativa": {
+                "nombre": "UNIVER LA PIEDAD",
+                "ubicacion": "MX"
+              },
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "tipoOperacion": "AGREGAR"
+            }
+          ],
+          "ninguno": false
+        },
+        "datosEmpleoCargoComision": {
+          "aclaracionesObservaciones": "YA TENIA  LABORANDO A PARTIR DEL 2003, EN ESTA AREA DEL AGUA POTABLE , PERO NO NOS PEDIAN QUE PRESENTARMOS DECLARACIONES , LE COMENTO QUE POR LA INSEGURIDAD QUE SURGIO EN EL MUNICIPIO EN EL PERIODO SEPTIEMBRE 2021 Y POR MI INTEGRIDAD Y LA DE MI FAMILIA TUVE QUE RETIRARME, EN NOVIEMBRE DEL 2021.  AL LLEGAR EL CONCEJO MUNICIPAL TUVIERON A BIEN MANDARME LLAMAR PARA RETOMAR MI TRABAJO POR LO QUE INICIE  A LABORAL EL 02/01/2023 DE MANERA NORMAL.",
+          "ambitoPublico": "EJECUTIVO",
+          "areaAdscripcion": "AGUA POTABLE",
+          "clasificacion": "Empleado",
+          "contratadoPorHonorarios": false,
+          "domicilioMexico": {
+            "calle": "MORELOS",
+            "codigoPostal": "59470",
+            "coloniaLocalidad": "Penjamillo de Degollado Centro",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "067",
+              "valor": "Penjamillo"
+            },
+            "numeroExterior": "07",
+            "numeroInterior": ""
+          },
+          "empleoCargoComision": "SECRETARIA",
+          "fechaTomaPosesion": "2023-01-02",
+          "funcionPrincipal": "RECIBIR Y CONTESTAR DOCUEMNTACION, CAPTURAR, ATENCION AL CLIENTE",
+          "nivelEmpleoCargoComision": "2",
+          "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+          "nombreEntePublico": "PENJAMILLO",
+          "telefonoOficina": {
+            "extension": "",
+            "lada": "52",
+            "telefono": "3595240882"
+          },
+          "tipoOperacion": "AGREGAR"
+        },
+        "datosGenerales": {
+          "nombre": "ANA FABIOLA",
+          "primerApellido": "ABARCA",
+          "segundoApellido": "MAGANA"
+        },
+        "domicilioDeclarante": {
+          "aclaracionesObservaciones": "",
+          "domicilioMexico": {
+            "calle": "5 DE MAYO",
+            "codigoPostal": "59470",
+            "coloniaLocalidad": "Barrio Pueblo Nuevo",
+            "entidadFederativa": {
+              "clave": "16",
+              "valor": "Michoacán de Ocampo"
+            },
+            "municipioAlcaldia": {
+              "clave": "067",
+              "valor": "Penjamillo"
+            },
+            "numeroExterior": "66",
+            "numeroInterior": ""
+          }
+        },
+        "experienciaLaboral": {
+          "aclaracionesObservaciones": "experienciaLaboral",
+          "experiencia": [
+            {
+              "ambitoSector": {
+                "clave": "OTR",
+                "valor": "Otro (Especifique)"
+              },
+              "area": "TIENDA",
+              "fechaEgreso": "2022-12-30",
+              "fechaIngreso": "2022-12-10",
+              "nombreEmpresaSociedadAsociacion": "TIENDA ESCOLAR PANINDICUARO CECYTEM 10",
+              "puesto": "EMPLEADA",
+              "rfc": "",
+              "sector": {
+                "clave": "OTRO",
+                "valor": "OTRO (ESPECIFIQUE)"
+              },
+              "tipoOperacion": "AGREGAR",
+              "ubicacion": "MX"
+            }
+          ],
+          "ninguno": false
+        },
+        "ingresos": {
+          "aclaracionesObservaciones": "",
+          "actividadFinanciera": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "actividades": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "ingresoMensualNetoDeclarante": {
+            "moneda": "MXN",
+            "valor": 9440
+          },
+          "ingresoMensualNetoParejaDependiente": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "otrosIngresos": {
+            "ingresos": [],
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            }
+          },
+          "otrosIngresosMensualesTotal": {
+            "moneda": "MXN",
+            "valor": 0
+          },
+          "remuneracionMensualCargoPublico": {
+            "moneda": "MXN",
+            "valor": 9440
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "moneda": "MXN",
+              "valor": 0
+            },
+            "servicios": []
+          },
+          "totalIngresosMensualesNetos": {
+            "moneda": "MXN",
+            "valor": 12440
+          }
+        }
+      }
+    },
+    "id": "amia5o9oj4",
+    "metadata": {
+      "actualizacion": "2023-05-16T15:04:13Z",
+      "actualizacionConflictoInteres": false,
+      "declaracionCompleta": false,
+      "institucion": "PENJAMILLO",
+      "tipo": "INICIAL"
+    }
+  }
+]
